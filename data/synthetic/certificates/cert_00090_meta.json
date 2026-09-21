@@ -1,0 +1,20 @@
+{
+  "id": "cert_00090",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Ananya Sundaram",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "STRI-20230090",
+    "registration_number": "REG671735",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 9.4)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00090.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00090_mask.png"
+}

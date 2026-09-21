@@ -1,0 +1,20 @@
+{
+  "id": "cert_00144",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "STRI-20230144",
+    "registration_number": "REG831100",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.49)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00144.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00144_mask.png"
+}

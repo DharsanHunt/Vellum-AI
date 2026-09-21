@@ -1,0 +1,25 @@
+{
+  "id": "cert_00131",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "modified_stamp",
+  "is_tampered": true,
+  "tamper_bbox": [
+    400,
+    460,
+    500,
+    560
+  ],
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "entities": {
+    "student_name": "Kavita Reddy",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "NIHS-20230131",
+    "registration_number": "REG727026",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.76)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00131.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00131_mask.png"
+}

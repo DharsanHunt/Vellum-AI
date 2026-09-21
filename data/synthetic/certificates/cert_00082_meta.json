@@ -1,0 +1,25 @@
+{
+  "id": "cert_00082",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_course",
+  "is_tampered": true,
+  "tamper_bbox": [
+    300,
+    295,
+    700,
+    335
+  ],
+  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "entities": {
+    "student_name": "Aditya Verma",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Doctor of Philosophy in Quantum Engineering",
+    "certificate_number": "NIHS-20230082",
+    "registration_number": "REG415544",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 9.26)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00082.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00082_mask.png"
+}

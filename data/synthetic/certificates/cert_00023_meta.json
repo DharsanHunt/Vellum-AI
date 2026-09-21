@@ -1,0 +1,25 @@
+{
+  "id": "cert_00023",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_date",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    485,
+    320,
+    515
+  ],
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "entities": {
+    "student_name": "Priya Sharma",
+    "institution": "Apex University of Technology",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "AUST-20230023",
+    "registration_number": "REG195126",
+    "issue_date": "29th February 2026",
+    "grade": "First Class Honours (CGPA: 9.09)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00023.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00023_mask.png"
+}

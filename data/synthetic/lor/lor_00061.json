@@ -1,0 +1,23 @@
+{
+  "id": "lor_00061",
+  "status": "CONFLICT",
+  "issue": "name_mismatch",
+  "issue_description": "Student name inside letter body ('Arun Rajendra Kumar') differs from verified profile ('Arun Kumar').",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Arun Rajendra Kumar",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Associate Professor",
+    "institution": "Global Institute of Science & Engineering",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Rajendra Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.\n\nDuring this tenure, Arun Rajendra Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Rajendra Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Rajendra Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+}

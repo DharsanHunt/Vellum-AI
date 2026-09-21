@@ -1,0 +1,20 @@
+{
+  "id": "cert_00114",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "NIHS-20230114",
+    "registration_number": "REG725550",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 9.72)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00114.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00114_mask.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cert_00045",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "PCU-20230045",
+    "registration_number": "REG685381",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.46)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00045.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00045_mask.png"
+}

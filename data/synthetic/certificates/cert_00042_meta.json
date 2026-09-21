@@ -1,0 +1,20 @@
+{
+  "id": "cert_00042",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Kavita Reddy",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "NIHS-20230042",
+    "registration_number": "REG732892",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.57)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00042.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00042_mask.png"
+}

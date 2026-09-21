@@ -1,0 +1,25 @@
+{
+  "id": "cert_00022",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_certificate_number",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    425,
+    350,
+    455
+  ],
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+  "entities": {
+    "student_name": "Rohan Gupta",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "STRI-99999999",
+    "registration_number": "REG137569",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.32)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00022.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00022_mask.png"
+}

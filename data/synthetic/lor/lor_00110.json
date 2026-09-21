@@ -1,0 +1,23 @@
+{
+  "id": "lor_00110",
+  "status": "CONFLICT",
+  "issue": "contradictory_claim",
+  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Arun Kumar",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+}

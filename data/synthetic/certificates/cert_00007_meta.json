@@ -1,0 +1,25 @@
+{
+  "id": "cert_00007",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_date",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    485,
+    320,
+    515
+  ],
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "NIHS-20230007",
+    "registration_number": "REG276693",
+    "issue_date": "29th February 2026",
+    "grade": "First Class with Distinction (CGPA: 9.59)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00007.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00007_mask.png"
+}

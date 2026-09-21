@@ -1,0 +1,25 @@
+{
+  "id": "cert_00113",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Arun Kumar' with 'Vishal Malhotra'",
+  "entities": {
+    "student_name": "Vishal Malhotra",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "MUC-20230113",
+    "registration_number": "REG211712",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.48)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00113.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00113_mask.png"
+}

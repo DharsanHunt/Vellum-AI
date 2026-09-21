@@ -1,0 +1,25 @@
+{
+  "id": "cert_00017",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "copy_paste_region",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    455,
+    300,
+    485
+  ],
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "entities": {
+    "student_name": "Kavita Reddy",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "GISE-20230017",
+    "registration_number": "REG194529",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 8.92)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00017.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00017_mask.png"
+}

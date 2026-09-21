@@ -1,0 +1,23 @@
+{
+  "id": "lor_00068",
+  "status": "CONFLICT",
+  "issue": "contradictory_claim",
+  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Priya Sharma",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+}

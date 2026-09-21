@@ -1,0 +1,20 @@
+{
+  "id": "cert_00129",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Arun Kumar",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230129",
+    "registration_number": "REG671740",
+    "issue_date": "15th July 2023",
+    "grade": "Grade A+ (CGPA: 8.82)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00129.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00129_mask.png"
+}

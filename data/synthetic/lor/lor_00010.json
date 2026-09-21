@@ -1,0 +1,23 @@
+{
+  "id": "lor_00010",
+  "status": "CONFLICT",
+  "issue": "name_mismatch",
+  "issue_description": "Student name inside letter body ('Sneha Rajendra Patel') differs from verified profile ('Sneha Patel').",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Sneha Rajendra Patel",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Associate Professor",
+    "institution": "Global Institute of Science & Engineering",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Rajendra Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.\n\nDuring this tenure, Sneha Rajendra Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Rajendra Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Rajendra Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+}

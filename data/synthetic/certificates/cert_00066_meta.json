@@ -1,0 +1,20 @@
+{
+  "id": "cert_00066",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Nikhil Nair",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230066",
+    "registration_number": "REG143815",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 8.4)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00066.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00066_mask.png"
+}

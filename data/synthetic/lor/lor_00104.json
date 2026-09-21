@@ -1,0 +1,23 @@
+{
+  "id": "lor_00104",
+  "status": "CONFLICT",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Arun Kumar",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "Apex University of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nUndergraduate Peer Tutor & Lab Assistant\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cert_00065",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "copy_paste_region",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    455,
+    300,
+    485
+  ],
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "entities": {
+    "student_name": "Arun Kumar",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230065",
+    "registration_number": "REG100481",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.29)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00065.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00065_mask.png"
+}

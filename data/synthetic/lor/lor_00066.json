@@ -1,0 +1,23 @@
+{
+  "id": "lor_00066",
+  "status": "VALID",
+  "issue": "valid",
+  "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
+  "is_valid": true,
+  "entities": {
+    "student_name": "Priya Sharma",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+}

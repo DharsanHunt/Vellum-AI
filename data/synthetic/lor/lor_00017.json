@@ -1,0 +1,23 @@
+{
+  "id": "lor_00017",
+  "status": "CONFLICT",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Arun Kumar",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "National Institute of Higher Studies",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
+    "skills": [
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nUndergraduate Peer Tutor & Lab Assistant\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
+}

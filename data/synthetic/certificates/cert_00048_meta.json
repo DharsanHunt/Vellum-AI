@@ -1,0 +1,20 @@
+{
+  "id": "cert_00048",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "PCU-20230048",
+    "registration_number": "REG911438",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 9.71)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00048.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00048_mask.png"
+}

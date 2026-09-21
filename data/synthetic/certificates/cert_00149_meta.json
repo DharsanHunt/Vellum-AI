@@ -1,0 +1,25 @@
+{
+  "id": "cert_00149",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "modified_stamp",
+  "is_tampered": true,
+  "tamper_bbox": [
+    400,
+    460,
+    500,
+    560
+  ],
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "entities": {
+    "student_name": "Vikram Malhotra",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "STRI-20230149",
+    "registration_number": "REG963067",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.02)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00149.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00149_mask.png"
+}

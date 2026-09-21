@@ -1,0 +1,20 @@
+{
+  "id": "cert_00108",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Sneha Patel",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "MUC-20230108",
+    "registration_number": "REG278933",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 9.46)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00108.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00108_mask.png"
+}

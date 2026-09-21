@@ -1,0 +1,25 @@
+{
+  "id": "cert_00119",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Ananya Sundaram",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "PCU-20230119",
+    "registration_number": "REG579216",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 8.55)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00119.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00119_mask.png"
+}

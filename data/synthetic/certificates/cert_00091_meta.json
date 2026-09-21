@@ -1,0 +1,25 @@
+{
+  "id": "cert_00091",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "MUC-20230091",
+    "registration_number": "REG126939",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 9.79)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00091.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00091_mask.png"
+}

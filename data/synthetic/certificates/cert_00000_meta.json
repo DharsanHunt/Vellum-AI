@@ -1,0 +1,20 @@
+{
+  "id": "cert_00000",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Kavita Reddy",
+    "institution": "Apex University of Technology",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "AUST-20230000",
+    "registration_number": "REG652612",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 8.48)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00000.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00000_mask.png"
+}

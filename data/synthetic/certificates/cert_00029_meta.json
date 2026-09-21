@@ -1,0 +1,25 @@
+{
+  "id": "cert_00029",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Arun Kumar",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "AUST-20230029",
+    "registration_number": "REG691481",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.26)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00029.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00029_mask.png"
+}

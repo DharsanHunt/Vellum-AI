@@ -1,0 +1,25 @@
+{
+  "id": "cert_00001",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "removed_signature",
+  "is_tampered": true,
+  "tamper_bbox": [
+    650,
+    470,
+    850,
+    525
+  ],
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "entities": {
+    "student_name": "Arun Kumar",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "PCU-20230001",
+    "registration_number": "REG380976",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 9.17)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00001.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00001_mask.png"
+}

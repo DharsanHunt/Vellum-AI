@@ -1,0 +1,102 @@
+{
+  "raw_datasets": {
+    "academic_certificates": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "doctamper": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "tdoc": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "staver": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "cedar": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "funsd": "AVAILABLE (2 files)",
+    "sidtd": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "aiforge": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)",
+    "lor": "DIRECTORY_CREATED (Awaiting manual placement / Restricted access)"
+  },
+  "splits": {
+    "train": {
+      "status": "VALID",
+      "certificates_count": 102,
+      "lors_count": 80,
+      "corrupted_images": [],
+      "missing_files": [],
+      "tampering_distribution": {
+        "clean": 35,
+        "removed_signature": 7,
+        "changed_course": 11,
+        "changed_date": 6,
+        "copy_paste_region": 10,
+        "modified_stamp": 8,
+        "changed_name": 8,
+        "changed_certificate_number": 8,
+        "changed_institution": 9
+      },
+      "lor_issues_distribution": {
+        "valid": 28,
+        "relationship_mismatch": 7,
+        "copy_text": 5,
+        "project_mismatch": 7,
+        "contradictory_claim": 5,
+        "name_mismatch": 10,
+        "institution_mismatch": 9,
+        "designation_mismatch": 5,
+        "date_mismatch": 4
+      }
+    },
+    "validation": {
+      "status": "VALID",
+      "certificates_count": 18,
+      "lors_count": 16,
+      "corrupted_images": [],
+      "missing_files": [],
+      "tampering_distribution": {
+        "clean": 7,
+        "removed_signature": 1,
+        "changed_course": 2,
+        "changed_date": 1,
+        "copy_paste_region": 2,
+        "modified_stamp": 1,
+        "changed_name": 1,
+        "changed_certificate_number": 1,
+        "changed_institution": 2
+      },
+      "lor_issues_distribution": {
+        "valid": 6,
+        "relationship_mismatch": 1,
+        "copy_text": 1,
+        "project_mismatch": 1,
+        "contradictory_claim": 1,
+        "name_mismatch": 2,
+        "institution_mismatch": 2,
+        "designation_mismatch": 1,
+        "date_mismatch": 1
+      }
+    },
+    "test": {
+      "status": "VALID",
+      "certificates_count": 30,
+      "lors_count": 24,
+      "corrupted_images": [],
+      "missing_files": [],
+      "tampering_distribution": {
+        "clean": 8,
+        "removed_signature": 2,
+        "changed_course": 3,
+        "changed_date": 2,
+        "copy_paste_region": 3,
+        "modified_stamp": 3,
+        "changed_name": 3,
+        "changed_certificate_number": 3,
+        "changed_institution": 3
+      },
+      "lor_issues_distribution": {
+        "valid": 6,
+        "relationship_mismatch": 2,
+        "copy_text": 2,
+        "project_mismatch": 2,
+        "contradictory_claim": 2,
+        "name_mismatch": 3,
+        "institution_mismatch": 3,
+        "designation_mismatch": 2,
+        "date_mismatch": 2
+      }
+    }
+  }
+}

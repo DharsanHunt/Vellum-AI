@@ -1,0 +1,25 @@
+{
+  "id": "cert_00031",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_course",
+  "is_tampered": true,
+  "tamper_bbox": [
+    300,
+    295,
+    700,
+    335
+  ],
+  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "entities": {
+    "student_name": "Vikram Malhotra",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Doctor of Philosophy in Quantum Engineering",
+    "certificate_number": "STRI-20230031",
+    "registration_number": "REG404131",
+    "issue_date": "15th July 2022",
+    "grade": "Grade A+ (CGPA: 9.58)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00031.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00031_mask.png"
+}

@@ -1,0 +1,19 @@
+DEPARTMENT OF ROBOTICS & AUTOMATION
+METROPOLITAN UNIVERSITY OF COMPUTING
+Date: October 24, 2024
+
+To the Graduate Admissions Committee,
+
+I am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.
+
+During this tenure, Rahul Deshmukh demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+
+Beyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
+
+Warm regards,
+
+Prof. Elena Rostova
+Distinguished Professor
+Robotics & Automation
+Metropolitan University of Computing
+Email: prof..elena.rostova@metropolit.edu

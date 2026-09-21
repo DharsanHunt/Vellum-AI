@@ -1,0 +1,23 @@
+{
+  "id": "lor_00099",
+  "status": "VALID",
+  "issue": "valid",
+  "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
+  "is_valid": true,
+  "entities": {
+    "student_name": "Sneha Patel",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Metropolitan University of Computing.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+}

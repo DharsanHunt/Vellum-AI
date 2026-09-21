@@ -1,0 +1,25 @@
+{
+  "id": "cert_00032",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Pooja Sharma'",
+  "entities": {
+    "student_name": "Pooja Sharma",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230032",
+    "registration_number": "REG642465",
+    "issue_date": "15th July 2023",
+    "grade": "Grade A+ (CGPA: 8.8)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00032.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00032_mask.png"
+}

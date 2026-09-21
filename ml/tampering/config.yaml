@@ -1,0 +1,17 @@
+model_name: "tampering_detector"
+version: "1.0.0"
+architecture: "DualHead_Forensic_UNet"
+input_shape: [3, 256, 256]
+training:
+  epochs: 10
+  batch_size: 8
+  learning_rate: 0.0008
+  weight_decay: 0.0001
+  bce_mask_weight: 1.5
+  cls_loss_weight: 1.0
+dataset: "DocTamper+Synthetic-Certificates"
+thresholds:
+  suspicious_classification: 0.50
+  pixel_tamper_threshold: 0.40
+  min_tamper_region_area: 120
+checkpoint: "models/tampering_detector.pt"

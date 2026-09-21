@@ -1,0 +1,20 @@
+{
+  "id": "cert_00027",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Ananya Sundaram",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "MUC-20230027",
+    "registration_number": "REG494358",
+    "issue_date": "15th July 2022",
+    "grade": "Grade A+ (CGPA: 9.49)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00027.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00027_mask.png"
+}

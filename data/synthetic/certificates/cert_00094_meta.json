@@ -1,0 +1,25 @@
+{
+  "id": "cert_00094",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "modified_stamp",
+  "is_tampered": true,
+  "tamper_bbox": [
+    400,
+    460,
+    500,
+    560
+  ],
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "entities": {
+    "student_name": "Rohan Gupta",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230094",
+    "registration_number": "REG901235",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 9.7)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00094.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00094_mask.png"
+}

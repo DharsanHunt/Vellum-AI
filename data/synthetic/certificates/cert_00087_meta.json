@@ -1,0 +1,20 @@
+{
+  "id": "cert_00087",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Aditya Verma",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230087",
+    "registration_number": "REG365373",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 8.72)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00087.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00087_mask.png"
+}

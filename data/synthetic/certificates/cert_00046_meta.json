@@ -1,0 +1,25 @@
+{
+  "id": "cert_00046",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_date",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    485,
+    320,
+    515
+  ],
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "entities": {
+    "student_name": "Rohan Gupta",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "PCU-20230046",
+    "registration_number": "REG943523",
+    "issue_date": "29th February 2026",
+    "grade": "First Class Honours (CGPA: 9.77)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00046.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00046_mask.png"
+}

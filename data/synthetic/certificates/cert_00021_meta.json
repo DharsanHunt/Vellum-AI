@@ -1,0 +1,20 @@
+{
+  "id": "cert_00021",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Deepika Joshi",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230021",
+    "registration_number": "REG476433",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 8.54)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00021.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00021_mask.png"
+}

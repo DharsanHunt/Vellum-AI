@@ -1,0 +1,25 @@
+{
+  "id": "cert_00080",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "PCU-20230080",
+    "registration_number": "REG101474",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 8.57)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00080.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00080_mask.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cert_00121",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_date",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    485,
+    320,
+    515
+  ],
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230121",
+    "registration_number": "REG897599",
+    "issue_date": "29th February 2026",
+    "grade": "Grade A+ (CGPA: 8.96)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00121.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00121_mask.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cert_00096",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Priya Sharma",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "GISE-20230096",
+    "registration_number": "REG231294",
+    "issue_date": "15th July 2023",
+    "grade": "First Class with Distinction (CGPA: 9.22)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00096.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00096_mask.png"
+}

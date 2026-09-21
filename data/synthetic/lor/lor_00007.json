@@ -1,0 +1,23 @@
+{
+  "id": "lor_00007",
+  "status": "CONFLICT",
+  "issue": "contradictory_claim",
+  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Aditya Verma",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Associate Professor",
+    "institution": "Global Institute of Science & Engineering",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2021-2023"
+  },
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+}

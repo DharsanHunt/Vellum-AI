@@ -1,0 +1,20 @@
+{
+  "id": "cert_00006",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Nikhil Nair",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "GISE-20230006",
+    "registration_number": "REG241423",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 8.45)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00006.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00006_mask.png"
+}

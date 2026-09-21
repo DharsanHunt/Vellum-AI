@@ -1,0 +1,20 @@
+{
+  "id": "cert_00123",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "NIHS-20230123",
+    "registration_number": "REG776833",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.6)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00123.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00123_mask.png"
+}

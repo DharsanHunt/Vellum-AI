@@ -1,0 +1,9 @@
+model_name: "lor_nlp_analyzer"
+version: "1.0.0"
+algorithm: "HeuristicNER_FuzzyMatching_TemplateDetection"
+thresholds:
+  template_similarity: 0.75
+  name_match_strict: 0.88
+  name_match_variation: 0.70
+  institution_similarity: 0.60
+dataset: "Synthetic-LOR-10K"

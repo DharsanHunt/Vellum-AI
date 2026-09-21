@@ -1,0 +1,25 @@
+{
+  "id": "cert_00011",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "modified_stamp",
+  "is_tampered": true,
+  "tamper_bbox": [
+    400,
+    460,
+    500,
+    560
+  ],
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "entities": {
+    "student_name": "Deepika Joshi",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "PCU-20230011",
+    "registration_number": "REG638289",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.33)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00011.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00011_mask.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cert_00099",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Apex University of Technology",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "AUST-20230099",
+    "registration_number": "REG764244",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 8.46)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00099.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00099_mask.png"
+}

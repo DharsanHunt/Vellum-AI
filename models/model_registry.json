@@ -1,0 +1,80 @@
+{
+  "stamp_verifier": {
+    "version": "1.0.0",
+    "algorithm": "HSVInkIsolation_HoughGeometry_ColorHistCorr",
+    "dataset": "StaVer+SyntheticStamps",
+    "metrics": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "lor_nlp_analyzer": {
+    "version": "1.0.0",
+    "dataset": "Synthetic-LOR-10K",
+    "algorithm": "HeuristicNER_FuzzyMatching_TemplateDetection",
+    "metrics": {
+      "accuracy": 0.75,
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571,
+      "roc_auc": 0.5556
+    }
+  },
+  "evidence_fusion_engine": {
+    "version": "1.0.0",
+    "algorithm": "ProbabilisticWeightedEvidenceFusion",
+    "dataset": "MultiModal-Forensic-Fusion-Benchmark",
+    "metrics": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    }
+  },
+  "document_classifier": {
+    "version": "1.0.0",
+    "architecture": "LightweightConvNet_EmbeddingHead",
+    "dataset": "Academic-Certificates-Synthesis",
+    "classes": [
+      "ACADEMIC_CERTIFICATE",
+      "TRANSCRIPT",
+      "RECOMMENDATION_LETTER",
+      "ID_PASSPORT",
+      "INTERNSHIP_CERTIFICATE"
+    ],
+    "metrics": {
+      "accuracy": 0.98,
+      "f1": 0.98,
+      "loss": 0.0003
+    }
+  },
+  "tampering_detector": {
+    "version": "1.0.0",
+    "architecture": "DualHead_Forensic_UNet",
+    "dataset": "DocTamper+Synthetic-Certificates",
+    "metrics": {
+      "accuracy": 0.7333,
+      "precision": 0.7333,
+      "recall": 1.0,
+      "f1": 0.8462,
+      "roc_auc": 0.8551,
+      "pixel_iou": 0.0409,
+      "dice": 0.0785
+    }
+  },
+  "signature_siamese_model": {
+    "version": "1.0.0",
+    "architecture": "SiameseSignatureNet_ContrastiveMetricLearning",
+    "dataset": "CEDAR+SyntheticSignatures",
+    "metrics": {
+      "accuracy": 0.775,
+      "precision": 0.6897,
+      "recall": 1.0,
+      "f1": 0.8163,
+      "roc_auc": 0.9463
+    }
+  }
+}

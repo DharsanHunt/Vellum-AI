@@ -1,0 +1,20 @@
+{
+  "id": "cert_00102",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Arun Kumar",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "GISE-20230102",
+    "registration_number": "REG741530",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.18)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00102.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00102_mask.png"
+}

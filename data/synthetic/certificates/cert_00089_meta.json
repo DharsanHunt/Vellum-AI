@@ -1,0 +1,25 @@
+{
+  "id": "cert_00089",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Deepika Joshi",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230089",
+    "registration_number": "REG191875",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.5)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00089.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00089_mask.png"
+}

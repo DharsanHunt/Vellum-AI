@@ -1,0 +1,20 @@
+{
+  "id": "cert_00030",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Sneha Patel",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "NIHS-20230030",
+    "registration_number": "REG380081",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.5)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00030.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00030_mask.png"
+}

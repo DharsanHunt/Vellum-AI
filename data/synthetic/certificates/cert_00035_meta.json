@@ -1,0 +1,25 @@
+{
+  "id": "cert_00035",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "removed_signature",
+  "is_tampered": true,
+  "tamper_bbox": [
+    650,
+    470,
+    850,
+    525
+  ],
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "entities": {
+    "student_name": "Vikram Malhotra",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "GISE-20230035",
+    "registration_number": "REG328398",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 8.93)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00035.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00035_mask.png"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lor_00094",
+  "status": "CONFLICT",
+  "issue": "institution_mismatch",
+  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Pacific Coast University'.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Senior Research Director",
+    "institution": "Fake Stanford Affiliate College of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nFake Stanford Affiliate College of Technology\nEmail: .rajeshwar.rao@fakestanfo.edu"
+}

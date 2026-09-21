@@ -1,0 +1,25 @@
+{
+  "id": "cert_00095",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Kavita Reddy' with 'Ananya Menon'",
+  "entities": {
+    "student_name": "Ananya Menon",
+    "institution": "Apex University of Technology",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "AUST-20230095",
+    "registration_number": "REG446533",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.33)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00095.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00095_mask.png"
+}

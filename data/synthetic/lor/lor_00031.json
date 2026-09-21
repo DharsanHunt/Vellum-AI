@@ -1,0 +1,23 @@
+{
+  "id": "lor_00031",
+  "status": "CONFLICT",
+  "issue": "contradictory_claim",
+  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Sneha Patel",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Senior Research Director",
+    "institution": "National Institute of Higher Studies",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "skills": [
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
+}

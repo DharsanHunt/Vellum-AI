@@ -1,0 +1,20 @@
+{
+  "id": "cert_00018",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Nikhil Nair",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230018",
+    "registration_number": "REG431699",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 8.75)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00018.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00018_mask.png"
+}

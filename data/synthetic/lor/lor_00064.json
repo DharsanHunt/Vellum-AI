@@ -1,0 +1,23 @@
+{
+  "id": "lor_00064",
+  "status": "CONFLICT",
+  "issue": "institution_mismatch",
+  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'National Institute of Higher Studies'.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Aditya Verma",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Associate Professor",
+    "institution": "Fake Stanford Affiliate College of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "skills": [
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
+    ],
+    "dates_taught": "2021-2023"
+  },
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nFake Stanford Affiliate College of Technology\nEmail: .meenakshi.sundaram@fakestanfo.edu"
+}

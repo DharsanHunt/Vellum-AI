@@ -1,0 +1,23 @@
+{
+  "id": "lor_00008",
+  "status": "CONFLICT",
+  "issue": "project_mismatch",
+  "issue_description": "Recommender praises project 'Civil Concrete Stress Analysis and Highway Asphalt Durability' which contradicts candidate's degree curriculum in B.Tech Computer Science.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Arun Kumar",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Senior Research Director",
+    "institution": "National Institute of Higher Studies",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Civil Concrete Stress Analysis and Highway Asphalt Durability",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Distributed Systems",
+      "Kubernetes"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
+}

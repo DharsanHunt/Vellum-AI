@@ -1,0 +1,25 @@
+{
+  "id": "cert_00038",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "removed_signature",
+  "is_tampered": true,
+  "tamper_bbox": [
+    650,
+    470,
+    850,
+    525
+  ],
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "NIHS-20230038",
+    "registration_number": "REG226482",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 9.65)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00038.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00038_mask.png"
+}

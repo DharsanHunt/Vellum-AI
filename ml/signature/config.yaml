@@ -1,0 +1,15 @@
+model_name: "signature_model"
+version: "1.0.0"
+architecture: "SiameseSignatureNet_MetricLearning"
+embedding_dim: 64
+input_shape: [1, 128, 128]
+training:
+  epochs: 10
+  batch_size: 16
+  learning_rate: 0.001
+  margin: 1.0
+dataset: "CEDAR+SyntheticSignatures"
+thresholds:
+  match_similarity: 0.75
+  confidence_threshold: 0.80
+checkpoint: "models/signature_siamese.pt"

@@ -1,0 +1,17 @@
+model_name: "evidence_fusion_engine"
+version: "1.0.0"
+algorithm: "ProbabilisticWeightedEvidenceFusion"
+weights:
+  tampering_probability: 0.30
+  signature_similarity: 0.18
+  stamp_presence: 0.12
+  cross_doc_consistency: 0.20
+  issuer_verification: 0.10
+  ocr_confidence: 0.05
+  qr_verification: 0.05
+thresholds:
+  genuine_max_risk: 0.25
+  manual_review_max_risk: 0.50
+  suspicious_max_risk: 0.75
+dataset: "MultiModal-Forensic-Fusion-Benchmark"
+checkpoint: "models/fusion_weights.json"

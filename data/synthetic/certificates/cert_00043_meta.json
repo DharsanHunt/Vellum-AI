@@ -1,0 +1,25 @@
+{
+  "id": "cert_00043",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Aditya Verma",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "PCU-20230043",
+    "registration_number": "REG216632",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 8.3)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00043.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00043_mask.png"
+}

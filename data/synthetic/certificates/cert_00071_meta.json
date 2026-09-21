@@ -1,0 +1,25 @@
+{
+  "id": "cert_00071",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_course",
+  "is_tampered": true,
+  "tamper_bbox": [
+    300,
+    295,
+    700,
+    335
+  ],
+  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Doctor of Philosophy in Quantum Engineering",
+    "certificate_number": "STRI-20230071",
+    "registration_number": "REG606622",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 9.56)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00071.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00071_mask.png"
+}

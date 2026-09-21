@@ -1,0 +1,25 @@
+{
+  "id": "cert_00074",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Nikhil Nair' with 'Amit Verma'",
+  "entities": {
+    "student_name": "Amit Verma",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "PCU-20230074",
+    "registration_number": "REG605456",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 8.67)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00074.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00074_mask.png"
+}

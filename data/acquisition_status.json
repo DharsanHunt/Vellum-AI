@@ -1,0 +1,44 @@
+{
+  "funsd": {
+    "status": "AVAILABLE",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\funsd"
+  },
+  "cedar": {
+    "status": "MANUAL_ACCESS_REQUIRED",
+    "instructions": "Visit https://cedar.buffalo.edu/NIJ/data/signatures.html to register and request academic access. Place extracted signers in /data/raw/cedar/.",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\cedar"
+  },
+  "doctamper": {
+    "status": "MANUAL_ACCESS_REQUIRED",
+    "instructions": "Request download credentials via https://github.com/ZechengHe/DocTamper. Place training and benchmark splits in /data/raw/doctamper/.",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\doctamper"
+  },
+  "tdoc": {
+    "status": "MANUAL_ACCESS_REQUIRED",
+    "instructions": "Access via https://github.com/HCIILAB/TDoc-2.8M. For single-machine training, download the recommended 5,000-sample mini-subset into /data/raw/tdoc/.",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\tdoc"
+  },
+  "staver": {
+    "status": "MANUAL_ACCESS_REQUIRED",
+    "instructions": "Official repo: https://github.com/iapr-tc11/StaVer-dataset. Place stamp scans and masks in /data/raw/staver/.",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\staver"
+  },
+  "academic_certificates": {
+    "status": "SYNTHETIC_FALLBACK_ACTIVE",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\academic_certificates"
+  },
+  "sidtd": {
+    "status": "MANUAL_ACCESS_REQUIRED",
+    "instructions": "Repository at https://github.com/ComputerVisionCentre/SIDTD. Place sample subsets into /data/raw/sidtd/.",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\sidtd"
+  },
+  "aiforge": {
+    "status": "MANUAL_ACCESS_REQUIRED",
+    "instructions": "Repository at https://github.com/AIForge-Doc/Benchmark. Place generative diffusion samples in /data/raw/aiforge/.",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\aiforge"
+  },
+  "lor": {
+    "status": "SYNTHETIC_FALLBACK_ACTIVE",
+    "directory": "C:\\Users\\dhars\\Projects\\AI project\\data\\raw\\lor"
+  }
+}

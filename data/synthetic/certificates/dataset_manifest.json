@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "cert_00000",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "AUST-20230000",
+      "registration_number": "REG652612",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.48)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00000.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00000_mask.png"
+  },
+  {
+    "id": "cert_00001",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-20230001",
+      "registration_number": "REG380976",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.17)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00001.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00001_mask.png"
+  },
+  {
+    "id": "cert_00002",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Apex University of Technology",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "AUST-20230002",
+      "registration_number": "REG965456",
+      "issue_date": "15th July 2022",
+      "grade": "Grade A+ (CGPA: 9.62)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00002.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00002_mask.png"
+  },
+  {
+    "id": "cert_00003",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "GISE-20230003",
+      "registration_number": "REG991526",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 9.12)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00003.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00003_mask.png"
+  },
+  {
+    "id": "cert_00004",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "NIHS-20230004",
+      "registration_number": "REG144082",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 9.73)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00004.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00004_mask.png"
+  },
+  {
+    "id": "cert_00005",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "STRI-20230005",
+      "registration_number": "REG367930",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.56)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00005.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00005_mask.png"
+  },
+  {
+    "id": "cert_00006",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "GISE-20230006",
+      "registration_number": "REG241423",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 8.45)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00006.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00006_mask.png"
+  },
+  {
+    "id": "cert_00007",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "NIHS-20230007",
+      "registration_number": "REG276693",
+      "issue_date": "29th February 2026",
+      "grade": "First Class with Distinction (CGPA: 9.59)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00007.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00007_mask.png"
+  },
+  {
+    "id": "cert_00008",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "AUST-20230008",
+      "registration_number": "REG701702",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.51)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00008.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00008_mask.png"
+  },
+  {
+    "id": "cert_00009",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "STRI-20230009",
+      "registration_number": "REG344156",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.73)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00009.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00009_mask.png"
+  },
+  {
+    "id": "cert_00010",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "NIHS-20230010",
+      "registration_number": "REG817905",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.34)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00010.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00010_mask.png"
+  },
+  {
+    "id": "cert_00011",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "PCU-20230011",
+      "registration_number": "REG638289",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.33)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00011.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00011_mask.png"
+  },
+  {
+    "id": "cert_00012",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "STRI-20230012",
+      "registration_number": "REG312142",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.26)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00012.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00012_mask.png"
+  },
+  {
+    "id": "cert_00013",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-20230013",
+      "registration_number": "REG909355",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.29)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00013.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00013_mask.png"
+  },
+  {
+    "id": "cert_00014",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Kavita Reddy' with 'Shreya Patel'",
+    "entities": {
+      "student_name": "Shreya Patel",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "NIHS-20230014",
+      "registration_number": "REG377443",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.27)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00014.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00014_mask.png"
+  },
+  {
+    "id": "cert_00015",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "PCU-20230015",
+      "registration_number": "REG182793",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.06)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00015.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00015_mask.png"
+  },
+  {
+    "id": "cert_00016",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Rahul Deshmukh' with 'Rajesh Deshmukh'",
+    "entities": {
+      "student_name": "Rajesh Deshmukh",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "STRI-20230016",
+      "registration_number": "REG370073",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 8.95)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00016.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00016_mask.png"
+  },
+  {
+    "id": "cert_00017",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "GISE-20230017",
+      "registration_number": "REG194529",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 8.92)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00017.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00017_mask.png"
+  },
+  {
+    "id": "cert_00018",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "GISE-20230018",
+      "registration_number": "REG431699",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 8.75)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00018.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00018_mask.png"
+  },
+  {
+    "id": "cert_00019",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'PCU-99999999'",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-99999999",
+      "registration_number": "REG729635",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.45)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00019.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00019_mask.png"
+  },
+  {
+    "id": "cert_00020",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "AUST-20230020",
+      "registration_number": "REG746639",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.77)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00020.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00020_mask.png"
+  },
+  {
+    "id": "cert_00021",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "GISE-20230021",
+      "registration_number": "REG476433",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 8.54)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00021.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00021_mask.png"
+  },
+  {
+    "id": "cert_00022",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "STRI-99999999",
+      "registration_number": "REG137569",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.32)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00022.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00022_mask.png"
+  },
+  {
+    "id": "cert_00023",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "AUST-20230023",
+      "registration_number": "REG195126",
+      "issue_date": "29th February 2026",
+      "grade": "First Class Honours (CGPA: 9.09)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00023.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00023_mask.png"
+  },
+  {
+    "id": "cert_00024",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "STRI-20230024",
+      "registration_number": "REG384742",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 8.53)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00024.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00024_mask.png"
+  },
+  {
+    "id": "cert_00025",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "GISE-20230025",
+      "registration_number": "REG751270",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.65)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00025.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00025_mask.png"
+  },
+  {
+    "id": "cert_00026",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "GISE-20230026",
+      "registration_number": "REG255266",
+      "issue_date": "15th July 2022",
+      "grade": "Grade A+ (CGPA: 8.4)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00026.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00026_mask.png"
+  },
+  {
+    "id": "cert_00027",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Ananya Sundaram",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "MUC-20230027",
+      "registration_number": "REG494358",
+      "issue_date": "15th July 2022",
+      "grade": "Grade A+ (CGPA: 9.49)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00027.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00027_mask.png"
+  },
+  {
+    "id": "cert_00028",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "PCU-20230028",
+      "registration_number": "REG198132",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.53)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00028.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00028_mask.png"
+  },
+  {
+    "id": "cert_00029",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "AUST-20230029",
+      "registration_number": "REG691481",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.26)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00029.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00029_mask.png"
+  },
+  {
+    "id": "cert_00030",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "NIHS-20230030",
+      "registration_number": "REG380081",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.5)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00030.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00030_mask.png"
+  },
+  {
+    "id": "cert_00031",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "STRI-20230031",
+      "registration_number": "REG404131",
+      "issue_date": "15th July 2022",
+      "grade": "Grade A+ (CGPA: 9.58)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00031.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00031_mask.png"
+  },
+  {
+    "id": "cert_00032",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Pooja Sharma'",
+    "entities": {
+      "student_name": "Pooja Sharma",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "NIHS-20230032",
+      "registration_number": "REG642465",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 8.8)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00032.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00032_mask.png"
+  },
+  {
+    "id": "cert_00033",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "AUST-20230033",
+      "registration_number": "REG550768",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 8.64)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00033.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00033_mask.png"
+  },
+  {
+    "id": "cert_00034",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-99999999",
+      "registration_number": "REG175751",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 9.32)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00034.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00034_mask.png"
+  },
+  {
+    "id": "cert_00035",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "GISE-20230035",
+      "registration_number": "REG328398",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 8.93)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00035.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00035_mask.png"
+  },
+  {
+    "id": "cert_00036",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "STRI-20230036",
+      "registration_number": "REG681889",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 8.85)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00036.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00036_mask.png"
+  },
+  {
+    "id": "cert_00037",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "MUC-20230037",
+      "registration_number": "REG617489",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.21)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00037.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00037_mask.png"
+  },
+  {
+    "id": "cert_00038",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "NIHS-20230038",
+      "registration_number": "REG226482",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 9.65)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00038.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00038_mask.png"
+  },
+  {
+    "id": "cert_00039",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "PCU-20230039",
+      "registration_number": "REG651640",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 9.54)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00039.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00039_mask.png"
+  },
+  {
+    "id": "cert_00040",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Rohan Gupta' with 'Shreya Patel'",
+    "entities": {
+      "student_name": "Shreya Patel",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "GISE-20230040",
+      "registration_number": "REG266396",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 8.72)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00040.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00040_mask.png"
+  },
+  {
+    "id": "cert_00041",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'MUC-99999999'",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "MUC-99999999",
+      "registration_number": "REG845540",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.36)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00041.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00041_mask.png"
+  },
+  {
+    "id": "cert_00042",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "NIHS-20230042",
+      "registration_number": "REG732892",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.57)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00042.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00042_mask.png"
+  },
+  {
+    "id": "cert_00043",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "PCU-20230043",
+      "registration_number": "REG216632",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.3)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00043.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00043_mask.png"
+  },
+  {
+    "id": "cert_00044",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Ananya Sundaram",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "STRI-20230044",
+      "registration_number": "REG263908",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 8.64)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00044.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00044_mask.png"
+  },
+  {
+    "id": "cert_00045",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-20230045",
+      "registration_number": "REG685381",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.46)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00045.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00045_mask.png"
+  },
+  {
+    "id": "cert_00046",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "PCU-20230046",
+      "registration_number": "REG943523",
+      "issue_date": "29th February 2026",
+      "grade": "First Class Honours (CGPA: 9.77)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00046.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00046_mask.png"
+  },
+  {
+    "id": "cert_00047",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'MUC-99999999'",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "MUC-99999999",
+      "registration_number": "REG738079",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.88)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00047.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00047_mask.png"
+  },
+  {
+    "id": "cert_00048",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "PCU-20230048",
+      "registration_number": "REG911438",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.71)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00048.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00048_mask.png"
+  },
+  {
+    "id": "cert_00049",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'MUC-99999999'",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-99999999",
+      "registration_number": "REG729809",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.77)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00049.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00049_mask.png"
+  },
+  {
+    "id": "cert_00050",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Apex University of Technology",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "AUST-20230050",
+      "registration_number": "REG888847",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.7)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00050.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00050_mask.png"
+  },
+  {
+    "id": "cert_00051",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-20230051",
+      "registration_number": "REG619519",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.75)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00051.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00051_mask.png"
+  },
+  {
+    "id": "cert_00052",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "STRI-20230052",
+      "registration_number": "REG300965",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.26)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00052.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00052_mask.png"
+  },
+  {
+    "id": "cert_00053",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "STRI-20230053",
+      "registration_number": "REG552773",
+      "issue_date": "29th February 2026",
+      "grade": "First Class Honours (CGPA: 9.02)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00053.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00053_mask.png"
+  },
+  {
+    "id": "cert_00054",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "NIHS-20230054",
+      "registration_number": "REG191050",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 8.2)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00054.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00054_mask.png"
+  },
+  {
+    "id": "cert_00055",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'NIHS-99999999'",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "NIHS-99999999",
+      "registration_number": "REG291718",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 9.15)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00055.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00055_mask.png"
+  },
+  {
+    "id": "cert_00056",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "STRI-20230056",
+      "registration_number": "REG895582",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 9.31)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00056.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00056_mask.png"
+  },
+  {
+    "id": "cert_00057",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "NIHS-20230057",
+      "registration_number": "REG494928",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 9.5)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00057.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00057_mask.png"
+  },
+  {
+    "id": "cert_00058",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "GISE-20230058",
+      "registration_number": "REG506892",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 9.29)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00058.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00058_mask.png"
+  },
+  {
+    "id": "cert_00059",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "AUST-20230059",
+      "registration_number": "REG996059",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.51)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00059.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00059_mask.png"
+  },
+  {
+    "id": "cert_00060",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "STRI-20230060",
+      "registration_number": "REG627312",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.6)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00060.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00060_mask.png"
+  },
+  {
+    "id": "cert_00061",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "MUC-20230061",
+      "registration_number": "REG578462",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 8.42)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00061.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00061_mask.png"
+  },
+  {
+    "id": "cert_00062",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "AUST-20230062",
+      "registration_number": "REG635451",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.61)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00062.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00062_mask.png"
+  },
+  {
+    "id": "cert_00063",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "PCU-20230063",
+      "registration_number": "REG358542",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.9)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00063.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00063_mask.png"
+  },
+  {
+    "id": "cert_00064",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "AUST-20230064",
+      "registration_number": "REG125520",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 9.43)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00064.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00064_mask.png"
+  },
+  {
+    "id": "cert_00065",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "MUC-20230065",
+      "registration_number": "REG100481",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.29)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00065.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00065_mask.png"
+  },
+  {
+    "id": "cert_00066",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "MUC-20230066",
+      "registration_number": "REG143815",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 8.4)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00066.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00066_mask.png"
+  },
+  {
+    "id": "cert_00067",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "MUC-20230067",
+      "registration_number": "REG265853",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.57)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00067.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00067_mask.png"
+  },
+  {
+    "id": "cert_00068",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Arjun Kumar'",
+    "entities": {
+      "student_name": "Arjun Kumar",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "NIHS-20230068",
+      "registration_number": "REG114167",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.52)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00068.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00068_mask.png"
+  },
+  {
+    "id": "cert_00069",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "NIHS-20230069",
+      "registration_number": "REG793767",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.41)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00069.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00069_mask.png"
+  },
+  {
+    "id": "cert_00070",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "GISE-20230070",
+      "registration_number": "REG417511",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.04)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00070.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00070_mask.png"
+  },
+  {
+    "id": "cert_00071",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "STRI-20230071",
+      "registration_number": "REG606622",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 9.56)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00071.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00071_mask.png"
+  },
+  {
+    "id": "cert_00072",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "MUC-20230072",
+      "registration_number": "REG618933",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.54)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00072.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00072_mask.png"
+  },
+  {
+    "id": "cert_00073",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "MUC-20230073",
+      "registration_number": "REG480864",
+      "issue_date": "29th February 2026",
+      "grade": "First Class with Distinction (CGPA: 8.76)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00073.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00073_mask.png"
+  },
+  {
+    "id": "cert_00074",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Nikhil Nair' with 'Amit Verma'",
+    "entities": {
+      "student_name": "Amit Verma",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "PCU-20230074",
+      "registration_number": "REG605456",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.67)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00074.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00074_mask.png"
+  },
+  {
+    "id": "cert_00075",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Ananya Sundaram",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-20230075",
+      "registration_number": "REG588047",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 8.91)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00075.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00075_mask.png"
+  },
+  {
+    "id": "cert_00076",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Vikram Malhotra' with 'Vishal Malhotra'",
+    "entities": {
+      "student_name": "Vishal Malhotra",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "GISE-20230076",
+      "registration_number": "REG644890",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.61)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00076.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00076_mask.png"
+  },
+  {
+    "id": "cert_00077",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "NIHS-20230077",
+      "registration_number": "REG964560",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 8.45)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00077.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00077_mask.png"
+  },
+  {
+    "id": "cert_00078",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "STRI-20230078",
+      "registration_number": "REG937095",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 8.56)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00078.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00078_mask.png"
+  },
+  {
+    "id": "cert_00079",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Pacific Coast University",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "PCU-20230079",
+      "registration_number": "REG611788",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 8.42)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00079.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00079_mask.png"
+  },
+  {
+    "id": "cert_00080",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-20230080",
+      "registration_number": "REG101474",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.57)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00080.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00080_mask.png"
+  },
+  {
+    "id": "cert_00081",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-20230081",
+      "registration_number": "REG403579",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.56)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00081.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00081_mask.png"
+  },
+  {
+    "id": "cert_00082",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "NIHS-20230082",
+      "registration_number": "REG415544",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 9.26)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00082.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00082_mask.png"
+  },
+  {
+    "id": "cert_00083",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Deepika Joshi' with 'Pooja Sharma'",
+    "entities": {
+      "student_name": "Pooja Sharma",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "NIHS-20230083",
+      "registration_number": "REG775458",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.57)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00083.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00083_mask.png"
+  },
+  {
+    "id": "cert_00084",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "MUC-20230084",
+      "registration_number": "REG112184",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 8.65)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00084.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00084_mask.png"
+  },
+  {
+    "id": "cert_00085",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-20230085",
+      "registration_number": "REG209108",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.79)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00085.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00085_mask.png"
+  },
+  {
+    "id": "cert_00086",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "MUC-20230086",
+      "registration_number": "REG777658",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 8.33)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00086.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00086_mask.png"
+  },
+  {
+    "id": "cert_00087",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "NIHS-20230087",
+      "registration_number": "REG365373",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 8.72)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00087.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00087_mask.png"
+  },
+  {
+    "id": "cert_00088",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "AUST-20230088",
+      "registration_number": "REG875297",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 8.4)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00088.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00088_mask.png"
+  },
+  {
+    "id": "cert_00089",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "GISE-20230089",
+      "registration_number": "REG191875",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.5)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00089.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00089_mask.png"
+  },
+  {
+    "id": "cert_00090",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Ananya Sundaram",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "STRI-20230090",
+      "registration_number": "REG671735",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.4)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00090.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00090_mask.png"
+  },
+  {
+    "id": "cert_00091",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-20230091",
+      "registration_number": "REG126939",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.79)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00091.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00091_mask.png"
+  },
+  {
+    "id": "cert_00092",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Aditya Verma",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "AUST-20230092",
+      "registration_number": "REG104206",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.23)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00092.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00092_mask.png"
+  },
+  {
+    "id": "cert_00093",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "MUC-20230093",
+      "registration_number": "REG132584",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 9.55)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00093.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00093_mask.png"
+  },
+  {
+    "id": "cert_00094",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "NIHS-20230094",
+      "registration_number": "REG901235",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.7)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00094.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00094_mask.png"
+  },
+  {
+    "id": "cert_00095",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Kavita Reddy' with 'Ananya Menon'",
+    "entities": {
+      "student_name": "Ananya Menon",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "AUST-20230095",
+      "registration_number": "REG446533",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.33)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00095.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00095_mask.png"
+  },
+  {
+    "id": "cert_00096",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "GISE-20230096",
+      "registration_number": "REG231294",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 9.22)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00096.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00096_mask.png"
+  },
+  {
+    "id": "cert_00097",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "MUC-20230097",
+      "registration_number": "REG178740",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.52)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00097.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00097_mask.png"
+  },
+  {
+    "id": "cert_00098",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "STRI-99999999",
+      "registration_number": "REG280810",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.56)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00098.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00098_mask.png"
+  },
+  {
+    "id": "cert_00099",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "AUST-20230099",
+      "registration_number": "REG764244",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.46)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00099.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00099_mask.png"
+  },
+  {
+    "id": "cert_00100",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "PCU-20230100",
+      "registration_number": "REG857318",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.3)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00100.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00100_mask.png"
+  },
+  {
+    "id": "cert_00101",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-20230101",
+      "registration_number": "REG289686",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.51)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00101.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00101_mask.png"
+  },
+  {
+    "id": "cert_00102",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "GISE-20230102",
+      "registration_number": "REG741530",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.18)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00102.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00102_mask.png"
+  },
+  {
+    "id": "cert_00103",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "AUST-20230103",
+      "registration_number": "REG560118",
+      "issue_date": "29th February 2026",
+      "grade": "First Class Honours (CGPA: 9.45)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00103.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00103_mask.png"
+  },
+  {
+    "id": "cert_00104",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "AUST-20230104",
+      "registration_number": "REG199819",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.27)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00104.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00104_mask.png"
+  },
+  {
+    "id": "cert_00105",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "GISE-20230105",
+      "registration_number": "REG954773",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.42)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00105.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00105_mask.png"
+  },
+  {
+    "id": "cert_00106",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "STRI-20230106",
+      "registration_number": "REG784429",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.14)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00106.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00106_mask.png"
+  },
+  {
+    "id": "cert_00107",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Ananya Sundaram",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "PCU-20230107",
+      "registration_number": "REG141149",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.56)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00107.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00107_mask.png"
+  },
+  {
+    "id": "cert_00108",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-20230108",
+      "registration_number": "REG278933",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 9.46)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00108.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00108_mask.png"
+  },
+  {
+    "id": "cert_00109",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-20230109",
+      "registration_number": "REG484960",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.35)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00109.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00109_mask.png"
+  },
+  {
+    "id": "cert_00110",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "GISE-20230110",
+      "registration_number": "REG587836",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.45)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00110.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00110_mask.png"
+  },
+  {
+    "id": "cert_00111",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "MUC-20230111",
+      "registration_number": "REG420070",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.32)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00111.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00111_mask.png"
+  },
+  {
+    "id": "cert_00112",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "MUC-20230112",
+      "registration_number": "REG799501",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 8.5)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00112.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00112_mask.png"
+  },
+  {
+    "id": "cert_00113",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Arun Kumar' with 'Vishal Malhotra'",
+    "entities": {
+      "student_name": "Vishal Malhotra",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "MUC-20230113",
+      "registration_number": "REG211712",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.48)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00113.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00113_mask.png"
+  },
+  {
+    "id": "cert_00114",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "NIHS-20230114",
+      "registration_number": "REG725550",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 9.72)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00114.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00114_mask.png"
+  },
+  {
+    "id": "cert_00115",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'NIHS-99999999'",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "NIHS-99999999",
+      "registration_number": "REG499505",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 8.44)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00115.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00115_mask.png"
+  },
+  {
+    "id": "cert_00116",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "STRI-20230116",
+      "registration_number": "REG823778",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 9.24)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00116.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00116_mask.png"
+  },
+  {
+    "id": "cert_00117",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-20230117",
+      "registration_number": "REG720519",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 9.5)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00117.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00117_mask.png"
+  },
+  {
+    "id": "cert_00118",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "MUC-20230118",
+      "registration_number": "REG570459",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 9.57)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00118.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00118_mask.png"
+  },
+  {
+    "id": "cert_00119",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Ananya Sundaram",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-20230119",
+      "registration_number": "REG579216",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.55)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00119.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00119_mask.png"
+  },
+  {
+    "id": "cert_00120",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "AUST-20230120",
+      "registration_number": "REG187941",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 9.29)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00120.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00120_mask.png"
+  },
+  {
+    "id": "cert_00121",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "MUC-20230121",
+      "registration_number": "REG897599",
+      "issue_date": "29th February 2026",
+      "grade": "Grade A+ (CGPA: 8.96)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00121.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00121_mask.png"
+  },
+  {
+    "id": "cert_00122",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Rohan Gupta",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "GISE-20230122",
+      "registration_number": "REG259254",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.11)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00122.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00122_mask.png"
+  },
+  {
+    "id": "cert_00123",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "NIHS-20230123",
+      "registration_number": "REG776833",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.6)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00123.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00123_mask.png"
+  },
+  {
+    "id": "cert_00124",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'AUST-99999999'",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "AUST-99999999",
+      "registration_number": "REG659295",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.66)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00124.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00124_mask.png"
+  },
+  {
+    "id": "cert_00125",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "removed_signature",
+    "is_tampered": true,
+    "tamper_bbox": [
+      650,
+      470,
+      850,
+      525
+    ],
+    "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "GISE-20230125",
+      "registration_number": "REG159795",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.43)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00125.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00125_mask.png"
+  },
+  {
+    "id": "cert_00126",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Pacific Coast University",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "PCU-20230126",
+      "registration_number": "REG621296",
+      "issue_date": "15th July 2022",
+      "grade": "Grade A+ (CGPA: 9.28)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00126.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00126_mask.png"
+  },
+  {
+    "id": "cert_00127",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Meera Iyer",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "AUST-20230127",
+      "registration_number": "REG749375",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.23)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00127.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00127_mask.png"
+  },
+  {
+    "id": "cert_00128",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Deepika Joshi' with 'Ananya Menon'",
+    "entities": {
+      "student_name": "Ananya Menon",
+      "institution": "Pacific Coast University",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "PCU-20230128",
+      "registration_number": "REG865110",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.58)",
+      "authority": "Dean of Engineering"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00128.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00128_mask.png"
+  },
+  {
+    "id": "cert_00129",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "GISE-20230129",
+      "registration_number": "REG671740",
+      "issue_date": "15th July 2023",
+      "grade": "Grade A+ (CGPA: 8.82)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00129.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00129_mask.png"
+  },
+  {
+    "id": "cert_00130",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "MUC-20230130",
+      "registration_number": "REG361644",
+      "issue_date": "29th February 2026",
+      "grade": "Grade A+ (CGPA: 8.95)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00130.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00130_mask.png"
+  },
+  {
+    "id": "cert_00131",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Kavita Reddy",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "NIHS-20230131",
+      "registration_number": "REG727026",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.76)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00131.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00131_mask.png"
+  },
+  {
+    "id": "cert_00132",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-20230132",
+      "registration_number": "REG653949",
+      "issue_date": "15th July 2023",
+      "grade": "First Class Honours (CGPA: 8.49)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00132.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00132_mask.png"
+  },
+  {
+    "id": "cert_00133",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "STRI-20230133",
+      "registration_number": "REG158631",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 9.66)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00133.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00133_mask.png"
+  },
+  {
+    "id": "cert_00134",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "MUC-20230134",
+      "registration_number": "REG420350",
+      "issue_date": "15th July 2021",
+      "grade": "Grade A+ (CGPA: 8.6)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00134.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00134_mask.png"
+  },
+  {
+    "id": "cert_00135",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "NIHS-20230135",
+      "registration_number": "REG218349",
+      "issue_date": "15th July 2022",
+      "grade": "First Class with Distinction (CGPA: 9.53)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00135.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00135_mask.png"
+  },
+  {
+    "id": "cert_00136",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+    "entities": {
+      "student_name": "Deepika Joshi",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-99999999",
+      "registration_number": "REG117852",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.36)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00136.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00136_mask.png"
+  },
+  {
+    "id": "cert_00137",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_date",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      485,
+      320,
+      515
+    ],
+    "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "AUST-20230137",
+      "registration_number": "REG800046",
+      "issue_date": "29th February 2026",
+      "grade": "First Class with Distinction (CGPA: 9.16)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00137.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00137_mask.png"
+  },
+  {
+    "id": "cert_00138",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Sneha Patel",
+      "institution": "National Institute of Higher Studies",
+      "degree": "Bachelor of Science in Information Technology",
+      "certificate_number": "NIHS-20230138",
+      "registration_number": "REG964206",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.28)",
+      "authority": "Director of Certification"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00138.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00138_mask.png"
+  },
+  {
+    "id": "cert_00139",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_name",
+    "is_tampered": true,
+    "tamper_bbox": [
+      345,
+      195,
+      655,
+      235
+    ],
+    "tamper_explanation": "Potential name alteration detected: replaced 'Rahul Deshmukh' with 'Amit Verma'",
+    "entities": {
+      "student_name": "Amit Verma",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-20230139",
+      "registration_number": "REG225742",
+      "issue_date": "15th July 2021",
+      "grade": "First Class Honours (CGPA: 8.99)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00139.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00139_mask.png"
+  },
+  {
+    "id": "cert_00140",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_course",
+    "is_tampered": true,
+    "tamper_bbox": [
+      300,
+      295,
+      700,
+      335
+    ],
+    "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Doctor of Philosophy in Quantum Engineering",
+      "certificate_number": "MUC-20230140",
+      "registration_number": "REG832762",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.21)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00140.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00140_mask.png"
+  },
+  {
+    "id": "cert_00141",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Global Institute of Science & Engineering",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "GISE-20230141",
+      "registration_number": "REG490873",
+      "issue_date": "15th July 2021",
+      "grade": "First Class with Distinction (CGPA: 9.78)",
+      "authority": "Registrar & Controller of Examinations"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00141.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00141_mask.png"
+  },
+  {
+    "id": "cert_00142",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_certificate_number",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      425,
+      350,
+      455
+    ],
+    "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+    "entities": {
+      "student_name": "Nikhil Nair",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "STRI-99999999",
+      "registration_number": "REG704446",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 9.32)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00142.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00142_mask.png"
+  },
+  {
+    "id": "cert_00143",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Metropolitan University of Computing",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "MUC-20230143",
+      "registration_number": "REG965908",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 8.75)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00143.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00143_mask.png"
+  },
+  {
+    "id": "cert_00144",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Bachelor of Technology in Computer Science",
+      "certificate_number": "STRI-20230144",
+      "registration_number": "REG831100",
+      "issue_date": "15th July 2024",
+      "grade": "Grade A+ (CGPA: 9.49)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00144.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00144_mask.png"
+  },
+  {
+    "id": "cert_00145",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Priya Sharma",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "STRI-20230145",
+      "registration_number": "REG688317",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 8.69)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00145.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00145_mask.png"
+  },
+  {
+    "id": "cert_00146",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "copy_paste_region",
+    "is_tampered": true,
+    "tamper_bbox": [
+      75,
+      455,
+      300,
+      485
+    ],
+    "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+    "entities": {
+      "student_name": "Arun Kumar",
+      "institution": "Apex University of Technology",
+      "degree": "Master of Business Administration in Data Analytics",
+      "certificate_number": "AUST-20230146",
+      "registration_number": "REG380835",
+      "issue_date": "15th July 2024",
+      "grade": "First Class with Distinction (CGPA: 8.21)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00146.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00146_mask.png"
+  },
+  {
+    "id": "cert_00147",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "clean",
+    "is_tampered": false,
+    "tamper_bbox": null,
+    "tamper_explanation": "Pristine Authentic Document",
+    "entities": {
+      "student_name": "Rahul Deshmukh",
+      "institution": "Apex University of Technology",
+      "degree": "Bachelor of Engineering in Electronics",
+      "certificate_number": "AUST-20230147",
+      "registration_number": "REG500243",
+      "issue_date": "15th July 2022",
+      "grade": "First Class Honours (CGPA: 8.87)",
+      "authority": "Dean of Academic Affairs"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00147.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00147_mask.png"
+  },
+  {
+    "id": "cert_00148",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "changed_institution",
+    "is_tampered": true,
+    "tamper_bbox": [
+      250,
+      60,
+      750,
+      105
+    ],
+    "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Counterfeit Polytechnic Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "MUC-20230148",
+      "registration_number": "REG798336",
+      "issue_date": "15th July 2023",
+      "grade": "First Class with Distinction (CGPA: 9.39)",
+      "authority": "Vice Chancellor"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00148.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00148_mask.png"
+  },
+  {
+    "id": "cert_00149",
+    "document_type": "ACADEMIC_CERTIFICATE",
+    "tampering_type": "modified_stamp",
+    "is_tampered": true,
+    "tamper_bbox": [
+      400,
+      460,
+      500,
+      560
+    ],
+    "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+    "entities": {
+      "student_name": "Vikram Malhotra",
+      "institution": "Stanford Tech Research Institute",
+      "degree": "Master of Science in Artificial Intelligence",
+      "certificate_number": "STRI-20230149",
+      "registration_number": "REG963067",
+      "issue_date": "15th July 2024",
+      "grade": "First Class Honours (CGPA: 9.02)",
+      "authority": "Academic Provost"
+    },
+    "image_path": "data\\synthetic\\certificates\\cert_00149.png",
+    "mask_path": "data\\synthetic\\certificates\\cert_00149_mask.png"
+  }
+]

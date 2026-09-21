@@ -1,0 +1,23 @@
+{
+  "id": "lor_00114",
+  "status": "VALID",
+  "issue": "valid",
+  "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
+  "is_valid": true,
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Dr. K. V. Ramanathan",
+    "designation": "Dean of Academic Research",
+    "institution": "Pacific Coast University",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Pacific Coast University.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+}

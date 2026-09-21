@@ -1,0 +1,25 @@
+{
+  "id": "cert_00124",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_certificate_number",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    425,
+    350,
+    455
+  ],
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'AUST-99999999'",
+  "entities": {
+    "student_name": "Kavita Reddy",
+    "institution": "Apex University of Technology",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "AUST-99999999",
+    "registration_number": "REG659295",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 9.66)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00124.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00124_mask.png"
+}

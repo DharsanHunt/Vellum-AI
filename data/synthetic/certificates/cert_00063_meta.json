@@ -1,0 +1,20 @@
+{
+  "id": "cert_00063",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rohan Gupta",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "PCU-20230063",
+    "registration_number": "REG358542",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.9)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00063.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00063_mask.png"
+}

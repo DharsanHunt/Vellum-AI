@@ -1,0 +1,25 @@
+{
+  "id": "cert_00142",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_certificate_number",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    425,
+    350,
+    455
+  ],
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
+  "entities": {
+    "student_name": "Nikhil Nair",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "STRI-99999999",
+    "registration_number": "REG704446",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 9.32)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00142.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00142_mask.png"
+}

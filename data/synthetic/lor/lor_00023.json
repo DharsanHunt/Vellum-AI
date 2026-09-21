@@ -1,0 +1,23 @@
+{
+  "id": "lor_00023",
+  "status": "CONFLICT",
+  "issue": "copy_text",
+  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Rahul Deshmukh who studied at Apex University of Technology. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nDr. Arvind Swaminathan\nProfessor & Head of Department\nApex University of Technology"
+}

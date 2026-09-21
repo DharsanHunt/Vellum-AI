@@ -1,0 +1,9 @@
+{
+  "tampering_probability": 0.3,
+  "signature_similarity": 0.18,
+  "stamp_presence": 0.12,
+  "cross_doc_consistency": 0.2,
+  "issuer_verification": 0.1,
+  "ocr_confidence": 0.05,
+  "qr_verification": 0.05
+}

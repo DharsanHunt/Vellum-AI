@@ -1,0 +1,25 @@
+{
+  "id": "cert_00055",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_certificate_number",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    425,
+    350,
+    455
+  ],
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'NIHS-99999999'",
+  "entities": {
+    "student_name": "Sneha Patel",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "NIHS-99999999",
+    "registration_number": "REG291718",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 9.15)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00055.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00055_mask.png"
+}

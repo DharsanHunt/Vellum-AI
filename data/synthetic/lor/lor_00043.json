@@ -1,0 +1,23 @@
+{
+  "id": "lor_00043",
+  "status": "CONFLICT",
+  "issue": "project_mismatch",
+  "issue_description": "Recommender praises project 'Civil Concrete Stress Analysis and Highway Asphalt Durability' which contradicts candidate's degree curriculum in B.Tech Computer Science.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Arun Kumar",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Civil Concrete Stress Analysis and Highway Asphalt Durability",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+}

@@ -1,0 +1,9 @@
+model_name: "stamp_verifier"
+version: "1.0.0"
+algorithm: "HSVInkIsolation_HoughGeometry_ColorHistCorr"
+dataset: "StaVer+SyntheticStamps"
+thresholds:
+  presence_confidence: 0.65
+  min_area: 400
+  aspect_ratio_range: [0.65, 1.50]
+checkpoint: "models/stamp_verifier.json"

@@ -1,0 +1,23 @@
+{
+  "id": "lor_00065",
+  "status": "CONFLICT",
+  "issue": "name_mismatch",
+  "issue_description": "Student name inside letter body ('Priya Rajendra Sharma') differs from verified profile ('Priya Sharma').",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Priya Rajendra Sharma",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Associate Professor",
+    "institution": "Global Institute of Science & Engineering",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Distributed Systems",
+      "Kubernetes"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Rajendra Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Priya Rajendra Sharma demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Rajendra Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Rajendra Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+}

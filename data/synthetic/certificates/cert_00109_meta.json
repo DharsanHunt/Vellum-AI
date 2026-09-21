@@ -1,0 +1,25 @@
+{
+  "id": "cert_00109",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "copy_paste_region",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    455,
+    300,
+    485
+  ],
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "entities": {
+    "student_name": "Vikram Malhotra",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "PCU-20230109",
+    "registration_number": "REG484960",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 8.35)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00109.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00109_mask.png"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lor_00111",
+  "status": "VALID",
+  "issue": "valid",
+  "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
+  "is_valid": true,
+  "entities": {
+    "student_name": "Sneha Patel",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
+    "skills": [
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
+    ],
+    "dates_taught": "2020-2024"
+  },
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+}

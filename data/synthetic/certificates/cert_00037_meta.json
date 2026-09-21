@@ -1,0 +1,25 @@
+{
+  "id": "cert_00037",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Aditya Verma",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "MUC-20230037",
+    "registration_number": "REG617489",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.21)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00037.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00037_mask.png"
+}

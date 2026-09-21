@@ -1,0 +1,25 @@
+{
+  "id": "cert_00068",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Arjun Kumar'",
+  "entities": {
+    "student_name": "Arjun Kumar",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "NIHS-20230068",
+    "registration_number": "REG114167",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 8.52)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00068.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00068_mask.png"
+}

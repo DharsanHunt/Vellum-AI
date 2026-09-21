@@ -1,0 +1,23 @@
+{
+  "id": "lor_00016",
+  "status": "CONFLICT",
+  "issue": "copy_text",
+  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Priya Sharma",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Priya Sharma who studied at Metropolitan University of Computing. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nProf. Elena Rostova\nDistinguished Professor\nMetropolitan University of Computing"
+}

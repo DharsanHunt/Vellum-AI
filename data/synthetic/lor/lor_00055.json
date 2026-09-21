@@ -1,0 +1,23 @@
+{
+  "id": "lor_00055",
+  "status": "CONFLICT",
+  "issue": "name_mismatch",
+  "issue_description": "Student name inside letter body ('Aditya Rajendra Verma') differs from verified profile ('Aditya Verma').",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Aditya Rajendra Verma",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2021-2023"
+  },
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Rajendra Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Aditya Rajendra Verma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Rajendra Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Rajendra Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+}

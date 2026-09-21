@@ -1,0 +1,20 @@
+{
+  "id": "cert_00033",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "AUST-20230033",
+    "registration_number": "REG550768",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 8.64)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00033.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00033_mask.png"
+}

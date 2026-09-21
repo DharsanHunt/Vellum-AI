@@ -1,0 +1,25 @@
+{
+  "id": "cert_00028",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "modified_stamp",
+  "is_tampered": true,
+  "tamper_bbox": [
+    400,
+    460,
+    500,
+    560
+  ],
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "entities": {
+    "student_name": "Nikhil Nair",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "PCU-20230028",
+    "registration_number": "REG198132",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 8.53)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00028.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00028_mask.png"
+}

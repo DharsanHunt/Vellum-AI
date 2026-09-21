@@ -1,0 +1,23 @@
+{
+  "id": "lor_00038",
+  "status": "CONFLICT",
+  "issue": "relationship_mismatch",
+  "issue_description": "Recommender relationship is non-academic/personal rather than verified academic supervisor.",
+  "is_valid": false,
+  "entities": {
+    "student_name": "Priya Sharma",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
+    "relationship": "Personal Family Friend and Distant Relative",
+    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+    "skills": [
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "dates_taught": "2019-2023"
+  },
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Personal Family Friend and Distant Relative during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cert_00077",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_institution",
+  "is_tampered": true,
+  "tamper_bbox": [
+    250,
+    60,
+    750,
+    105
+  ],
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "NIHS-20230077",
+    "registration_number": "REG964560",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 8.45)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00077.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00077_mask.png"
+}

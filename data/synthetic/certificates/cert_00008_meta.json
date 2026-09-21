@@ -1,0 +1,25 @@
+{
+  "id": "cert_00008",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "copy_paste_region",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    455,
+    300,
+    485
+  ],
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "entities": {
+    "student_name": "Sneha Patel",
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "AUST-20230008",
+    "registration_number": "REG701702",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 8.51)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00008.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00008_mask.png"
+}

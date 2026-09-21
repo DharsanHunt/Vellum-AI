@@ -1,0 +1,20 @@
+{
+  "id": "cert_00054",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230054",
+    "registration_number": "REG191050",
+    "issue_date": "15th July 2023",
+    "grade": "Grade A+ (CGPA: 8.2)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00054.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00054_mask.png"
+}

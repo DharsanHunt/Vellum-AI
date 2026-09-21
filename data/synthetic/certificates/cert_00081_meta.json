@@ -1,0 +1,20 @@
+{
+  "id": "cert_00081",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Deepika Joshi",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "MUC-20230081",
+    "registration_number": "REG403579",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.56)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00081.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00081_mask.png"
+}

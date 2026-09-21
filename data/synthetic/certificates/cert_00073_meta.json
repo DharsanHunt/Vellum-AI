@@ -1,0 +1,25 @@
+{
+  "id": "cert_00073",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_date",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    485,
+    320,
+    515
+  ],
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "entities": {
+    "student_name": "Rahul Deshmukh",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "MUC-20230073",
+    "registration_number": "REG480864",
+    "issue_date": "29th February 2026",
+    "grade": "First Class with Distinction (CGPA: 8.76)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00073.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00073_mask.png"
+}

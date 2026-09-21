@@ -1,0 +1,25 @@
+{
+  "id": "cert_00070",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "copy_paste_region",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    455,
+    300,
+    485
+  ],
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "entities": {
+    "student_name": "Meera Iyer",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "GISE-20230070",
+    "registration_number": "REG417511",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 9.04)",
+    "authority": "Registrar & Controller of Examinations"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00070.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00070_mask.png"
+}

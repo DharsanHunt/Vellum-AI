@@ -1,0 +1,20 @@
+{
+  "id": "cert_00057",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Arun Kumar",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "NIHS-20230057",
+    "registration_number": "REG494928",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 9.5)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00057.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00057_mask.png"
+}

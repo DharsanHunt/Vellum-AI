@@ -1,0 +1,25 @@
+{
+  "id": "cert_00106",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "removed_signature",
+  "is_tampered": true,
+  "tamper_bbox": [
+    650,
+    470,
+    850,
+    525
+  ],
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "entities": {
+    "student_name": "Priya Sharma",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "STRI-20230106",
+    "registration_number": "REG784429",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 9.14)",
+    "authority": "Academic Provost"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00106.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00106_mask.png"
+}

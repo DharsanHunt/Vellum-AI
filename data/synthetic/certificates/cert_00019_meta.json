@@ -1,0 +1,25 @@
+{
+  "id": "cert_00019",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_certificate_number",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    425,
+    350,
+    455
+  ],
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'PCU-99999999'",
+  "entities": {
+    "student_name": "Kavita Reddy",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "PCU-99999999",
+    "registration_number": "REG729635",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 9.45)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00019.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00019_mask.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cert_00083",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Deepika Joshi' with 'Pooja Sharma'",
+  "entities": {
+    "student_name": "Pooja Sharma",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230083",
+    "registration_number": "REG775458",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.57)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00083.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00083_mask.png"
+}

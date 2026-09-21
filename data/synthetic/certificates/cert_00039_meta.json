@@ -1,0 +1,20 @@
+{
+  "id": "cert_00039",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Sneha Patel",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "PCU-20230039",
+    "registration_number": "REG651640",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 9.54)",
+    "authority": "Dean of Engineering"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00039.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00039_mask.png"
+}

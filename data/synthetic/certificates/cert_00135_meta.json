@@ -1,0 +1,20 @@
+{
+  "id": "cert_00135",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "clean",
+  "is_tampered": false,
+  "tamper_bbox": null,
+  "tamper_explanation": "Pristine Authentic Document",
+  "entities": {
+    "student_name": "Sneha Patel",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "NIHS-20230135",
+    "registration_number": "REG218349",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.53)",
+    "authority": "Director of Certification"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00135.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00135_mask.png"
+}

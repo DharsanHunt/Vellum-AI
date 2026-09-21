@@ -1,0 +1,25 @@
+{
+  "id": "cert_00103",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_date",
+  "is_tampered": true,
+  "tamper_bbox": [
+    75,
+    485,
+    320,
+    515
+  ],
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "entities": {
+    "student_name": "Rohan Gupta",
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "AUST-20230103",
+    "registration_number": "REG560118",
+    "issue_date": "29th February 2026",
+    "grade": "First Class Honours (CGPA: 9.45)",
+    "authority": "Dean of Academic Affairs"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00103.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00103_mask.png"
+}

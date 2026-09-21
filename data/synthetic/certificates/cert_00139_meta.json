@@ -1,0 +1,25 @@
+{
+  "id": "cert_00139",
+  "document_type": "ACADEMIC_CERTIFICATE",
+  "tampering_type": "changed_name",
+  "is_tampered": true,
+  "tamper_bbox": [
+    345,
+    195,
+    655,
+    235
+  ],
+  "tamper_explanation": "Potential name alteration detected: replaced 'Rahul Deshmukh' with 'Amit Verma'",
+  "entities": {
+    "student_name": "Amit Verma",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "MUC-20230139",
+    "registration_number": "REG225742",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 8.99)",
+    "authority": "Vice Chancellor"
+  },
+  "image_path": "data\\synthetic\\certificates\\cert_00139.png",
+  "mask_path": "data\\synthetic\\certificates\\cert_00139_mask.png"
+}
