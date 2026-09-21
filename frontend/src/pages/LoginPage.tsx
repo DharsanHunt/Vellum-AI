@@ -9,7 +9,7 @@ interface LoginPageProps {
 }
 
 export const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
-  const [email, setEmail] = useState('lead.forensics@kana-forge.security');
+  const [email, setEmail] = useState('lead.forensics@vellum.security');
   const [role, setRole] = useState<'Senior Fraud Investigator' | 'Admissions Reviewer' | 'Platform Admin'>('Senior Fraud Investigator');
 
   const handleLogin = (e: React.FormEvent) => {
@@ -33,7 +33,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
             <Shield className="h-7 w-7" />
           </div>
           <h1 className="font-serif text-4xl font-normal tracking-tight text-zinc-950">
-            Kana-Forge
+            Vellum
           </h1>
           <p className="text-xs text-zinc-500 max-w-xs mx-auto leading-relaxed">
             Multi-Modal AI Document Verification &amp; Forensic Intelligence
@@ -129,7 +129,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
                 type="button"
                 onClick={() => {
                   setRole('Senior Fraud Investigator');
-                  setEmail('lead.forensics@kana-forge.security');
+                  setEmail('lead.forensics@vellum.security');
                 }}
                 className="px-2.5 py-2 rounded-xl bg-zinc-50 hover:bg-white border border-zinc-200/80 text-xs font-medium text-zinc-800 text-center shadow-subtle hover:shadow-card hover:-translate-y-0.5 active:translate-y-0 transition-all cursor-pointer"
               >
@@ -139,7 +139,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
                 type="button"
                 onClick={() => {
                   setRole('Platform Admin');
-                  setEmail('admin@kana-forge.internal');
+                  setEmail('admin@vellum.internal');
                 }}
                 className="px-2.5 py-2 rounded-xl bg-zinc-50 hover:bg-white border border-zinc-200/80 text-xs font-medium text-zinc-800 text-center shadow-subtle hover:shadow-card hover:-translate-y-0.5 active:translate-y-0 transition-all cursor-pointer"
               >

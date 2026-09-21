@@ -89,7 +89,7 @@ export const AdministrationPage: React.FC = () => {
               <tbody className="divide-y divide-zinc-100">
                 <tr className="hover:bg-zinc-50/80 transition-colors">
                   <td className="py-3.5 px-3 font-semibold text-zinc-950">Dr. Sarah Jenkins</td>
-                  <td className="py-3.5 px-3 font-mono text-zinc-500">lead.forensics@kana-forge.security</td>
+                  <td className="py-3.5 px-3 font-mono text-zinc-500">lead.forensics@vellum.security</td>
                   <td className="py-3.5 px-3"><Badge variant="neutral" size="sm">Senior Fraud Investigator</Badge></td>
                   <td className="py-3.5 px-3 text-zinc-600">Forensic Review Unit</td>
                   <td className="py-3.5 px-3 text-right"><Badge variant="genuine" size="sm">Active</Badge></td>
@@ -103,7 +103,7 @@ export const AdministrationPage: React.FC = () => {
                 </tr>
                 <tr className="hover:bg-zinc-50/80 transition-colors">
                   <td className="py-3.5 px-3 font-semibold text-zinc-950">Alex Rivera</td>
-                  <td className="py-3.5 px-3 font-mono text-zinc-500">admin@kana-forge.internal</td>
+                  <td className="py-3.5 px-3 font-mono text-zinc-500">admin@vellum.internal</td>
                   <td className="py-3.5 px-3"><Badge variant="neutral" size="sm">Platform Admin</Badge></td>
                   <td className="py-3.5 px-3 text-zinc-600">Infrastructure &amp; AI</td>
                   <td className="py-3.5 px-3 text-right"><Badge variant="genuine" size="sm">Active</Badge></td>

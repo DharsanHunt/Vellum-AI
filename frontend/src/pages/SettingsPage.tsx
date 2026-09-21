@@ -154,7 +154,7 @@ export const SettingsPage: React.FC = () => {
             </label>
             <input
               type="text"
-              defaultValue="https://siem-collector.internal.corp/v1/kana-forge-alerts"
+              defaultValue="https://siem-collector.internal.corp/v1/vellum-alerts"
               className="w-full font-mono rounded-xl border border-zinc-200/90 bg-zinc-50/70 hover:bg-white px-3.5 py-2.5 text-zinc-900 shadow-inner focus:outline-none focus:ring-2 focus:ring-zinc-900 transition-colors"
             />
           </div>

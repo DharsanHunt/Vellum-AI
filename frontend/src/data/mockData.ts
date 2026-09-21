@@ -3,7 +3,7 @@ import { Dossier, AuditBlock, UserProfile } from '../types';
 export const INITIAL_USER: UserProfile = {
   id: 'usr-810',
   name: 'Dr. Sarah Jenkins',
-  email: 'lead.forensics@kana-forge.security',
+  email: 'lead.forensics@vellum.security',
   role: 'Senior Fraud Investigator',
   department: 'Forensic Escalation Unit',
   avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80',
@@ -194,7 +194,7 @@ export const MOCK_AUDIT_BLOCKS: AuditBlock[] = [
     blockId: 'BLOCK #002',
     eventType: 'NEURAL_PIPELINE_COMPLETE',
     timestamp: '2024-10-24T14:22:04Z',
-    actor: 'Kana-Forge Fusion Engine v1.0',
+    actor: 'Vellum Fusion Engine v1.0',
     details: '7-Stage forensic inference computed: Tampering=0.048, SigMatch=0.892, Seal=PASS, Risk=14.2%.',
     prevHash: '88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589',
     currHash: 'b2c9182390f7a01d00c3b87612f00a911e3b0c44298fc1c149afbf4c8996fb92',

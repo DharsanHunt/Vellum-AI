@@ -67,7 +67,7 @@ export const AppLayout: React.FC<AppLayoutProps> = ({
     {
       id: 'usr-810',
       name: 'Dr. Sarah Jenkins',
-      email: 'lead.forensics@kana-forge.security',
+      email: 'lead.forensics@vellum.security',
       role: 'Senior Fraud Investigator',
       department: 'Forensic Review Unit',
       avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80',
@@ -83,7 +83,7 @@ export const AppLayout: React.FC<AppLayoutProps> = ({
     {
       id: 'usr-001',
       name: 'Alex Rivera',
-      email: 'admin@kana-forge.internal',
+      email: 'admin@vellum.internal',
       role: 'Platform Admin',
       department: 'Infrastructure & AI',
       avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80',
@@ -105,7 +105,7 @@ export const AppLayout: React.FC<AppLayoutProps> = ({
                 <Shield className="h-4.5 w-4.5 text-zinc-100" />
               </div>
               <span className="font-serif text-2xl font-bold tracking-tight text-zinc-950 whitespace-nowrap">
-                Kana-Forge
+                Vellum
               </span>
             </div>
 
@@ -291,7 +291,7 @@ export const AppLayout: React.FC<AppLayoutProps> = ({
       {/* Subtle Footer */}
       <footer className="border-t border-zinc-200/60 py-6 text-center text-xs text-zinc-400">
         <div className="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <span>Kana-Forge &mdash; Intelligent Document &amp; Credential Verification</span>
+          <span>Vellum &mdash; Intelligent Document &amp; Credential Verification</span>
           <span className="font-mono text-[11px] text-zinc-400">Multi-Modal AI Pipeline v2.4</span>
         </div>
       </footer>

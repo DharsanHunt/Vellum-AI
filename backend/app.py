@@ -1,5 +1,5 @@
 """
-FastAPI REST API Server for Kana-Forge Document Verification Platform.
+FastAPI REST API Server for Vellum Document Verification Platform.
 Exposes modular endpoints for document classification, OCR, entity extraction,
 forensic tampering localization, signature & stamp verification, LOR NLP analysis,
 cross-document verification, and evidence fusion.
@@ -33,7 +33,7 @@ from ml.fusion.evidence_fusion import fuse
 from ml.utils.hardware import detect_hardware
 
 app = FastAPI(
-    title="Kana-Forge Verification API",
+    title="Vellum Verification API",
     description="Multi-Modal AI Document Verification & Cross-Document Forensics Platform",
     version="1.0.0"
 )
@@ -63,7 +63,7 @@ def health_check():
 
     return {
         "status": "HEALTHY",
-        "service": "Kana-Forge Document Verification Engine",
+        "service": "Vellum Document Verification Engine",
         "version": "1.0.0",
         "hardware": hw,
         "models_loaded": list(registry.keys())
