@@ -1,19 +1,24 @@
 import React, { useEffect, useState } from 'react';
-import { CheckCircle2, ArrowRight, Loader2, Cpu, Activity, Zap, Database } from 'lucide-react';
+import { CheckCircle2, ArrowRight, Loader2, Cpu, Activity, Zap, Database, FileText } from 'lucide-react';
 import { Button } from '../components/common/Button';
 import { Badge } from '../components/common/Badge';
 
 interface ProcessingPageProps {
+  uploadData?: any;
   onComplete: () => void;
 }
 
-export const ProcessingPage: React.FC<ProcessingPageProps> = ({ onComplete }) => {
+export const ProcessingPage: React.FC<ProcessingPageProps> = ({ uploadData, onComplete }) => {
   const [activeStep, setActiveStep] = useState(0);
 
+  const candidateName = uploadData?.candidateName || 'Candidate Credential';
+  const targetDoc = uploadData?.sampleDoc || 'Academic Certificate';
+  const institution = uploadData?.institution || 'Issuing Body';
+
   const stages = [
-    { title: '1. Document Classification', desc: 'Lightweight ConvNet embedding classifier mapped to Academic Certificate.', latency: '18ms' },
+    { title: '1. Document Classification', desc: 'Lightweight ConvNet embedding classifier mapped to Academic Credential.', latency: '18ms' },
     { title: '2. Spatial OCR & Layout Analysis', desc: 'Extracting bounding boxes, line geometries & spatial tokens.', latency: '64ms' },
-    { title: '3. Named Entity Recognition (NER)', desc: 'Parsing candidate name, issuing institution, and registration IDs.', latency: '22ms' },
+    { title: '3. Named Entity Recognition (NER)', desc: `Parsing ${candidateName}, ${institution}, and registration IDs.`, latency: '22ms' },
     { title: '4. Pixel Tampering & Splicing Detection', desc: 'Dual-Head UNet pixel segmentation & ELA residual analysis.', latency: '58ms' },
     { title: '5. Biometric Siamese Signature Match', desc: 'Contrastive metric network comparing against official anchor.', latency: '26ms' },
     { title: '6. Stamp Seal & Geometry Verification', desc: 'HSV ink isolation, Hough circle detector & color histogram.', latency: '16ms' },
@@ -27,7 +32,7 @@ export const ProcessingPage: React.FC<ProcessingPageProps> = ({ onComplete }) =>
         clearInterval(timer);
         return prev;
       });
-    }, 400);
+    }, 380);
 
     return () => clearInterval(timer);
   }, [stages.length]);
@@ -41,12 +46,20 @@ export const ProcessingPage: React.FC<ProcessingPageProps> = ({ onComplete }) =>
             Real-Time Inference Telemetry
           </span>
         </div>
-        <h1 className="font-serif text-3xl md:text-4xl font-normal tracking-tight text-zinc-950">
-          Multi-Modal Neural Pipeline
-        </h1>
-        <p className="text-xs text-zinc-500 max-w-xl leading-relaxed">
-          Executing 7-stage neural verification and forensic signal fusion across DirectML runtime.
-        </p>
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+          <div>
+            <h1 className="font-serif text-3xl md:text-4xl font-normal tracking-tight text-zinc-950">
+              Multi-Modal Neural Pipeline
+            </h1>
+            <p className="text-xs text-zinc-500 max-w-xl leading-relaxed mt-1">
+              Analyzing <strong className="text-zinc-800">{targetDoc}</strong> for <strong className="text-zinc-900">{candidateName}</strong> ({institution}).
+            </p>
+          </div>
+          <div className="flex items-center gap-2 bg-zinc-100 px-3 py-1.5 rounded-full border border-zinc-200/80 text-xs font-mono text-zinc-700">
+            <Cpu className="h-3.5 w-3.5 text-zinc-900" />
+            <span>GPU/CPU Neural Runtime</span>
+          </div>
+        </div>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-5 gap-8 items-start">
@@ -104,7 +117,7 @@ export const ProcessingPage: React.FC<ProcessingPageProps> = ({ onComplete }) =>
           <div className="depth-card-static rounded-3xl p-6 space-y-5">
             <div className="flex items-center justify-between border-b border-zinc-100 pb-3">
               <span className="text-xs font-semibold text-zinc-900">Execution Telemetry</span>
-              <Badge variant="genuine" size="sm" dot>DirectML Live</Badge>
+              <Badge variant="genuine" size="sm" dot>Live Sync</Badge>
             </div>
 
             <div className="space-y-3.5 text-xs font-mono text-zinc-600">
@@ -113,16 +126,16 @@ export const ProcessingPage: React.FC<ProcessingPageProps> = ({ onComplete }) =>
                 <span className="text-zinc-950 font-bold text-sm">218 ms</span>
               </div>
               <div className="flex justify-between items-center py-1 border-b border-zinc-100">
-                <span className="text-zinc-500 font-sans">VRAM Memory:</span>
-                <span className="text-zinc-800">342 MB</span>
+                <span className="text-zinc-500 font-sans">Candidate Target:</span>
+                <span className="text-zinc-800 font-semibold truncate max-w-[130px]">{candidateName}</span>
               </div>
               <div className="flex justify-between items-center py-1 border-b border-zinc-100">
-                <span className="text-zinc-500 font-sans">Execution Target:</span>
-                <span className="text-zinc-800">DirectML / CPU</span>
+                <span className="text-zinc-500 font-sans">Execution Engine:</span>
+                <span className="text-zinc-800">DirectML / PyTorch</span>
               </div>
               <div className="flex justify-between items-center py-1">
-                <span className="text-zinc-500 font-sans">Graph Integrity:</span>
-                <span className="text-emerald-700 font-semibold">100% Synced</span>
+                <span className="text-zinc-500 font-sans">Forensic Fusion:</span>
+                <span className="text-emerald-700 font-semibold">Calibrated</span>
               </div>
             </div>
 
