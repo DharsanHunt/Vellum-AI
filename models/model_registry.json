@@ -15,23 +15,35 @@
     "dataset": "Synthetic-LOR-10K",
     "algorithm": "HeuristicNER_FuzzyMatching_TemplateDetection",
     "metrics": {
-      "accuracy": 0.75,
-      "precision": 0.75,
-      "recall": 1.0,
-      "f1": 0.8571,
-      "roc_auc": 0.5556
+      "accuracy": 0.4074,
+      "precision": 1.0,
+      "recall": 0.0943,
+      "f1": 0.1724,
+      "roc_auc": 0.5472
+    },
+    "parameters": {
+      "template_similarity": 0.75,
+      "name_match_strict": 0.88,
+      "name_match_variation": 0.7,
+      "institution_similarity": 0.6
     }
   },
   "evidence_fusion_engine": {
     "version": "1.0.0",
     "algorithm": "ProbabilisticWeightedEvidenceFusion",
     "dataset": "MultiModal-Forensic-Fusion-Benchmark",
+    "weights": {
+      "tampering_probability": 0.3,
+      "signature_similarity": 0.18,
+      "stamp_presence": 0.12,
+      "cross_doc_consistency": 0.2,
+      "issuer_verification": 0.1,
+      "ocr_confidence": 0.05,
+      "qr_verification": 0.05
+    },
     "metrics": {
-      "accuracy": 1.0,
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1": 1.0,
-      "roc_auc": 1.0
+      "calibrated_accuracy": 0.96,
+      "auc": 0.98
     }
   },
   "document_classifier": {
@@ -48,7 +60,7 @@
     "metrics": {
       "accuracy": 0.98,
       "f1": 0.98,
-      "loss": 0.0007
+      "loss": 0.0002
     }
   },
   "tampering_detector": {

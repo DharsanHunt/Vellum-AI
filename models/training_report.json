@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-09-24T16:53:44Z",
+  "total_duration_sec": 475.51,
+  "hardware": {
+    "device": "cpu",
+    "is_cuda_available": false,
+    "cpu_cores": 16,
+    "system_ram_gb": 15.71,
+    "gpu": {},
+    "recommended_batch_size": 4,
+    "recommended_image_size": [
+      256,
+      256
+    ],
+    "precision": "float32"
+  },
+  "stage_results": {
+    "1/6: Document Type Classifier": {
+      "status": "SUCCESS",
+      "duration_sec": 42.35
+    },
+    "2/6: Dual-Head Tampering UNet": {
+      "status": "SUCCESS",
+      "duration_sec": 416.58
+    },
+    "3/6: Siamese Signature Verifier": {
+      "status": "SUCCESS",
+      "duration_sec": 15.46
+    },
+    "4/6: Official Stamp Verifier": {
+      "status": "SUCCESS",
+      "duration_sec": 0.98
+    },
+    "5/6: LOR NLP & Entity Analyzer": {
+      "status": "SUCCESS",
+      "duration_sec": 0.1
+    },
+    "6/6: Evidence Fusion Calibration": {
+      "status": "SUCCESS",
+      "duration_sec": 0.03
+    }
+  }
+}
