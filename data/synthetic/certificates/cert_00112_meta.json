@@ -11,14 +11,14 @@
   ],
   "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Rohan Gupta",
-    "institution": "Metropolitan University of Computing",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "MUC-20230112",
-    "registration_number": "REG799501",
+    "student_name": "Deepika Joshi",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "PCU-20230112",
+    "registration_number": "REG948866",
     "issue_date": "15th July 2021",
-    "grade": "Grade A+ (CGPA: 8.5)",
-    "authority": "Vice Chancellor"
+    "grade": "Grade A+ (CGPA: 9.48)",
+    "authority": "Dean of Engineering"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00112.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00112_mask.png"

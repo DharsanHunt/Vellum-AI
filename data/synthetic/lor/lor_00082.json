@@ -1,16 +1,16 @@
 {
   "id": "lor_00082",
   "status": "CONFLICT",
-  "issue": "institution_mismatch",
-  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Metropolitan University of Computing'.",
+  "issue": "copy_text",
+  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
   "is_valid": false,
   "entities": {
-    "student_name": "Sneha Patel",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Fake Stanford Affiliate College of Technology",
+    "student_name": "Arun Kumar",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
     "skills": [
       "Python",
       "PyTorch",
@@ -19,5 +19,5 @@
     ],
     "dates_taught": "2020-2024"
   },
-  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nFake Stanford Affiliate College of Technology\nEmail: .k..v..ramanathan@fakestanfo.edu"
+  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Arun Kumar who studied at Metropolitan University of Computing. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nProf. Elena Rostova\nDistinguished Professor\nMetropolitan University of Computing"
 }

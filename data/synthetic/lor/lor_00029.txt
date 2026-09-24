@@ -1,19 +1,19 @@
-DEPARTMENT OF INFORMATION SCIENCE
-GLOBAL INSTITUTE OF SCIENCE & ENGINEERING
+DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS
+PACIFIC COAST UNIVERSITY
 Date: October 24, 2024
 
 To the Graduate Admissions Committee,
 
-I am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Personal Family Friend and Distant Relative during their study period (2020-2024) at Global Institute of Science & Engineering.
+I am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Pacific Coast University.
 
-During this tenure, Sneha Patel demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+During this tenure, Rahul Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
 
-Beyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
+Beyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
 
 Warm regards,
 
-Dr. Meenakshi Sundaram
-Associate Professor
-Information Science
-Global Institute of Science & Engineering
-Email: .meenakshi.sundaram@globalinst.edu
+Dr. K. V. Ramanathan
+Undergraduate Peer Tutor & Lab Assistant
+Electrical & Computer Systems
+Pacific Coast University
+Email: .k..v..ramanathan@pacificcoa.edu

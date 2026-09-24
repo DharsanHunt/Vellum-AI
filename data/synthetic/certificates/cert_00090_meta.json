@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Ananya Sundaram",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "STRI-20230090",
-    "registration_number": "REG671735",
+    "student_name": "Priya Sharma",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "MUC-20230090",
+    "registration_number": "REG395166",
     "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 9.4)",
-    "authority": "Academic Provost"
+    "grade": "Grade A+ (CGPA: 8.46)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00090.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00090_mask.png"

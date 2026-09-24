@@ -5,12 +5,12 @@
   "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
   "is_valid": true,
   "entities": {
-    "student_name": "Priya Sharma",
-    "recommender": "Prof. Elena Rostova",
-    "designation": "Distinguished Professor",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+    "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
     "skills": [
       "C++",
       "CUDA",
@@ -19,5 +19,5 @@
     ],
     "dates_taught": "2019-2023"
   },
-  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
 }

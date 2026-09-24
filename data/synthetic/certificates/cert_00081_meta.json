@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Deepika Joshi",
-    "institution": "Metropolitan University of Computing",
-    "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "MUC-20230081",
-    "registration_number": "REG403579",
-    "issue_date": "15th July 2024",
-    "grade": "Grade A+ (CGPA: 9.56)",
-    "authority": "Vice Chancellor"
+    "student_name": "Sneha Patel",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "GISE-20230081",
+    "registration_number": "REG792279",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.63)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00081.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00081_mask.png"

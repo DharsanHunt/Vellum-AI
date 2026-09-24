@@ -6,13 +6,13 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Aditya Verma",
+    "student_name": "Arun Kumar",
     "institution": "National Institute of Higher Studies",
-    "degree": "Bachelor of Engineering in Electronics",
+    "degree": "Master of Science in Artificial Intelligence",
     "certificate_number": "NIHS-20230087",
-    "registration_number": "REG365373",
-    "issue_date": "15th July 2023",
-    "grade": "First Class Honours (CGPA: 8.72)",
+    "registration_number": "REG292757",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.64)",
     "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00087.png",

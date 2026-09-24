@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Meera Iyer",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Rohan Gupta",
+    "institution": "Global Institute of Science & Engineering",
     "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "MUC-20230084",
-    "registration_number": "REG112184",
-    "issue_date": "15th July 2021",
-    "grade": "Grade A+ (CGPA: 8.65)",
-    "authority": "Vice Chancellor"
+    "certificate_number": "GISE-20230084",
+    "registration_number": "REG856548",
+    "issue_date": "15th July 2023",
+    "grade": "First Class with Distinction (CGPA: 9.6)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00084.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00084_mask.png"

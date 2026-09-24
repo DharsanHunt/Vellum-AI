@@ -1,23 +1,23 @@
 {
   "id": "lor_00088",
   "status": "CONFLICT",
-  "issue": "name_mismatch",
-  "issue_description": "Student name inside letter body ('Rahul Rajendra Deshmukh') differs from verified profile ('Rahul Deshmukh').",
+  "issue": "contradictory_claim",
+  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
   "is_valid": false,
   "entities": {
-    "student_name": "Rahul Rajendra Deshmukh",
-    "recommender": "Dr. Arvind Swaminathan",
-    "designation": "Professor & Head of Department",
-    "institution": "Apex University of Technology",
+    "student_name": "Sneha Patel",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Senior Research Director",
+    "institution": "National Institute of Higher Studies",
     "relationship": "Thesis Advisor & Course Instructor",
     "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
-      "Natural Language Processing",
-      "Transformers",
-      "FastAPI",
-      "PostgreSQL"
+      "Python",
+      "PyTorch",
+      "Distributed Systems",
+      "Kubernetes"
     ],
-    "dates_taught": "2019-2023"
+    "dates_taught": "2020-2024"
   },
-  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Rajendra Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.\n\nDuring this tenure, Rahul Rajendra Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Rajendra Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Rajendra Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
 }

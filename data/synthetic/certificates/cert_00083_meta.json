@@ -9,15 +9,15 @@
     655,
     235
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Deepika Joshi' with 'Pooja Sharma'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Kavita Reddy' with 'Ananya Menon'",
   "entities": {
-    "student_name": "Pooja Sharma",
+    "student_name": "Ananya Menon",
     "institution": "National Institute of Higher Studies",
-    "degree": "Bachelor of Engineering in Electronics",
+    "degree": "Bachelor of Technology in Computer Science",
     "certificate_number": "NIHS-20230083",
-    "registration_number": "REG775458",
-    "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 9.57)",
+    "registration_number": "REG641018",
+    "issue_date": "15th July 2023",
+    "grade": "Grade A+ (CGPA: 8.64)",
     "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00083.png",

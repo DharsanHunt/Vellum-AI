@@ -8,11 +8,11 @@
   "entities": {
     "student_name": "Rahul Deshmukh",
     "institution": "Pacific Coast University",
-    "degree": "Master of Science in Artificial Intelligence",
+    "degree": "Bachelor of Science in Information Technology",
     "certificate_number": "PCU-20230045",
-    "registration_number": "REG685381",
-    "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 9.46)",
+    "registration_number": "REG333230",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.46)",
     "authority": "Dean of Engineering"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00045.png",

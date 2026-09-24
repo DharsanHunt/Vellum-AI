@@ -1,23 +1,23 @@
 {
   "id": "lor_00041",
   "status": "CONFLICT",
-  "issue": "name_mismatch",
-  "issue_description": "Student name inside letter body ('Aditya Rajendra Verma') differs from verified profile ('Aditya Verma').",
+  "issue": "contradictory_claim",
+  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
   "is_valid": false,
   "entities": {
-    "student_name": "Aditya Rajendra Verma",
-    "recommender": "Prof. Elena Rostova",
-    "designation": "Distinguished Professor",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Aditya Verma",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Senior Research Director",
+    "institution": "National Institute of Higher Studies",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+    "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
     "skills": [
-      "Computer Vision",
-      "OpenCV",
-      "TensorFlow",
-      "Edge AI"
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
     ],
     "dates_taught": "2021-2023"
   },
-  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Rajendra Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Aditya Rajendra Verma demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Rajendra Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Rajendra Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at National Institute of Higher Studies.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
 }

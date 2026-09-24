@@ -1,19 +1,19 @@
-DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
-APEX UNIVERSITY OF TECHNOLOGY
+DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB
+NATIONAL INSTITUTE OF HIGHER STUDIES
 Date: October 24, 2024
 
 To the Graduate Admissions Committee,
 
-I am writing to offer my enthusiastic recommendation for Rahul Rajendra Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.
+I am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.
 
-During this tenure, Rahul Rajendra Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+During this tenure, Sneha Patel demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.
 
-Beyond technical competence, Rahul Rajendra Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Rajendra Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
+Beyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
 
 Warm regards,
 
-Dr. Arvind Swaminathan
-Professor & Head of Department
-Computer Science & Engineering
-Apex University of Technology
-Email: .arvind.swaminathan@apexuniver.edu
+Dr. Rajeshwar Rao
+Senior Research Director
+Artificial Intelligence Lab
+National Institute of Higher Studies
+Email: .rajeshwar.rao@nationalin.edu

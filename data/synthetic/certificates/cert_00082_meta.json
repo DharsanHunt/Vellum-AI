@@ -11,14 +11,14 @@
   ],
   "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
   "entities": {
-    "student_name": "Aditya Verma",
-    "institution": "National Institute of Higher Studies",
+    "student_name": "Deepika Joshi",
+    "institution": "Global Institute of Science & Engineering",
     "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "NIHS-20230082",
-    "registration_number": "REG415544",
-    "issue_date": "15th July 2022",
-    "grade": "First Class Honours (CGPA: 9.26)",
-    "authority": "Director of Certification"
+    "certificate_number": "GISE-20230082",
+    "registration_number": "REG848522",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 9.59)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00082.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00082_mask.png"

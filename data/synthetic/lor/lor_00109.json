@@ -1,23 +1,23 @@
 {
   "id": "lor_00109",
   "status": "CONFLICT",
-  "issue": "institution_mismatch",
-  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'National Institute of Higher Studies'.",
+  "issue": "copy_text",
+  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
   "is_valid": false,
   "entities": {
-    "student_name": "Aditya Verma",
+    "student_name": "Priya Sharma",
     "recommender": "Dr. Rajeshwar Rao",
     "designation": "Senior Research Director",
-    "institution": "Fake Stanford Affiliate College of Technology",
+    "institution": "National Institute of Higher Studies",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
     "skills": [
-      "Natural Language Processing",
-      "Transformers",
-      "FastAPI",
-      "PostgreSQL"
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
     ],
-    "dates_taught": "2021-2023"
+    "dates_taught": "2019-2023"
   },
-  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nFake Stanford Affiliate College of Technology\nEmail: .rajeshwar.rao@fakestanfo.edu"
+  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Priya Sharma who studied at National Institute of Higher Studies. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nDr. Rajeshwar Rao\nSenior Research Director\nNational Institute of Higher Studies"
 }

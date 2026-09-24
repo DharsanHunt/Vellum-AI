@@ -9,16 +9,16 @@
     655,
     235
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Rahul Deshmukh' with 'Rajesh Deshmukh'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Ananya Menon'",
   "entities": {
-    "student_name": "Rajesh Deshmukh",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "STRI-20230016",
-    "registration_number": "REG370073",
+    "student_name": "Ananya Menon",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230016",
+    "registration_number": "REG319263",
     "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 8.95)",
-    "authority": "Academic Provost"
+    "grade": "First Class with Distinction (CGPA: 9.76)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00016.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00016_mask.png"

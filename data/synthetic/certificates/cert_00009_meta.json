@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Aditya Verma",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "STRI-20230009",
-    "registration_number": "REG344156",
-    "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 9.73)",
-    "authority": "Academic Provost"
+    "student_name": "Rahul Deshmukh",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230009",
+    "registration_number": "REG411380",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 9.54)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00009.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00009_mask.png"

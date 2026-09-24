@@ -1,24 +1,24 @@
 {
   "id": "cert_00002",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    75,
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Nikhil Nair",
-    "institution": "Apex University of Technology",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "AUST-20230002",
-    "registration_number": "REG965456",
-    "issue_date": "15th July 2022",
-    "grade": "Grade A+ (CGPA: 9.62)",
-    "authority": "Dean of Academic Affairs"
+    "student_name": "Rohan Gupta",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "MUC-20230002",
+    "registration_number": "REG336506",
+    "issue_date": "29th February 2026",
+    "grade": "First Class with Distinction (CGPA: 8.54)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00002.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00002_mask.png"

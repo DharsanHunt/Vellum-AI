@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Nikhil Nair",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "GISE-20230018",
-    "registration_number": "REG431699",
-    "issue_date": "15th July 2021",
-    "grade": "Grade A+ (CGPA: 8.75)",
-    "authority": "Registrar & Controller of Examinations"
+    "student_name": "Ananya Sundaram",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "STRI-20230018",
+    "registration_number": "REG405878",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.42)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00018.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00018_mask.png"

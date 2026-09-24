@@ -1,23 +1,23 @@
 {
   "id": "cert_00049",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_certificate_number",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    425,
-    350,
-    455
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Certificate ID modification detected near serial number field: 'MUC-99999999'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Deepika Joshi' with 'Pooja Sharma'",
   "entities": {
-    "student_name": "Nikhil Nair",
+    "student_name": "Pooja Sharma",
     "institution": "Metropolitan University of Computing",
-    "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "MUC-99999999",
-    "registration_number": "REG729809",
-    "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 9.77)",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230049",
+    "registration_number": "REG401506",
+    "issue_date": "15th July 2023",
+    "grade": "Grade A+ (CGPA: 8.52)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00049.png",

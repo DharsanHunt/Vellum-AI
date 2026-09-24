@@ -1,23 +1,23 @@
 {
   "id": "cert_00131",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "modified_stamp",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
-    400,
-    460,
-    500,
-    560
+    75,
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Kavita Reddy",
+    "student_name": "Deepika Joshi",
     "institution": "National Institute of Higher Studies",
-    "degree": "Master of Science in Artificial Intelligence",
+    "degree": "Master of Business Administration in Data Analytics",
     "certificate_number": "NIHS-20230131",
-    "registration_number": "REG727026",
-    "issue_date": "15th July 2022",
-    "grade": "First Class with Distinction (CGPA: 9.76)",
+    "registration_number": "REG545986",
+    "issue_date": "29th February 2026",
+    "grade": "Grade A+ (CGPA: 8.43)",
     "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00131.png",

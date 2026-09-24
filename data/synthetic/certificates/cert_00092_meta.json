@@ -11,14 +11,14 @@
   ],
   "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Aditya Verma",
-    "institution": "Apex University of Technology",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "AUST-20230092",
-    "registration_number": "REG104206",
+    "student_name": "Deepika Joshi",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "STRI-20230092",
+    "registration_number": "REG961112",
     "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 8.23)",
-    "authority": "Dean of Academic Affairs"
+    "grade": "First Class Honours (CGPA: 9.34)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00092.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00092_mask.png"

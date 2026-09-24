@@ -1,24 +1,24 @@
 {
   "id": "cert_00074",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_name",
+  "tampering_type": "changed_certificate_number",
   "is_tampered": true,
   "tamper_bbox": [
-    345,
-    195,
-    655,
-    235
+    75,
+    425,
+    350,
+    455
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Nikhil Nair' with 'Amit Verma'",
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'GISE-99999999'",
   "entities": {
-    "student_name": "Amit Verma",
-    "institution": "Pacific Coast University",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "PCU-20230074",
-    "registration_number": "REG605456",
-    "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 8.67)",
-    "authority": "Dean of Engineering"
+    "student_name": "Priya Sharma",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "GISE-99999999",
+    "registration_number": "REG544029",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 8.58)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00074.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00074_mask.png"

@@ -1,23 +1,23 @@
 {
   "id": "lor_00005",
   "status": "CONFLICT",
-  "issue": "project_mismatch",
-  "issue_description": "Recommender praises project 'Civil Concrete Stress Analysis and Highway Asphalt Durability' which contradicts candidate's degree curriculum in B.Tech Computer Science.",
+  "issue": "institution_mismatch",
+  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Metropolitan University of Computing'.",
   "is_valid": false,
   "entities": {
-    "student_name": "Rahul Deshmukh",
-    "recommender": "Prof. Elena Rostova",
-    "designation": "Distinguished Professor",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Sneha Patel",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Fake Stanford Affiliate College of Technology",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Civil Concrete Stress Analysis and Highway Asphalt Durability",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
     "skills": [
       "C++",
       "CUDA",
       "Embedded Robotics",
       "ROS2"
     ],
-    "dates_taught": "2019-2023"
+    "dates_taught": "2020-2024"
   },
-  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nFake Stanford Affiliate College of Technology\nEmail: .arvind.swaminathan@fakestanfo.edu"
 }

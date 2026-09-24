@@ -1,24 +1,24 @@
 {
   "id": "cert_00028",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "modified_stamp",
+  "tampering_type": "changed_certificate_number",
   "is_tampered": true,
   "tamper_bbox": [
-    400,
-    460,
-    500,
-    560
+    75,
+    425,
+    350,
+    455
   ],
-  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
   "entities": {
-    "student_name": "Nikhil Nair",
-    "institution": "Pacific Coast University",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "PCU-20230028",
-    "registration_number": "REG198132",
-    "issue_date": "15th July 2021",
-    "grade": "First Class with Distinction (CGPA: 8.53)",
-    "authority": "Dean of Engineering"
+    "student_name": "Deepika Joshi",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "STRI-99999999",
+    "registration_number": "REG924232",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 9.59)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00028.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00028_mask.png"

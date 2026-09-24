@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Nikhil Nair",
-    "institution": "Pacific Coast University",
-    "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "PCU-20230126",
-    "registration_number": "REG621296",
-    "issue_date": "15th July 2022",
-    "grade": "Grade A+ (CGPA: 9.28)",
-    "authority": "Dean of Engineering"
+    "student_name": "Rahul Deshmukh",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230126",
+    "registration_number": "REG848217",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 9.58)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00126.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00126_mask.png"

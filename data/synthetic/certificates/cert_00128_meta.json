@@ -1,24 +1,24 @@
 {
   "id": "cert_00128",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_name",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
-    345,
-    195,
-    655,
-    235
+    75,
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Deepika Joshi' with 'Ananya Menon'",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Ananya Menon",
-    "institution": "Pacific Coast University",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "PCU-20230128",
-    "registration_number": "REG865110",
-    "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 9.58)",
-    "authority": "Dean of Engineering"
+    "student_name": "Vikram Malhotra",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230128",
+    "registration_number": "REG742464",
+    "issue_date": "29th February 2026",
+    "grade": "First Class with Distinction (CGPA: 9.0)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00128.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00128_mask.png"

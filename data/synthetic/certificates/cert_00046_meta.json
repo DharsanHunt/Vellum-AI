@@ -12,13 +12,13 @@
   "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
     "student_name": "Rohan Gupta",
-    "institution": "Pacific Coast University",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "PCU-20230046",
-    "registration_number": "REG943523",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "GISE-20230046",
+    "registration_number": "REG748553",
     "issue_date": "29th February 2026",
-    "grade": "First Class Honours (CGPA: 9.77)",
-    "authority": "Dean of Engineering"
+    "grade": "First Class with Distinction (CGPA: 9.59)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00046.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00046_mask.png"

@@ -1,23 +1,23 @@
 {
   "id": "lor_00056",
   "status": "CONFLICT",
-  "issue": "designation_mismatch",
-  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
+  "issue": "copy_text",
+  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
   "is_valid": false,
   "entities": {
-    "student_name": "Arun Kumar",
-    "recommender": "Dr. Meenakshi Sundaram",
-    "designation": "Undergraduate Peer Tutor & Lab Assistant",
-    "institution": "Global Institute of Science & Engineering",
+    "student_name": "Aditya Verma",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
       "C++",
       "CUDA",
       "Embedded Robotics",
       "ROS2"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2021-2023"
   },
-  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nUndergraduate Peer Tutor & Lab Assistant\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Aditya Verma who studied at Metropolitan University of Computing. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nProf. Elena Rostova\nDistinguished Professor\nMetropolitan University of Computing"
 }

@@ -1,24 +1,24 @@
 {
   "id": "cert_00044",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "copy_paste_region",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    455,
-    300,
-    485
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Sneha Patel' with 'Shreya Patel'",
   "entities": {
-    "student_name": "Ananya Sundaram",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "STRI-20230044",
-    "registration_number": "REG263908",
-    "issue_date": "15th July 2021",
-    "grade": "Grade A+ (CGPA: 8.64)",
-    "authority": "Academic Provost"
+    "student_name": "Shreya Patel",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "MUC-20230044",
+    "registration_number": "REG771839",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.47)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00044.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00044_mask.png"

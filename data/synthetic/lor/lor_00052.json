@@ -1,23 +1,23 @@
 {
   "id": "lor_00052",
   "status": "CONFLICT",
-  "issue": "institution_mismatch",
-  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Apex University of Technology'.",
+  "issue": "date_mismatch",
+  "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2020-2024).",
   "is_valid": false,
   "entities": {
     "student_name": "Arun Kumar",
-    "recommender": "Dr. Meenakshi Sundaram",
-    "designation": "Associate Professor",
-    "institution": "Fake Stanford Affiliate College of Technology",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
     "skills": [
-      "Python",
-      "PyTorch",
-      "Distributed Systems",
-      "Kubernetes"
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2012-2015"
   },
-  "text": "DEPARTMENT OF INFORMATION SCIENCE\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nFake Stanford Affiliate College of Technology\nEmail: .meenakshi.sundaram@fakestanfo.edu"
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Metropolitan University of Computing.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
 }

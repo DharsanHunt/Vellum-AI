@@ -1,24 +1,24 @@
 {
   "id": "cert_00025",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    75,
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "GISE-20230025",
-    "registration_number": "REG751270",
-    "issue_date": "15th July 2021",
-    "grade": "First Class with Distinction (CGPA: 9.65)",
-    "authority": "Registrar & Controller of Examinations"
+    "student_name": "Vikram Malhotra",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "STRI-20230025",
+    "registration_number": "REG933211",
+    "issue_date": "29th February 2026",
+    "grade": "Grade A+ (CGPA: 9.55)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00025.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00025_mask.png"

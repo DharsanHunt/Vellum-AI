@@ -1,23 +1,23 @@
 {
   "id": "lor_00010",
   "status": "CONFLICT",
-  "issue": "name_mismatch",
-  "issue_description": "Student name inside letter body ('Sneha Rajendra Patel') differs from verified profile ('Sneha Patel').",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
   "is_valid": false,
   "entities": {
-    "student_name": "Sneha Rajendra Patel",
-    "recommender": "Dr. Meenakshi Sundaram",
-    "designation": "Associate Professor",
-    "institution": "Global Institute of Science & Engineering",
+    "student_name": "Priya Sharma",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "Apex University of Technology",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
     "skills": [
-      "Computer Vision",
-      "OpenCV",
-      "TensorFlow",
-      "Edge AI"
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2019-2023"
   },
-  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Rajendra Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.\n\nDuring this tenure, Sneha Rajendra Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Rajendra Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Rajendra Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nUndergraduate Peer Tutor & Lab Assistant\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
 }

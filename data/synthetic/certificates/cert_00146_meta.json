@@ -1,24 +1,24 @@
 {
   "id": "cert_00146",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "copy_paste_region",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    455,
-    300,
-    485
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Ananya Sundaram' with 'Divya Reddy'",
   "entities": {
-    "student_name": "Arun Kumar",
-    "institution": "Apex University of Technology",
-    "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "AUST-20230146",
-    "registration_number": "REG380835",
-    "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 8.21)",
-    "authority": "Dean of Academic Affairs"
+    "student_name": "Divya Reddy",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "GISE-20230146",
+    "registration_number": "REG786877",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 8.44)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00146.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00146_mask.png"

@@ -1,19 +1,19 @@
-DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB
-NATIONAL INSTITUTE OF HIGHER STUDIES
+DEPARTMENT OF ROBOTICS & AUTOMATION
+FAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY
 Date: October 24, 2024
 
 To the Graduate Admissions Committee,
 
-I am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.
+I am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Fake Stanford Affiliate College of Technology.
 
-During this tenure, Arun Kumar demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+During this tenure, Arun Kumar demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
 
 Beyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
 
 Warm regards,
 
-Dr. Rajeshwar Rao
-Undergraduate Peer Tutor & Lab Assistant
-Artificial Intelligence Lab
-National Institute of Higher Studies
-Email: .rajeshwar.rao@nationalin.edu
+Prof. Elena Rostova
+Distinguished Professor
+Robotics & Automation
+Fake Stanford Affiliate College of Technology
+Email: prof..elena.rostova@fakestanfo.edu

@@ -1,24 +1,24 @@
 {
   "id": "cert_00013",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "copy_paste_region",
+  "tampering_type": "changed_course",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    455,
     300,
-    485
+    295,
+    700,
+    335
   ],
-  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
   "entities": {
-    "student_name": "Deepika Joshi",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "STRI-20230013",
-    "registration_number": "REG909355",
+    "student_name": "Nikhil Nair",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Doctor of Philosophy in Quantum Engineering",
+    "certificate_number": "GISE-20230013",
+    "registration_number": "REG172257",
     "issue_date": "15th July 2023",
-    "grade": "First Class with Distinction (CGPA: 8.29)",
-    "authority": "Academic Provost"
+    "grade": "Grade A+ (CGPA: 8.34)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00013.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00013_mask.png"

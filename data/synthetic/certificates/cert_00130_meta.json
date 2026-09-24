@@ -1,24 +1,24 @@
 {
   "id": "cert_00130",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_date",
+  "tampering_type": "modified_stamp",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    485,
-    320,
-    515
+    400,
+    460,
+    500,
+    560
   ],
-  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Rahul Deshmukh",
-    "institution": "Metropolitan University of Computing",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "MUC-20230130",
-    "registration_number": "REG361644",
-    "issue_date": "29th February 2026",
-    "grade": "Grade A+ (CGPA: 8.95)",
-    "authority": "Vice Chancellor"
+    "student_name": "Kavita Reddy",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "GISE-20230130",
+    "registration_number": "REG991741",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 8.47)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00130.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00130_mask.png"

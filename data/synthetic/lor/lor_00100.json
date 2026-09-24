@@ -1,14 +1,14 @@
 {
   "id": "lor_00100",
   "status": "CONFLICT",
-  "issue": "institution_mismatch",
-  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'National Institute of Higher Studies'.",
+  "issue": "date_mismatch",
+  "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2019-2023).",
   "is_valid": false,
   "entities": {
-    "student_name": "Aditya Verma",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Fake Stanford Affiliate College of Technology",
+    "student_name": "Priya Sharma",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
     "relationship": "Thesis Advisor & Course Instructor",
     "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
     "skills": [
@@ -17,7 +17,7 @@
       "FastAPI",
       "PostgreSQL"
     ],
-    "dates_taught": "2021-2023"
+    "dates_taught": "2012-2015"
   },
-  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nFake Stanford Affiliate College of Technology\nEmail: .k..v..ramanathan@fakestanfo.edu"
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Apex University of Technology.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
 }

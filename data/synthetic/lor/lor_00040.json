@@ -1,23 +1,23 @@
 {
   "id": "lor_00040",
   "status": "CONFLICT",
-  "issue": "copy_text",
-  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
+  "issue": "institution_mismatch",
+  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'National Institute of Higher Studies'.",
   "is_valid": false,
   "entities": {
-    "student_name": "Arun Kumar",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Pacific Coast University",
+    "student_name": "Aditya Verma",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Fake Stanford Affiliate College of Technology",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
     "skills": [
-      "Natural Language Processing",
-      "Transformers",
-      "FastAPI",
-      "PostgreSQL"
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2021-2023"
   },
-  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Arun Kumar who studied at Pacific Coast University. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nDr. K. V. Ramanathan\nDean of Academic Research\nPacific Coast University"
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nFake Stanford Affiliate College of Technology\nEmail: prof..elena.rostova@fakestanfo.edu"
 }

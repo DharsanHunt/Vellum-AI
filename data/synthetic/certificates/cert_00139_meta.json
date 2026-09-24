@@ -9,15 +9,15 @@
     655,
     235
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Rahul Deshmukh' with 'Amit Verma'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Arjun Kumar'",
   "entities": {
-    "student_name": "Amit Verma",
+    "student_name": "Arjun Kumar",
     "institution": "Metropolitan University of Computing",
-    "degree": "Master of Business Administration in Data Analytics",
+    "degree": "Bachelor of Technology in Computer Science",
     "certificate_number": "MUC-20230139",
-    "registration_number": "REG225742",
-    "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 8.99)",
+    "registration_number": "REG758900",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 8.8)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00139.png",

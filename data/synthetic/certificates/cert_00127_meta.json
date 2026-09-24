@@ -11,14 +11,14 @@
   ],
   "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Meera Iyer",
-    "institution": "Apex University of Technology",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "AUST-20230127",
-    "registration_number": "REG749375",
-    "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 8.23)",
-    "authority": "Dean of Academic Affairs"
+    "student_name": "Sneha Patel",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "STRI-20230127",
+    "registration_number": "REG852908",
+    "issue_date": "15th July 2022",
+    "grade": "First Class with Distinction (CGPA: 9.18)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00127.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00127_mask.png"

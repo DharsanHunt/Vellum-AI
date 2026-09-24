@@ -1,24 +1,24 @@
 {
   "id": "cert_00145",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_institution",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    250,
-    60,
-    750,
-    105
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Counterfeit Polytechnic Institute",
-    "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "STRI-20230145",
-    "registration_number": "REG688317",
+    "student_name": "Kavita Reddy",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "GISE-20230145",
+    "registration_number": "REG738683",
     "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 8.69)",
-    "authority": "Academic Provost"
+    "grade": "First Class with Distinction (CGPA: 9.45)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00145.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00145_mask.png"

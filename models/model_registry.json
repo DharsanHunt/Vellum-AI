@@ -48,7 +48,7 @@
     "metrics": {
       "accuracy": 0.98,
       "f1": 0.98,
-      "loss": 0.0003
+      "loss": 0.0007
     }
   },
   "tampering_detector": {

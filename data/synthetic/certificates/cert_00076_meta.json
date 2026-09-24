@@ -9,16 +9,16 @@
     655,
     235
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Vikram Malhotra' with 'Vishal Malhotra'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Priya Sharma' with 'Pooja Sharma'",
   "entities": {
-    "student_name": "Vishal Malhotra",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "GISE-20230076",
-    "registration_number": "REG644890",
-    "issue_date": "15th July 2022",
-    "grade": "First Class with Distinction (CGPA: 9.61)",
-    "authority": "Registrar & Controller of Examinations"
+    "student_name": "Pooja Sharma",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "PCU-20230076",
+    "registration_number": "REG664843",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 9.11)",
+    "authority": "Dean of Engineering"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00076.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00076_mask.png"

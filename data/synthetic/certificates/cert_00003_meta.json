@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Rohan Gupta",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "GISE-20230003",
-    "registration_number": "REG991526",
-    "issue_date": "15th July 2023",
-    "grade": "Grade A+ (CGPA: 9.12)",
-    "authority": "Registrar & Controller of Examinations"
+    "student_name": "Nikhil Nair",
+    "institution": "Pacific Coast University",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "PCU-20230003",
+    "registration_number": "REG288130",
+    "issue_date": "15th July 2021",
+    "grade": "First Class Honours (CGPA: 8.26)",
+    "authority": "Dean of Engineering"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00003.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00003_mask.png"

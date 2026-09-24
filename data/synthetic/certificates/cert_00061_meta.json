@@ -1,23 +1,23 @@
 {
   "id": "cert_00061",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "copy_paste_region",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    455,
-    300,
-    485
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Deepika Joshi",
+    "student_name": "Rohan Gupta",
     "institution": "Metropolitan University of Computing",
     "degree": "Bachelor of Engineering in Electronics",
     "certificate_number": "MUC-20230061",
-    "registration_number": "REG578462",
-    "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 8.42)",
+    "registration_number": "REG553241",
+    "issue_date": "15th July 2023",
+    "grade": "First Class Honours (CGPA: 9.11)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00061.png",

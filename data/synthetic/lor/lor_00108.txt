@@ -1,19 +1,19 @@
-DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS
-PACIFIC COAST UNIVERSITY
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+APEX UNIVERSITY OF TECHNOLOGY
 Date: October 24, 2024
 
 To the Graduate Admissions Committee,
 
-I am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.
+I am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Apex University of Technology.
 
-During this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+During this tenure, Aditya Verma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
 
-Beyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
+Beyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
 
 Warm regards,
 
-Dr. K. V. Ramanathan
-Dean of Academic Research
-Electrical & Computer Systems
-Pacific Coast University
-Email: .k..v..ramanathan@pacificcoa.edu
+Dr. Arvind Swaminathan
+Professor & Head of Department
+Computer Science & Engineering
+Apex University of Technology
+Email: .arvind.swaminathan@apexuniver.edu

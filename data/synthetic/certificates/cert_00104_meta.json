@@ -1,24 +1,24 @@
 {
   "id": "cert_00104",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_institution",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
-    250,
-    60,
-    750,
-    105
+    75,
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Arun Kumar",
-    "institution": "Counterfeit Polytechnic Institute",
+    "student_name": "Kavita Reddy",
+    "institution": "Metropolitan University of Computing",
     "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "AUST-20230104",
-    "registration_number": "REG199819",
-    "issue_date": "15th July 2022",
-    "grade": "First Class with Distinction (CGPA: 9.27)",
-    "authority": "Dean of Academic Affairs"
+    "certificate_number": "MUC-20230104",
+    "registration_number": "REG719671",
+    "issue_date": "29th February 2026",
+    "grade": "First Class Honours (CGPA: 9.23)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00104.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00104_mask.png"

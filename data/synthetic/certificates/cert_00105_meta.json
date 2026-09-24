@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Arun Kumar",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "GISE-20230105",
-    "registration_number": "REG954773",
-    "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 8.42)",
-    "authority": "Registrar & Controller of Examinations"
+    "student_name": "Rohan Gupta",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "STRI-20230105",
+    "registration_number": "REG492782",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 9.5)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00105.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00105_mask.png"

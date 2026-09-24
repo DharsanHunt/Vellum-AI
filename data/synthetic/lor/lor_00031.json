@@ -1,23 +1,23 @@
 {
   "id": "lor_00031",
   "status": "CONFLICT",
-  "issue": "contradictory_claim",
-  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+  "issue": "date_mismatch",
+  "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2019-2023).",
   "is_valid": false,
   "entities": {
-    "student_name": "Sneha Patel",
-    "recommender": "Dr. Rajeshwar Rao",
-    "designation": "Senior Research Director",
-    "institution": "National Institute of Higher Studies",
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "project": "Privacy-Preserving Federated Learning on Edge Devices",
     "skills": [
-      "C++",
-      "CUDA",
-      "Embedded Robotics",
-      "ROS2"
+      "Python",
+      "PyTorch",
+      "Distributed Systems",
+      "Kubernetes"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2012-2015"
   },
-  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Metropolitan University of Computing.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
 }

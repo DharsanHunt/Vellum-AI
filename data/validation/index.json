@@ -1,7 +1,7 @@
 {
   "split": "validation",
-  "total_certificates": 18,
-  "total_lors": 16,
+  "total_certificates": 20,
+  "total_lors": 14,
   "certificates": [
     {
       "id": "cert_00147",
@@ -10,21 +10,21 @@
       "mask_path": "data\\processed\\masks\\cert_00147_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00147_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00147_stamp.png",
-      "sha256": "e00971aa8f684311dc75035853fe084966d77312e63a7a1dd6a528111a654be0",
+      "sha256": "f6d6326a9353e9cc09d0e09b312f53655be9d3e9cb427ede7bf02253fb568ec5",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Rahul Deshmukh",
-        "institution": "Apex University of Technology",
+        "student_name": "Ananya Sundaram",
+        "institution": "Stanford Tech Research Institute",
         "degree": "Bachelor of Engineering in Electronics",
-        "certificate_number": "AUST-20230147",
-        "registration_number": "REG500243",
-        "issue_date": "15th July 2022",
-        "grade": "First Class Honours (CGPA: 8.87)",
-        "authority": "Dean of Academic Affairs"
+        "certificate_number": "STRI-20230147",
+        "registration_number": "REG859722",
+        "issue_date": "15th July 2024",
+        "grade": "First Class Honours (CGPA: 9.72)",
+        "authority": "Academic Provost"
       }
     },
     {
@@ -34,20 +34,20 @@
       "mask_path": "data\\processed\\masks\\cert_00141_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00141_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00141_stamp.png",
-      "sha256": "3063040c3a25c2794b31584cf7c67a5a51a5b26eedf2f3b97be11f4000a6543b",
+      "sha256": "17d38422d9f6f050840c6d43ce1db127c52499b1cda8163d3e2508262b9c2f8e",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Arun Kumar",
+        "student_name": "Deepika Joshi",
         "institution": "Global Institute of Science & Engineering",
         "degree": "Master of Science in Artificial Intelligence",
         "certificate_number": "GISE-20230141",
-        "registration_number": "REG490873",
-        "issue_date": "15th July 2021",
-        "grade": "First Class with Distinction (CGPA: 9.78)",
+        "registration_number": "REG300410",
+        "issue_date": "15th July 2022",
+        "grade": "Grade A+ (CGPA: 8.22)",
         "authority": "Registrar & Controller of Examinations"
       }
     },
@@ -58,21 +58,21 @@
       "mask_path": "data\\processed\\masks\\cert_00006_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00006_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00006_stamp.png",
-      "sha256": "ed3364cd409eebeda2590b0178f2d379a7f4087f9a31daeb9596c60d28e0e39b",
+      "sha256": "ea62af3ef87e35b922614f2abe9e26f3acdc91da69b69a5970986dce9d726dba",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Nikhil Nair",
-        "institution": "Global Institute of Science & Engineering",
-        "degree": "Master of Science in Artificial Intelligence",
-        "certificate_number": "GISE-20230006",
-        "registration_number": "REG241423",
-        "issue_date": "15th July 2021",
-        "grade": "Grade A+ (CGPA: 8.45)",
-        "authority": "Registrar & Controller of Examinations"
+        "student_name": "Ananya Sundaram",
+        "institution": "Pacific Coast University",
+        "degree": "Bachelor of Engineering in Electronics",
+        "certificate_number": "PCU-20230006",
+        "registration_number": "REG298755",
+        "issue_date": "15th July 2022",
+        "grade": "Grade A+ (CGPA: 8.77)",
+        "authority": "Dean of Engineering"
       }
     },
     {
@@ -82,21 +82,21 @@
       "mask_path": "data\\processed\\masks\\cert_00081_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00081_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00081_stamp.png",
-      "sha256": "0c0a428b466ebb2051490aaaaa274cc28a9ddf9cd88485cb6a3585d7ea18b1ee",
+      "sha256": "01241e62e939418e6207e72165c0542784ad7c6565f809bc22062a7e3114eb12",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Deepika Joshi",
-        "institution": "Metropolitan University of Computing",
-        "degree": "Master of Business Administration in Data Analytics",
-        "certificate_number": "MUC-20230081",
-        "registration_number": "REG403579",
-        "issue_date": "15th July 2024",
-        "grade": "Grade A+ (CGPA: 9.56)",
-        "authority": "Vice Chancellor"
+        "student_name": "Sneha Patel",
+        "institution": "Global Institute of Science & Engineering",
+        "degree": "Bachelor of Engineering in Electronics",
+        "certificate_number": "GISE-20230081",
+        "registration_number": "REG792279",
+        "issue_date": "15th July 2022",
+        "grade": "First Class with Distinction (CGPA: 9.63)",
+        "authority": "Registrar & Controller of Examinations"
       }
     },
     {
@@ -106,21 +106,21 @@
       "mask_path": "data\\processed\\masks\\cert_00111_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00111_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00111_stamp.png",
-      "sha256": "d63e79bbb5e7dcfd4633acdb51a3023a2ea8afb9decae96da5d989f34a348655",
+      "sha256": "9d7a58aa00ae9d87d99bde96f8502c8f2a267b3f13cafb49ac178bdb9f6a1c46",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Vikram Malhotra",
-        "institution": "Metropolitan University of Computing",
+        "student_name": "Sneha Patel",
+        "institution": "National Institute of Higher Studies",
         "degree": "Master of Science in Artificial Intelligence",
-        "certificate_number": "MUC-20230111",
-        "registration_number": "REG420070",
-        "issue_date": "15th July 2021",
-        "grade": "First Class with Distinction (CGPA: 8.32)",
-        "authority": "Vice Chancellor"
+        "certificate_number": "NIHS-20230111",
+        "registration_number": "REG156725",
+        "issue_date": "15th July 2022",
+        "grade": "Grade A+ (CGPA: 9.12)",
+        "authority": "Director of Certification"
       }
     },
     {
@@ -130,21 +130,21 @@
       "mask_path": "data\\processed\\masks\\cert_00015_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00015_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00015_stamp.png",
-      "sha256": "b68cc831ee44504b6debb6b9bd2a11cb11c119df5f0811c1325cb636ada361db",
+      "sha256": "9c5dc7b3717223ea6b8f1bf9f873d6ee2c4dc4f5d4aaf95626d36dbeabaa5106",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Nikhil Nair",
-        "institution": "Pacific Coast University",
-        "degree": "Bachelor of Technology in Computer Science",
-        "certificate_number": "PCU-20230015",
-        "registration_number": "REG182793",
-        "issue_date": "15th July 2024",
-        "grade": "First Class Honours (CGPA: 9.06)",
-        "authority": "Dean of Engineering"
+        "student_name": "Rahul Deshmukh",
+        "institution": "Metropolitan University of Computing",
+        "degree": "Bachelor of Engineering in Electronics",
+        "certificate_number": "MUC-20230015",
+        "registration_number": "REG152191",
+        "issue_date": "15th July 2022",
+        "grade": "First Class with Distinction (CGPA: 8.92)",
+        "authority": "Vice Chancellor"
       }
     },
     {
@@ -154,261 +154,165 @@
       "mask_path": "data\\processed\\masks\\cert_00102_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00102_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00102_stamp.png",
-      "sha256": "95484d080085cd9ccface44d54cd000d0260fd938a1f0c8a42d6c287cd9f49b0",
+      "sha256": "65d7349ea03119d8d2f8ce701513fbcc32a8d9747c5076de6a5f9bfc0ef09927",
       "width": 1000,
       "height": 700,
       "is_tampered": false,
       "tampering_type": "clean",
       "tamper_explanation": "Pristine Authentic Document",
       "entities": {
-        "student_name": "Arun Kumar",
+        "student_name": "Deepika Joshi",
         "institution": "Global Institute of Science & Engineering",
-        "degree": "Master of Science in Artificial Intelligence",
+        "degree": "Bachelor of Science in Information Technology",
         "certificate_number": "GISE-20230102",
-        "registration_number": "REG741530",
-        "issue_date": "15th July 2022",
-        "grade": "First Class with Distinction (CGPA: 9.18)",
-        "authority": "Registrar & Controller of Examinations"
-      }
-    },
-    {
-      "id": "cert_00106",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00106.png",
-      "mask_path": "data\\processed\\masks\\cert_00106_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00106_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00106_stamp.png",
-      "sha256": "1b95ece210bdced20927eeaf6ac870f5277504bcf977b8f3f353d23273d255be",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "removed_signature",
-      "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
-      "entities": {
-        "student_name": "Priya Sharma",
-        "institution": "Stanford Tech Research Institute",
-        "degree": "Master of Science in Artificial Intelligence",
-        "certificate_number": "STRI-20230106",
-        "registration_number": "REG784429",
-        "issue_date": "15th July 2021",
-        "grade": "First Class Honours (CGPA: 9.14)",
-        "authority": "Academic Provost"
-      }
-    },
-    {
-      "id": "cert_00026",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00026.png",
-      "mask_path": "data\\processed\\masks\\cert_00026_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00026_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00026_stamp.png",
-      "sha256": "5ae7351c00770abdde55d3a0b662ebb7ca6b2b43dc714aeab15163f3e8bf09b9",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "changed_course",
-      "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
-      "entities": {
-        "student_name": "Rohan Gupta",
-        "institution": "Global Institute of Science & Engineering",
-        "degree": "Doctor of Philosophy in Quantum Engineering",
-        "certificate_number": "GISE-20230026",
-        "registration_number": "REG255266",
-        "issue_date": "15th July 2022",
-        "grade": "Grade A+ (CGPA: 8.4)",
-        "authority": "Registrar & Controller of Examinations"
-      }
-    },
-    {
-      "id": "cert_00025",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00025.png",
-      "mask_path": "data\\processed\\masks\\cert_00025_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00025_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00025_stamp.png",
-      "sha256": "e252fa12329b2836cb8503836045b95f82e2b1f16243450ffa031c56eee1ca27",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "changed_course",
-      "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
-      "entities": {
-        "student_name": "Priya Sharma",
-        "institution": "Global Institute of Science & Engineering",
-        "degree": "Doctor of Philosophy in Quantum Engineering",
-        "certificate_number": "GISE-20230025",
-        "registration_number": "REG751270",
-        "issue_date": "15th July 2021",
-        "grade": "First Class with Distinction (CGPA: 9.65)",
-        "authority": "Registrar & Controller of Examinations"
-      }
-    },
-    {
-      "id": "cert_00103",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00103.png",
-      "mask_path": "data\\processed\\masks\\cert_00103_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00103_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00103_stamp.png",
-      "sha256": "76f7a19979e56a90e34a146d194a9e502e5fea9380fbcdb45b3b17fd7199b1a9",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "changed_date",
-      "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
-      "entities": {
-        "student_name": "Rohan Gupta",
-        "institution": "Apex University of Technology",
-        "degree": "Bachelor of Engineering in Electronics",
-        "certificate_number": "AUST-20230103",
-        "registration_number": "REG560118",
-        "issue_date": "29th February 2026",
-        "grade": "First Class Honours (CGPA: 9.45)",
-        "authority": "Dean of Academic Affairs"
-      }
-    },
-    {
-      "id": "cert_00109",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00109.png",
-      "mask_path": "data\\processed\\masks\\cert_00109_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00109_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00109_stamp.png",
-      "sha256": "124f33c6e2dcc4e3443d8bc43c5e963b1ac850f173f9a39366713b4d843b27f1",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "copy_paste_region",
-      "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
-      "entities": {
-        "student_name": "Vikram Malhotra",
-        "institution": "Pacific Coast University",
-        "degree": "Master of Science in Artificial Intelligence",
-        "certificate_number": "PCU-20230109",
-        "registration_number": "REG484960",
+        "registration_number": "REG752422",
         "issue_date": "15th July 2024",
-        "grade": "First Class Honours (CGPA: 8.35)",
-        "authority": "Dean of Engineering"
+        "grade": "First Class with Distinction (CGPA: 8.88)",
+        "authority": "Registrar & Controller of Examinations"
       }
     },
     {
-      "id": "cert_00044",
+      "id": "cert_00112",
       "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00044.png",
-      "mask_path": "data\\processed\\masks\\cert_00044_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00044_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00044_stamp.png",
-      "sha256": "0f485efcb2fe41aaa2f81068cfcce0e08158365f44a32059bf882a4ea8dcdf62",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "copy_paste_region",
-      "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
-      "entities": {
-        "student_name": "Ananya Sundaram",
-        "institution": "Stanford Tech Research Institute",
-        "degree": "Bachelor of Technology in Computer Science",
-        "certificate_number": "STRI-20230044",
-        "registration_number": "REG263908",
-        "issue_date": "15th July 2021",
-        "grade": "Grade A+ (CGPA: 8.64)",
-        "authority": "Academic Provost"
-      }
-    },
-    {
-      "id": "cert_00092",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00092.png",
-      "mask_path": "data\\processed\\masks\\cert_00092_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00092_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00092_stamp.png",
-      "sha256": "bcecbd318b6ec5c573047d8e10c646a383ef2c2e6c9d70652806b2b7351b4b43",
+      "image_path": "data\\processed\\images\\cert_00112.png",
+      "mask_path": "data\\processed\\masks\\cert_00112_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00112_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00112_stamp.png",
+      "sha256": "1c93e90b2863562f5d42ad4e566eb6c6f23f32cbf8dcb6ce2c1106165c86492d",
       "width": 1000,
       "height": 700,
       "is_tampered": true,
       "tampering_type": "modified_stamp",
       "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
       "entities": {
-        "student_name": "Aditya Verma",
+        "student_name": "Deepika Joshi",
+        "institution": "Pacific Coast University",
+        "degree": "Bachelor of Technology in Computer Science",
+        "certificate_number": "PCU-20230112",
+        "registration_number": "REG948866",
+        "issue_date": "15th July 2021",
+        "grade": "Grade A+ (CGPA: 9.48)",
+        "authority": "Dean of Engineering"
+      }
+    },
+    {
+      "id": "cert_00091",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00091.png",
+      "mask_path": "data\\processed\\masks\\cert_00091_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00091_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00091_stamp.png",
+      "sha256": "ee3b307bf94b60afec88e88e47fa9b8810e89be1798a1391ac24181e7016458f",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "modified_stamp",
+      "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+      "entities": {
+        "student_name": "Rohan Gupta",
         "institution": "Apex University of Technology",
-        "degree": "Bachelor of Engineering in Electronics",
-        "certificate_number": "AUST-20230092",
-        "registration_number": "REG104206",
+        "degree": "Master of Business Administration in Data Analytics",
+        "certificate_number": "AUST-20230091",
+        "registration_number": "REG720097",
         "issue_date": "15th July 2024",
-        "grade": "First Class with Distinction (CGPA: 8.23)",
+        "grade": "First Class Honours (CGPA: 8.55)",
         "authority": "Dean of Academic Affairs"
       }
     },
     {
-      "id": "cert_00113",
+      "id": "cert_00038",
       "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00113.png",
-      "mask_path": "data\\processed\\masks\\cert_00113_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00113_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00113_stamp.png",
-      "sha256": "d7398f3cc94245dea5a9e210c5825d188513b7ee0d9525b556d78475f1eb232a",
+      "image_path": "data\\processed\\images\\cert_00038.png",
+      "mask_path": "data\\processed\\masks\\cert_00038_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00038_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00038_stamp.png",
+      "sha256": "5af62dd2571e5f8a340c9a7e4c10c4d688e492a14e4fb4c832cc2b1f39d5bab0",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "modified_stamp",
+      "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+      "entities": {
+        "student_name": "Deepika Joshi",
+        "institution": "National Institute of Higher Studies",
+        "degree": "Master of Business Administration in Data Analytics",
+        "certificate_number": "NIHS-20230038",
+        "registration_number": "REG934089",
+        "issue_date": "15th July 2022",
+        "grade": "Grade A+ (CGPA: 8.7)",
+        "authority": "Director of Certification"
+      }
+    },
+    {
+      "id": "cert_00104",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00104.png",
+      "mask_path": "data\\processed\\masks\\cert_00104_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00104_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00104_stamp.png",
+      "sha256": "692b6caf41617f390ec0708d3186c8b6b9ff6e99be07fbe970057cbd33a2432b",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "changed_date",
+      "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+      "entities": {
+        "student_name": "Kavita Reddy",
+        "institution": "Metropolitan University of Computing",
+        "degree": "Master of Business Administration in Data Analytics",
+        "certificate_number": "MUC-20230104",
+        "registration_number": "REG719671",
+        "issue_date": "29th February 2026",
+        "grade": "First Class Honours (CGPA: 9.23)",
+        "authority": "Vice Chancellor"
+      }
+    },
+    {
+      "id": "cert_00077",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00077.png",
+      "mask_path": "data\\processed\\masks\\cert_00077_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00077_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00077_stamp.png",
+      "sha256": "d085154784fcc950d6dfe682005055d90f1d9fd5bf18ea18e124ba94b43713f8",
       "width": 1000,
       "height": 700,
       "is_tampered": true,
       "tampering_type": "changed_name",
-      "tamper_explanation": "Potential name alteration detected: replaced 'Arun Kumar' with 'Vishal Malhotra'",
+      "tamper_explanation": "Potential name alteration detected: replaced 'Nikhil Nair' with 'Vishal Malhotra'",
       "entities": {
         "student_name": "Vishal Malhotra",
-        "institution": "Metropolitan University of Computing",
-        "degree": "Bachelor of Science in Information Technology",
-        "certificate_number": "MUC-20230113",
-        "registration_number": "REG211712",
-        "issue_date": "15th July 2024",
-        "grade": "Grade A+ (CGPA: 9.48)",
-        "authority": "Vice Chancellor"
-      }
-    },
-    {
-      "id": "cert_00022",
-      "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00022.png",
-      "mask_path": "data\\processed\\masks\\cert_00022_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00022_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00022_stamp.png",
-      "sha256": "ba3cc5afc10e316ae906f2d58029009b114e31060938492f04de25cb90a7031d",
-      "width": 1000,
-      "height": 700,
-      "is_tampered": true,
-      "tampering_type": "changed_certificate_number",
-      "tamper_explanation": "Certificate ID modification detected near serial number field: 'STRI-99999999'",
-      "entities": {
-        "student_name": "Rohan Gupta",
-        "institution": "Stanford Tech Research Institute",
-        "degree": "Bachelor of Engineering in Electronics",
-        "certificate_number": "STRI-99999999",
-        "registration_number": "REG137569",
+        "institution": "Apex University of Technology",
+        "degree": "Bachelor of Technology in Computer Science",
+        "certificate_number": "AUST-20230077",
+        "registration_number": "REG309570",
         "issue_date": "15th July 2022",
-        "grade": "First Class with Distinction (CGPA: 9.32)",
-        "authority": "Academic Provost"
+        "grade": "First Class Honours (CGPA: 8.41)",
+        "authority": "Dean of Academic Affairs"
       }
     },
     {
-      "id": "cert_00148",
+      "id": "cert_00016",
       "type": "ACADEMIC_CERTIFICATE",
-      "image_path": "data\\processed\\images\\cert_00148.png",
-      "mask_path": "data\\processed\\masks\\cert_00148_mask.png",
-      "signature_crop": "data\\processed\\signatures\\cert_00148_sig.png",
-      "stamp_crop": "data\\processed\\stamps\\cert_00148_stamp.png",
-      "sha256": "8469d6c5aa390e75d37b4b34e9dddd3f44c5417ab48ff4d357f1d3ba52074d55",
+      "image_path": "data\\processed\\images\\cert_00016.png",
+      "mask_path": "data\\processed\\masks\\cert_00016_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00016_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00016_stamp.png",
+      "sha256": "8751f42188c273a1d1ca62bb95397a3b619c93d0308250c3faea799ee61cfb54",
       "width": 1000,
       "height": 700,
       "is_tampered": true,
-      "tampering_type": "changed_institution",
-      "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+      "tampering_type": "changed_name",
+      "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Ananya Menon'",
       "entities": {
-        "student_name": "Vikram Malhotra",
-        "institution": "Counterfeit Polytechnic Institute",
-        "degree": "Master of Science in Artificial Intelligence",
-        "certificate_number": "MUC-20230148",
-        "registration_number": "REG798336",
-        "issue_date": "15th July 2023",
-        "grade": "First Class with Distinction (CGPA: 9.39)",
-        "authority": "Vice Chancellor"
+        "student_name": "Ananya Menon",
+        "institution": "National Institute of Higher Studies",
+        "degree": "Bachelor of Engineering in Electronics",
+        "certificate_number": "NIHS-20230016",
+        "registration_number": "REG319263",
+        "issue_date": "15th July 2021",
+        "grade": "First Class with Distinction (CGPA: 9.76)",
+        "authority": "Director of Certification"
       }
     },
     {
@@ -418,21 +322,165 @@
       "mask_path": "data\\processed\\masks\\cert_00119_mask.png",
       "signature_crop": "data\\processed\\signatures\\cert_00119_sig.png",
       "stamp_crop": "data\\processed\\stamps\\cert_00119_stamp.png",
-      "sha256": "d7dcb536ae49d0688841674fcf5e19d95eecdf9036b5a323e7348b9ade364172",
+      "sha256": "6c10fcafa28a66970eccafce15f769a4efd2cfbd369c6c6d6eb72c0a4cb2fa90",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "removed_signature",
+      "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+      "entities": {
+        "student_name": "Kavita Reddy",
+        "institution": "Stanford Tech Research Institute",
+        "degree": "Bachelor of Science in Information Technology",
+        "certificate_number": "STRI-20230119",
+        "registration_number": "REG599748",
+        "issue_date": "15th July 2021",
+        "grade": "First Class with Distinction (CGPA: 9.65)",
+        "authority": "Academic Provost"
+      }
+    },
+    {
+      "id": "cert_00029",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00029.png",
+      "mask_path": "data\\processed\\masks\\cert_00029_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00029_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00029_stamp.png",
+      "sha256": "0b1632ab2652801af14de5ab08c7e819e794f23613da6118f5b24765c8618724",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "removed_signature",
+      "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+      "entities": {
+        "student_name": "Deepika Joshi",
+        "institution": "National Institute of Higher Studies",
+        "degree": "Bachelor of Science in Information Technology",
+        "certificate_number": "NIHS-20230029",
+        "registration_number": "REG598032",
+        "issue_date": "15th July 2021",
+        "grade": "First Class Honours (CGPA: 9.03)",
+        "authority": "Director of Certification"
+      }
+    },
+    {
+      "id": "cert_00031",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00031.png",
+      "mask_path": "data\\processed\\masks\\cert_00031_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00031_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00031_stamp.png",
+      "sha256": "895cbc411b5fef6c688f96c8c938bfba64e23480a732d6063b8623ae5fd611dc",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "changed_certificate_number",
+      "tamper_explanation": "Certificate ID modification detected near serial number field: 'PCU-99999999'",
+      "entities": {
+        "student_name": "Priya Sharma",
+        "institution": "Pacific Coast University",
+        "degree": "Bachelor of Science in Information Technology",
+        "certificate_number": "PCU-99999999",
+        "registration_number": "REG225993",
+        "issue_date": "15th July 2024",
+        "grade": "First Class with Distinction (CGPA: 8.85)",
+        "authority": "Dean of Engineering"
+      }
+    },
+    {
+      "id": "cert_00022",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00022.png",
+      "mask_path": "data\\processed\\masks\\cert_00022_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00022_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00022_stamp.png",
+      "sha256": "fbf8194ef6f0da5e79465680a11de766670cc2febe277a55f93e859e069ba01a",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "changed_course",
+      "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+      "entities": {
+        "student_name": "Aditya Verma",
+        "institution": "Global Institute of Science & Engineering",
+        "degree": "Doctor of Philosophy in Quantum Engineering",
+        "certificate_number": "GISE-20230022",
+        "registration_number": "REG222259",
+        "issue_date": "15th July 2024",
+        "grade": "First Class with Distinction (CGPA: 8.99)",
+        "authority": "Registrar & Controller of Examinations"
+      }
+    },
+    {
+      "id": "cert_00047",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00047.png",
+      "mask_path": "data\\processed\\masks\\cert_00047_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00047_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00047_stamp.png",
+      "sha256": "00018722b27d42dc4354ea7574c016518da87b9ec63ac3e761552e2d6b2e3eec",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "changed_course",
+      "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+      "entities": {
+        "student_name": "Aditya Verma",
+        "institution": "Pacific Coast University",
+        "degree": "Doctor of Philosophy in Quantum Engineering",
+        "certificate_number": "PCU-20230047",
+        "registration_number": "REG562578",
+        "issue_date": "15th July 2023",
+        "grade": "Grade A+ (CGPA: 9.45)",
+        "authority": "Dean of Engineering"
+      }
+    },
+    {
+      "id": "cert_00052",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00052.png",
+      "mask_path": "data\\processed\\masks\\cert_00052_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00052_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00052_stamp.png",
+      "sha256": "30c65a7d97508bee0ba9c5416648c933ba00b0b0bca5e4651f285dc547c805ea",
       "width": 1000,
       "height": 700,
       "is_tampered": true,
       "tampering_type": "changed_institution",
       "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
       "entities": {
-        "student_name": "Ananya Sundaram",
+        "student_name": "Aditya Verma",
         "institution": "Counterfeit Polytechnic Institute",
-        "degree": "Master of Science in Artificial Intelligence",
-        "certificate_number": "PCU-20230119",
-        "registration_number": "REG579216",
+        "degree": "Master of Business Administration in Data Analytics",
+        "certificate_number": "NIHS-20230052",
+        "registration_number": "REG933208",
         "issue_date": "15th July 2024",
-        "grade": "First Class Honours (CGPA: 8.55)",
-        "authority": "Dean of Engineering"
+        "grade": "Grade A+ (CGPA: 9.41)",
+        "authority": "Director of Certification"
+      }
+    },
+    {
+      "id": "cert_00133",
+      "type": "ACADEMIC_CERTIFICATE",
+      "image_path": "data\\processed\\images\\cert_00133.png",
+      "mask_path": "data\\processed\\masks\\cert_00133_mask.png",
+      "signature_crop": "data\\processed\\signatures\\cert_00133_sig.png",
+      "stamp_crop": "data\\processed\\stamps\\cert_00133_stamp.png",
+      "sha256": "7026fd4cbe151a8bcafdf7baa8b6b1c986dd66c8e513b0099f1f53affb25b2d8",
+      "width": 1000,
+      "height": 700,
+      "is_tampered": true,
+      "tampering_type": "copy_paste_region",
+      "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+      "entities": {
+        "student_name": "Sneha Patel",
+        "institution": "National Institute of Higher Studies",
+        "degree": "Master of Business Administration in Data Analytics",
+        "certificate_number": "NIHS-20230133",
+        "registration_number": "REG989716",
+        "issue_date": "15th July 2021",
+        "grade": "First Class with Distinction (CGPA: 9.08)",
+        "authority": "Director of Certification"
       }
     }
   ],
@@ -441,273 +489,117 @@
       "id": "lor_00006",
       "type": "RECOMMENDATION_LETTER",
       "file_path": "data\\synthetic\\lor\\lor_00006.txt",
-      "sha256": "4437114422b024c77f8a2ae2c103f57d8c0090e75db67cf3bf75c0e23f24d1e3",
+      "sha256": "7cb123f803fcaa1225382bce746e887786c593cd63c6a8958e00042e3f91711a",
       "status": "VALID",
       "issue": "valid",
       "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
       "is_valid": true,
       "entities": {
-        "student_name": "Rahul Deshmukh",
-        "recommender": "Dr. Meenakshi Sundaram",
-        "designation": "Associate Professor",
-        "institution": "Global Institute of Science & Engineering",
+        "student_name": "Arun Kumar",
+        "recommender": "Prof. Elena Rostova",
+        "designation": "Distinguished Professor",
+        "institution": "Metropolitan University of Computing",
         "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+        "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
         "skills": [
-          "Computer Vision",
-          "OpenCV",
-          "TensorFlow",
-          "Edge AI"
+          "Python",
+          "PyTorch",
+          "Distributed Systems",
+          "Kubernetes"
         ],
-        "dates_taught": "2019-2023"
+        "dates_taught": "2020-2024"
       },
-      "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Metropolitan University of Computing.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
     },
     {
       "id": "lor_00000",
       "type": "RECOMMENDATION_LETTER",
       "file_path": "data\\synthetic\\lor\\lor_00000.txt",
-      "sha256": "a1fde0f72032afa6fe604ab20c3d5c8a53135e2a47af9047153f31bbf0c2161e",
+      "sha256": "546cc54b448545eaf8693a86232bd4ee4f8344dec9bf479d93bae9cab176c30b",
       "status": "VALID",
       "issue": "valid",
       "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
       "is_valid": true,
       "entities": {
-        "student_name": "Aditya Verma",
-        "recommender": "Dr. Arvind Swaminathan",
-        "designation": "Professor & Head of Department",
-        "institution": "Apex University of Technology",
+        "student_name": "Sneha Patel",
+        "recommender": "Prof. Elena Rostova",
+        "designation": "Distinguished Professor",
+        "institution": "Metropolitan University of Computing",
         "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+        "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
         "skills": [
           "Computer Vision",
           "OpenCV",
           "TensorFlow",
           "Edge AI"
         ],
-        "dates_taught": "2021-2023"
+        "dates_taught": "2020-2024"
       },
-      "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Apex University of Technology.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Metropolitan University of Computing.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
     },
     {
       "id": "lor_00114",
       "type": "RECOMMENDATION_LETTER",
       "file_path": "data\\synthetic\\lor\\lor_00114.txt",
-      "sha256": "655bd6fe96e9274b2e9794fa4581fa6ced9e2f6d694501dd010652c35da216b3",
+      "sha256": "37e126a887f72d5490a75a98efb47bc1f8fb54bf0279d8f57079fc957ce3dd08",
       "status": "VALID",
       "issue": "valid",
       "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
       "is_valid": true,
       "entities": {
-        "student_name": "Rahul Deshmukh",
+        "student_name": "Arun Kumar",
         "recommender": "Dr. K. V. Ramanathan",
         "designation": "Dean of Academic Research",
         "institution": "Pacific Coast University",
         "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
         "skills": [
-          "Natural Language Processing",
-          "Transformers",
-          "FastAPI",
-          "PostgreSQL"
+          "Computer Vision",
+          "OpenCV",
+          "TensorFlow",
+          "Edge AI"
         ],
-        "dates_taught": "2019-2023"
+        "dates_taught": "2020-2024"
       },
-      "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Pacific Coast University.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+      "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
     },
     {
       "id": "lor_00081",
       "type": "RECOMMENDATION_LETTER",
       "file_path": "data\\synthetic\\lor\\lor_00081.txt",
-      "sha256": "d88a23e72f35f9fe70b54079ac5118687f84a91418d8be1ab2cf28d8907625a1",
+      "sha256": "5f42d4a2e4f6a4f164d804e6cfe832f2e15f8e5253db8150447b8feb1a842d9a",
       "status": "VALID",
       "issue": "valid",
       "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
       "is_valid": true,
-      "entities": {
-        "student_name": "Aditya Verma",
-        "recommender": "Dr. Rajeshwar Rao",
-        "designation": "Senior Research Director",
-        "institution": "National Institute of Higher Studies",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
-        "skills": [
-          "C++",
-          "CUDA",
-          "Embedded Robotics",
-          "ROS2"
-        ],
-        "dates_taught": "2021-2023"
-      },
-      "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at National Institute of Higher Studies.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
-    },
-    {
-      "id": "lor_00015",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00015.txt",
-      "sha256": "363334b512ab47e9b58952751d603314675cd995cd587d1a3e50217b7f64ac61",
-      "status": "VALID",
-      "issue": "valid",
-      "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
-      "is_valid": true,
-      "entities": {
-        "student_name": "Rahul Deshmukh",
-        "recommender": "Dr. Arvind Swaminathan",
-        "designation": "Professor & Head of Department",
-        "institution": "Apex University of Technology",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
-        "skills": [
-          "C++",
-          "CUDA",
-          "Embedded Robotics",
-          "ROS2"
-        ],
-        "dates_taught": "2019-2023"
-      },
-      "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
-    },
-    {
-      "id": "lor_00018",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00018.txt",
-      "sha256": "4b440d668457f39a389fdfa8041fe10daf3ea1ccf97d837661dbfc225094f98d",
-      "status": "VALID",
-      "issue": "valid",
-      "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
-      "is_valid": true,
-      "entities": {
-        "student_name": "Rahul Deshmukh",
-        "recommender": "Dr. Meenakshi Sundaram",
-        "designation": "Associate Professor",
-        "institution": "Global Institute of Science & Engineering",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
-        "skills": [
-          "C++",
-          "CUDA",
-          "Embedded Robotics",
-          "ROS2"
-        ],
-        "dates_taught": "2019-2023"
-      },
-      "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
-    },
-    {
-      "id": "lor_00038",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00038.txt",
-      "sha256": "376340ea36f85785d2cb1a42dbf26e11bb5b927b911f9e218bc5c7a9d6b23123",
-      "status": "CONFLICT",
-      "issue": "relationship_mismatch",
-      "issue_description": "Recommender relationship is non-academic/personal rather than verified academic supervisor.",
-      "is_valid": false,
       "entities": {
         "student_name": "Priya Sharma",
         "recommender": "Prof. Elena Rostova",
         "designation": "Distinguished Professor",
         "institution": "Metropolitan University of Computing",
-        "relationship": "Personal Family Friend and Distant Relative",
-        "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
-        "skills": [
-          "Natural Language Processing",
-          "Transformers",
-          "FastAPI",
-          "PostgreSQL"
-        ],
-        "dates_taught": "2019-2023"
-      },
-      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Personal Family Friend and Distant Relative during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
-    },
-    {
-      "id": "lor_00083",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00083.txt",
-      "sha256": "b7da5edd483ceef5b83a68b5323d81722e4ff5eda99ed5ea52d728656ffbcf3a",
-      "status": "CONFLICT",
-      "issue": "copy_text",
-      "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
-      "is_valid": false,
-      "entities": {
-        "student_name": "Sneha Patel",
-        "recommender": "Dr. K. V. Ramanathan",
-        "designation": "Dean of Academic Research",
-        "institution": "Pacific Coast University",
         "relationship": "Thesis Advisor & Course Instructor",
         "project": "High-Throughput Microservice Architecture for Cloud Streaming",
         "skills": [
-          "C++",
-          "CUDA",
-          "Embedded Robotics",
-          "ROS2"
-        ],
-        "dates_taught": "2020-2024"
-      },
-      "text": "To Whom It May Concern,\n\nI am writing this standard letter for Sneha Patel who studied at Pacific Coast University. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nDr. K. V. Ramanathan\nDean of Academic Research\nPacific Coast University"
-    },
-    {
-      "id": "lor_00020",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00020.txt",
-      "sha256": "08e2044023ac11c71cd69a0118a50db5bec48f37bf5dea27ab4a92e0170b6138",
-      "status": "CONFLICT",
-      "issue": "project_mismatch",
-      "issue_description": "Recommender praises project 'Civil Concrete Stress Analysis and Highway Asphalt Durability' which contradicts candidate's degree curriculum in B.E. Electronics Engineering.",
-      "is_valid": false,
-      "entities": {
-        "student_name": "Sneha Patel",
-        "recommender": "Dr. K. V. Ramanathan",
-        "designation": "Dean of Academic Research",
-        "institution": "Pacific Coast University",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Civil Concrete Stress Analysis and Highway Asphalt Durability",
-        "skills": [
           "Computer Vision",
           "OpenCV",
           "TensorFlow",
           "Edge AI"
         ],
-        "dates_taught": "2020-2024"
+        "dates_taught": "2019-2023"
       },
-      "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
     },
     {
-      "id": "lor_00110",
+      "id": "lor_00015",
       "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00110.txt",
-      "sha256": "263ac90df16e346104e2775d35d2658476b015cc6c18097806632316a3090153",
-      "status": "CONFLICT",
-      "issue": "contradictory_claim",
-      "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
-      "is_valid": false,
+      "file_path": "data\\synthetic\\lor\\lor_00015.txt",
+      "sha256": "84509f199bb34f286afb16f9c57da80179f513302ee72c8bdca953f83abfce14",
+      "status": "VALID",
+      "issue": "valid",
+      "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
+      "is_valid": true,
       "entities": {
-        "student_name": "Arun Kumar",
-        "recommender": "Dr. Arvind Swaminathan",
-        "designation": "Professor & Head of Department",
-        "institution": "Apex University of Technology",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
-        "skills": [
-          "Computer Vision",
-          "OpenCV",
-          "TensorFlow",
-          "Edge AI"
-        ],
-        "dates_taught": "2020-2024"
-      },
-      "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
-    },
-    {
-      "id": "lor_00092",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00092.txt",
-      "sha256": "993a5663525741534836e10e0031107a2b6df82eb5483f7fc5125d0d79671f1f",
-      "status": "CONFLICT",
-      "issue": "name_mismatch",
-      "issue_description": "Student name inside letter body ('Rahul Rajendra Deshmukh') differs from verified profile ('Rahul Deshmukh').",
-      "is_valid": false,
-      "entities": {
-        "student_name": "Rahul Rajendra Deshmukh",
+        "student_name": "Priya Sharma",
         "recommender": "Dr. Meenakshi Sundaram",
         "designation": "Associate Professor",
         "institution": "Global Institute of Science & Engineering",
@@ -721,24 +613,76 @@
         ],
         "dates_taught": "2019-2023"
       },
-      "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Rajendra Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Rahul Rajendra Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Rajendra Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Rajendra Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
+      "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
     },
     {
-      "id": "lor_00076",
+      "id": "lor_00018",
       "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00076.txt",
-      "sha256": "a251a7a36f5b1817fce59857791a3ff08f337e78f0dd9b58abdf8e56aa9c6533",
-      "status": "CONFLICT",
-      "issue": "name_mismatch",
-      "issue_description": "Student name inside letter body ('Arun Rajendra Kumar') differs from verified profile ('Arun Kumar').",
-      "is_valid": false,
+      "file_path": "data\\synthetic\\lor\\lor_00018.txt",
+      "sha256": "1c1907ddf8391dc9d5a9039c6c233dad8417109cc2c3b176479cecc24b3bab14",
+      "status": "VALID",
+      "issue": "valid",
+      "issue_description": "Recommendation letter is fully consistent with candidate credentials.",
+      "is_valid": true,
       "entities": {
-        "student_name": "Arun Rajendra Kumar",
+        "student_name": "Sneha Patel",
         "recommender": "Dr. K. V. Ramanathan",
         "designation": "Dean of Academic Research",
         "institution": "Pacific Coast University",
         "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+        "skills": [
+          "C++",
+          "CUDA",
+          "Embedded Robotics",
+          "ROS2"
+        ],
+        "dates_taught": "2020-2024"
+      },
+      "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+    },
+    {
+      "id": "lor_00053",
+      "type": "RECOMMENDATION_LETTER",
+      "file_path": "data\\synthetic\\lor\\lor_00053.txt",
+      "sha256": "69547590003042b2373bcb29d2c3706f040387551ada673702e994e48c14a7fa",
+      "status": "CONFLICT",
+      "issue": "relationship_mismatch",
+      "issue_description": "Recommender relationship is non-academic/personal rather than verified academic supervisor.",
+      "is_valid": false,
+      "entities": {
+        "student_name": "Rahul Deshmukh",
+        "recommender": "Prof. Elena Rostova",
+        "designation": "Distinguished Professor",
+        "institution": "Metropolitan University of Computing",
+        "relationship": "Personal Family Friend and Distant Relative",
+        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+        "skills": [
+          "Computer Vision",
+          "OpenCV",
+          "TensorFlow",
+          "Edge AI"
+        ],
+        "dates_taught": "2019-2023"
+      },
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Personal Family Friend and Distant Relative during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+    },
+    {
+      "id": "lor_00059",
+      "type": "RECOMMENDATION_LETTER",
+      "file_path": "data\\synthetic\\lor\\lor_00059.txt",
+      "sha256": "474a4c298d0d168da82aa1a306ba97cc5ec9fe000aab07ce7f74fceeb0b890d9",
+      "status": "CONFLICT",
+      "issue": "designation_mismatch",
+      "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
+      "is_valid": false,
+      "entities": {
+        "student_name": "Arun Kumar",
+        "recommender": "Dr. Rajeshwar Rao",
+        "designation": "Undergraduate Peer Tutor & Lab Assistant",
+        "institution": "National Institute of Higher Studies",
+        "relationship": "Thesis Advisor & Course Instructor",
+        "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
         "skills": [
           "Natural Language Processing",
           "Transformers",
@@ -747,50 +691,154 @@
         ],
         "dates_taught": "2020-2024"
       },
-      "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Rajendra Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Arun Rajendra Kumar demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Rajendra Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Rajendra Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+      "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nUndergraduate Peer Tutor & Lab Assistant\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
     },
     {
-      "id": "lor_00103",
+      "id": "lor_00052",
       "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00103.txt",
-      "sha256": "b5ad592b20f9fee514121fc41e465ed5c669b8d151578089b254a82c7f7e2e4b",
+      "file_path": "data\\synthetic\\lor\\lor_00052.txt",
+      "sha256": "c8da73a1f4146c9979f2c0805d184f1239b5452180bd5b278de38c76988446e2",
       "status": "CONFLICT",
-      "issue": "institution_mismatch",
-      "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Metropolitan University of Computing'.",
+      "issue": "date_mismatch",
+      "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2020-2024).",
       "is_valid": false,
       "entities": {
-        "student_name": "Sneha Patel",
-        "recommender": "Dr. Arvind Swaminathan",
-        "designation": "Professor & Head of Department",
-        "institution": "Fake Stanford Affiliate College of Technology",
+        "student_name": "Arun Kumar",
+        "recommender": "Prof. Elena Rostova",
+        "designation": "Distinguished Professor",
+        "institution": "Metropolitan University of Computing",
         "relationship": "Thesis Advisor & Course Instructor",
-        "project": "High-Throughput Microservice Architecture for Cloud Streaming",
+        "project": "Privacy-Preserving Federated Learning on Edge Devices",
         "skills": [
           "Computer Vision",
           "OpenCV",
           "TensorFlow",
           "Edge AI"
         ],
-        "dates_taught": "2020-2024"
+        "dates_taught": "2012-2015"
       },
-      "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nFake Stanford Affiliate College of Technology\nEmail: .arvind.swaminathan@fakestanfo.edu"
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Metropolitan University of Computing.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
     },
     {
-      "id": "lor_00058",
+      "id": "lor_00028",
       "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00058.txt",
-      "sha256": "5ebcd558c63342a173bd7e9003edc56a6a0a8645da8f8e2791a1a95304ba9120",
+      "file_path": "data\\synthetic\\lor\\lor_00028.txt",
+      "sha256": "eeb551a4bb35a6bd31c6a38223cad6c46432eef7bce6a391d991885c0e1f6a28",
       "status": "CONFLICT",
       "issue": "institution_mismatch",
       "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Pacific Coast University'.",
       "is_valid": false,
       "entities": {
         "student_name": "Rahul Deshmukh",
-        "recommender": "Prof. Elena Rostova",
-        "designation": "Distinguished Professor",
+        "recommender": "Dr. Rajeshwar Rao",
+        "designation": "Senior Research Director",
         "institution": "Fake Stanford Affiliate College of Technology",
         "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+        "project": "Privacy-Preserving Federated Learning on Edge Devices",
+        "skills": [
+          "Computer Vision",
+          "OpenCV",
+          "TensorFlow",
+          "Edge AI"
+        ],
+        "dates_taught": "2019-2023"
+      },
+      "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nFake Stanford Affiliate College of Technology\nEmail: .rajeshwar.rao@fakestanfo.edu"
+    },
+    {
+      "id": "lor_00074",
+      "type": "RECOMMENDATION_LETTER",
+      "file_path": "data\\synthetic\\lor\\lor_00074.txt",
+      "sha256": "683d64936847317e013088e286f9f168a091c6c996aeaa7d9d14804b14367f94",
+      "status": "CONFLICT",
+      "issue": "name_mismatch",
+      "issue_description": "Student name inside letter body ('Aditya Rajendra Verma') differs from verified profile ('Aditya Verma').",
+      "is_valid": false,
+      "entities": {
+        "student_name": "Aditya Rajendra Verma",
+        "recommender": "Prof. Elena Rostova",
+        "designation": "Distinguished Professor",
+        "institution": "Metropolitan University of Computing",
+        "relationship": "Thesis Advisor & Course Instructor",
+        "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "Distributed Systems",
+          "Kubernetes"
+        ],
+        "dates_taught": "2021-2023"
+      },
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Rajendra Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Aditya Rajendra Verma demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Rajendra Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Rajendra Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+    },
+    {
+      "id": "lor_00065",
+      "type": "RECOMMENDATION_LETTER",
+      "file_path": "data\\synthetic\\lor\\lor_00065.txt",
+      "sha256": "3c703089e768c7a55659775b3a7afbfffce310b47cbe675e47092df5d2b88623",
+      "status": "CONFLICT",
+      "issue": "project_mismatch",
+      "issue_description": "Recommender praises project 'Civil Concrete Stress Analysis and Highway Asphalt Durability' which contradicts candidate's degree curriculum in B.E. Electronics Engineering.",
+      "is_valid": false,
+      "entities": {
+        "student_name": "Sneha Patel",
+        "recommender": "Dr. Rajeshwar Rao",
+        "designation": "Senior Research Director",
+        "institution": "National Institute of Higher Studies",
+        "relationship": "Thesis Advisor & Course Instructor",
+        "project": "Civil Concrete Stress Analysis and Highway Asphalt Durability",
+        "skills": [
+          "Natural Language Processing",
+          "Transformers",
+          "FastAPI",
+          "PostgreSQL"
+        ],
+        "dates_taught": "2020-2024"
+      },
+      "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at National Institute of Higher Studies.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
+    },
+    {
+      "id": "lor_00113",
+      "type": "RECOMMENDATION_LETTER",
+      "file_path": "data\\synthetic\\lor\\lor_00113.txt",
+      "sha256": "69d2fa4c13e02bae766315ebf4256b635f1ecb440f98d36f026e6e2fb28a6528",
+      "status": "CONFLICT",
+      "issue": "copy_text",
+      "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
+      "is_valid": false,
+      "entities": {
+        "student_name": "Aditya Verma",
+        "recommender": "Dr. K. V. Ramanathan",
+        "designation": "Dean of Academic Research",
+        "institution": "Pacific Coast University",
+        "relationship": "Thesis Advisor & Course Instructor",
+        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
+        "skills": [
+          "C++",
+          "CUDA",
+          "Embedded Robotics",
+          "ROS2"
+        ],
+        "dates_taught": "2021-2023"
+      },
+      "text": "To Whom It May Concern,\n\nI am writing this standard letter for Aditya Verma who studied at Pacific Coast University. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nDr. K. V. Ramanathan\nDean of Academic Research\nPacific Coast University"
+    },
+    {
+      "id": "lor_00070",
+      "type": "RECOMMENDATION_LETTER",
+      "file_path": "data\\synthetic\\lor\\lor_00070.txt",
+      "sha256": "7860ffd24c52962256e2a8f6f246df932e9c3ad58b68ae4d276c82284ff2e586",
+      "status": "CONFLICT",
+      "issue": "contradictory_claim",
+      "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+      "is_valid": false,
+      "entities": {
+        "student_name": "Priya Sharma",
+        "recommender": "Prof. Elena Rostova",
+        "designation": "Distinguished Professor",
+        "institution": "Metropolitan University of Computing",
+        "relationship": "Thesis Advisor & Course Instructor",
+        "project": "Real-Time Deep Learning for Autonomous Mobile Perception",
         "skills": [
           "Natural Language Processing",
           "Transformers",
@@ -799,59 +847,7 @@
         ],
         "dates_taught": "2019-2023"
       },
-      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nFake Stanford Affiliate College of Technology\nEmail: prof..elena.rostova@fakestanfo.edu"
-    },
-    {
-      "id": "lor_00028",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00028.txt",
-      "sha256": "e1b19dd2b1a12bab7e3921fed952dcba21f4e6089a889083b63ef2a686c0dcc5",
-      "status": "CONFLICT",
-      "issue": "designation_mismatch",
-      "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
-      "is_valid": false,
-      "entities": {
-        "student_name": "Rahul Deshmukh",
-        "recommender": "Dr. Rajeshwar Rao",
-        "designation": "Undergraduate Peer Tutor & Lab Assistant",
-        "institution": "National Institute of Higher Studies",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "High-Throughput Microservice Architecture for Cloud Streaming",
-        "skills": [
-          "C++",
-          "CUDA",
-          "Embedded Robotics",
-          "ROS2"
-        ],
-        "dates_taught": "2019-2023"
-      },
-      "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at National Institute of Higher Studies.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nUndergraduate Peer Tutor & Lab Assistant\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
-    },
-    {
-      "id": "lor_00116",
-      "type": "RECOMMENDATION_LETTER",
-      "file_path": "data\\synthetic\\lor\\lor_00116.txt",
-      "sha256": "aac81bb166fa0d80a10568cd5eebae0470bff13267e97f2ec11d6b1eb7bd891a",
-      "status": "CONFLICT",
-      "issue": "date_mismatch",
-      "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2021-2023).",
-      "is_valid": false,
-      "entities": {
-        "student_name": "Aditya Verma",
-        "recommender": "Prof. Elena Rostova",
-        "designation": "Distinguished Professor",
-        "institution": "Metropolitan University of Computing",
-        "relationship": "Thesis Advisor & Course Instructor",
-        "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
-        "skills": [
-          "C++",
-          "CUDA",
-          "Embedded Robotics",
-          "ROS2"
-        ],
-        "dates_taught": "2012-2015"
-      },
-      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Metropolitan University of Computing.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+      "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Real-Time Deep Learning for Autonomous Mobile Perception', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
     }
   ]
 }

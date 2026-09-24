@@ -1,24 +1,24 @@
 {
   "id": "cert_00113",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_name",
+  "tampering_type": "modified_stamp",
   "is_tampered": true,
   "tamper_bbox": [
-    345,
-    195,
-    655,
-    235
+    400,
+    460,
+    500,
+    560
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Arun Kumar' with 'Vishal Malhotra'",
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Vishal Malhotra",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Rahul Deshmukh",
+    "institution": "National Institute of Higher Studies",
     "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "MUC-20230113",
-    "registration_number": "REG211712",
-    "issue_date": "15th July 2024",
-    "grade": "Grade A+ (CGPA: 9.48)",
-    "authority": "Vice Chancellor"
+    "certificate_number": "NIHS-20230113",
+    "registration_number": "REG322000",
+    "issue_date": "15th July 2022",
+    "grade": "Grade A+ (CGPA: 9.8)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00113.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00113_mask.png"

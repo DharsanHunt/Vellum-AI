@@ -1,24 +1,24 @@
 {
   "id": "cert_00040",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_name",
+  "tampering_type": "changed_institution",
   "is_tampered": true,
   "tamper_bbox": [
-    345,
-    195,
-    655,
-    235
+    250,
+    60,
+    750,
+    105
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Rohan Gupta' with 'Shreya Patel'",
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
   "entities": {
-    "student_name": "Shreya Patel",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "GISE-20230040",
-    "registration_number": "REG266396",
+    "student_name": "Rohan Gupta",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "AUST-20230040",
+    "registration_number": "REG403530",
     "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 8.72)",
-    "authority": "Registrar & Controller of Examinations"
+    "grade": "First Class Honours (CGPA: 8.22)",
+    "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00040.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00040_mask.png"

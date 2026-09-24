@@ -1,24 +1,24 @@
 {
   "id": "cert_00134",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    75,
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Nikhil Nair",
-    "institution": "Metropolitan University of Computing",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "MUC-20230134",
-    "registration_number": "REG420350",
-    "issue_date": "15th July 2021",
-    "grade": "Grade A+ (CGPA: 8.6)",
-    "authority": "Vice Chancellor"
+    "student_name": "Rahul Deshmukh",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "NIHS-20230134",
+    "registration_number": "REG715609",
+    "issue_date": "29th February 2026",
+    "grade": "First Class with Distinction (CGPA: 9.13)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00134.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00134_mask.png"

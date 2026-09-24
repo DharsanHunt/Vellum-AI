@@ -1,24 +1,24 @@
 {
   "id": "cert_00089",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_institution",
+  "tampering_type": "modified_stamp",
   "is_tampered": true,
   "tamper_bbox": [
-    250,
-    60,
-    750,
-    105
+    400,
+    460,
+    500,
+    560
   ],
-  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Deepika Joshi",
-    "institution": "Counterfeit Polytechnic Institute",
-    "degree": "Bachelor of Technology in Computer Science",
-    "certificate_number": "GISE-20230089",
-    "registration_number": "REG191875",
-    "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 9.5)",
-    "authority": "Registrar & Controller of Examinations"
+    "student_name": "Priya Sharma",
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "AUST-20230089",
+    "registration_number": "REG660041",
+    "issue_date": "15th July 2023",
+    "grade": "First Class with Distinction (CGPA: 9.31)",
+    "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00089.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00089_mask.png"

@@ -1,19 +1,8 @@
-DEPARTMENT OF INFORMATION SCIENCE
-GLOBAL INSTITUTE OF SCIENCE & ENGINEERING
-Date: October 24, 2024
+To Whom It May Concern,
 
-To the Graduate Admissions Committee,
+I am writing this standard letter for Aditya Verma who studied at Metropolitan University of Computing. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.
 
-I am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.
-
-During this tenure, Arun Kumar demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
-
-Beyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
-
-Warm regards,
-
-Dr. Meenakshi Sundaram
-Undergraduate Peer Tutor & Lab Assistant
-Information Science
-Global Institute of Science & Engineering
-Email: .meenakshi.sundaram@globalinst.edu
+Sincerely,
+Prof. Elena Rostova
+Distinguished Professor
+Metropolitan University of Computing

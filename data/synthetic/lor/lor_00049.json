@@ -1,23 +1,23 @@
 {
   "id": "lor_00049",
   "status": "CONFLICT",
-  "issue": "name_mismatch",
-  "issue_description": "Student name inside letter body ('Rahul Rajendra Deshmukh') differs from verified profile ('Rahul Deshmukh').",
+  "issue": "project_mismatch",
+  "issue_description": "Recommender praises project 'Civil Concrete Stress Analysis and Highway Asphalt Durability' which contradicts candidate's degree curriculum in B.Tech Computer Science.",
   "is_valid": false,
   "entities": {
-    "student_name": "Rahul Rajendra Deshmukh",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Pacific Coast University",
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
+    "project": "Civil Concrete Stress Analysis and Highway Asphalt Durability",
     "skills": [
-      "Natural Language Processing",
-      "Transformers",
-      "FastAPI",
-      "PostgreSQL"
+      "Python",
+      "PyTorch",
+      "Distributed Systems",
+      "Kubernetes"
     ],
     "dates_taught": "2019-2023"
   },
-  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Rajendra Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Pacific Coast University.\n\nDuring this tenure, Rahul Rajendra Deshmukh demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Rajendra Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Rajendra Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Civil Concrete Stress Analysis and Highway Asphalt Durability', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
 }

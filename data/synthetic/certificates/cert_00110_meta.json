@@ -1,23 +1,23 @@
 {
   "id": "cert_00110",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "copy_paste_region",
+  "tampering_type": "changed_date",
   "is_tampered": true,
   "tamper_bbox": [
     75,
-    455,
-    300,
-    485
+    485,
+    320,
+    515
   ],
-  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
   "entities": {
-    "student_name": "Meera Iyer",
+    "student_name": "Rohan Gupta",
     "institution": "Global Institute of Science & Engineering",
-    "degree": "Bachelor of Engineering in Electronics",
+    "degree": "Bachelor of Science in Information Technology",
     "certificate_number": "GISE-20230110",
-    "registration_number": "REG587836",
-    "issue_date": "15th July 2021",
-    "grade": "First Class with Distinction (CGPA: 9.45)",
+    "registration_number": "REG949088",
+    "issue_date": "29th February 2026",
+    "grade": "First Class with Distinction (CGPA: 8.67)",
     "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00110.png",

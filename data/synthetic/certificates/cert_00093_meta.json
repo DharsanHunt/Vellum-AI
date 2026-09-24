@@ -6,13 +6,13 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Rahul Deshmukh",
+    "student_name": "Rohan Gupta",
     "institution": "Metropolitan University of Computing",
-    "degree": "Bachelor of Science in Information Technology",
+    "degree": "Bachelor of Engineering in Electronics",
     "certificate_number": "MUC-20230093",
-    "registration_number": "REG132584",
+    "registration_number": "REG452243",
     "issue_date": "15th July 2023",
-    "grade": "Grade A+ (CGPA: 9.55)",
+    "grade": "First Class Honours (CGPA: 8.87)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00093.png",

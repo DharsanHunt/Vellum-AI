@@ -1,8 +1,19 @@
-To Whom It May Concern,
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+APEX UNIVERSITY OF TECHNOLOGY
+Date: October 24, 2024
 
-I am writing this standard letter for Priya Sharma who studied at Metropolitan University of Computing. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.
+To the Graduate Admissions Committee,
 
-Sincerely,
-Prof. Elena Rostova
-Distinguished Professor
-Metropolitan University of Computing
+I am writing to offer my enthusiastic recommendation for Rahul Rajendra Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.
+
+During this tenure, Rahul Rajendra Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+
+Beyond technical competence, Rahul Rajendra Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Rajendra Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
+
+Warm regards,
+
+Dr. Arvind Swaminathan
+Professor & Head of Department
+Computer Science & Engineering
+Apex University of Technology
+Email: .arvind.swaminathan@apexuniver.edu

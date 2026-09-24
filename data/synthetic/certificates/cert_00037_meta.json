@@ -1,24 +1,24 @@
 {
   "id": "cert_00037",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_institution",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    250,
-    60,
-    750,
-    105
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Ananya Sundaram' with 'Ananya Menon'",
   "entities": {
-    "student_name": "Aditya Verma",
-    "institution": "Counterfeit Polytechnic Institute",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "MUC-20230037",
-    "registration_number": "REG617489",
+    "student_name": "Ananya Menon",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "NIHS-20230037",
+    "registration_number": "REG124015",
     "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 9.21)",
-    "authority": "Vice Chancellor"
+    "grade": "First Class with Distinction (CGPA: 8.54)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00037.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00037_mask.png"

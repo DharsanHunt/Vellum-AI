@@ -11,13 +11,13 @@
   ],
   "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Deepika Joshi",
+    "student_name": "Aditya Verma",
     "institution": "Pacific Coast University",
-    "degree": "Master of Business Administration in Data Analytics",
+    "degree": "Bachelor of Technology in Computer Science",
     "certificate_number": "PCU-20230011",
-    "registration_number": "REG638289",
-    "issue_date": "15th July 2024",
-    "grade": "Grade A+ (CGPA: 9.33)",
+    "registration_number": "REG519076",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 8.57)",
     "authority": "Dean of Engineering"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00011.png",

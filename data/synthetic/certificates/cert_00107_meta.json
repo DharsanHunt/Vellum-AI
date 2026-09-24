@@ -1,24 +1,24 @@
 {
   "id": "cert_00107",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "modified_stamp",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    400,
-    460,
-    500,
-    560
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Ananya Sundaram",
-    "institution": "Pacific Coast University",
-    "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "PCU-20230107",
-    "registration_number": "REG141149",
-    "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 9.56)",
-    "authority": "Dean of Engineering"
+    "student_name": "Sneha Patel",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "MUC-20230107",
+    "registration_number": "REG447203",
+    "issue_date": "15th July 2022",
+    "grade": "Grade A+ (CGPA: 9.23)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00107.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00107_mask.png"

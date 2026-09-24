@@ -1,23 +1,23 @@
 {
   "id": "lor_00119",
   "status": "CONFLICT",
-  "issue": "contradictory_claim",
-  "issue_description": "Letter makes contradictory claim stating candidate graduated #1 class valedictorian in a non-graduating freshman semester.",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
   "is_valid": false,
   "entities": {
-    "student_name": "Priya Sharma",
-    "recommender": "Prof. Elena Rostova",
-    "designation": "Distinguished Professor",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Rahul Deshmukh",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "Apex University of Technology",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
     "skills": [
-      "Python",
-      "PyTorch",
-      "Distributed Systems",
-      "Kubernetes"
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
     ],
     "dates_taught": "2019-2023"
   },
-  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Metropolitan University of Computing.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Remarkably, they graduated as the 4-year valedictorian after their 1st semester.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nUndergraduate Peer Tutor & Lab Assistant\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
 }

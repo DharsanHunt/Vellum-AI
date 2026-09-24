@@ -1,24 +1,24 @@
 {
   "id": "cert_00053",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_date",
+  "tampering_type": "modified_stamp",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    485,
-    320,
-    515
+    400,
+    460,
+    500,
+    560
   ],
-  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Arun Kumar",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "STRI-20230053",
-    "registration_number": "REG552773",
-    "issue_date": "29th February 2026",
-    "grade": "First Class Honours (CGPA: 9.02)",
-    "authority": "Academic Provost"
+    "student_name": "Priya Sharma",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230053",
+    "registration_number": "REG550181",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.76)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00053.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00053_mask.png"

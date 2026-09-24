@@ -1,24 +1,24 @@
 {
   "id": "cert_00064",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "modified_stamp",
+  "tampering_type": "changed_course",
   "is_tampered": true,
   "tamper_bbox": [
-    400,
-    460,
-    500,
-    560
+    300,
+    295,
+    700,
+    335
   ],
-  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
+  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
   "entities": {
-    "student_name": "Meera Iyer",
-    "institution": "Apex University of Technology",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "AUST-20230064",
-    "registration_number": "REG125520",
-    "issue_date": "15th July 2023",
-    "grade": "First Class Honours (CGPA: 9.43)",
-    "authority": "Dean of Academic Affairs"
+    "student_name": "Nikhil Nair",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Doctor of Philosophy in Quantum Engineering",
+    "certificate_number": "MUC-20230064",
+    "registration_number": "REG760246",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 8.92)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00064.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00064_mask.png"

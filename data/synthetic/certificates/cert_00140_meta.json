@@ -1,24 +1,24 @@
 {
   "id": "cert_00140",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Vikram Malhotra",
-    "institution": "Metropolitan University of Computing",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "MUC-20230140",
-    "registration_number": "REG832762",
-    "issue_date": "15th July 2024",
-    "grade": "Grade A+ (CGPA: 9.21)",
-    "authority": "Vice Chancellor"
+    "student_name": "Meera Iyer",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "GISE-20230140",
+    "registration_number": "REG311844",
+    "issue_date": "15th July 2023",
+    "grade": "Grade A+ (CGPA: 8.89)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00140.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00140_mask.png"

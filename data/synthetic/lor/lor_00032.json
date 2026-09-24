@@ -1,23 +1,23 @@
 {
   "id": "lor_00032",
   "status": "CONFLICT",
-  "issue": "date_mismatch",
-  "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2020-2024).",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
   "is_valid": false,
   "entities": {
     "student_name": "Arun Kumar",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Pacific Coast University",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "Global Institute of Science & Engineering",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
     "skills": [
-      "Python",
-      "PyTorch",
-      "Distributed Systems",
-      "Kubernetes"
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
     ],
-    "dates_taught": "2012-2015"
+    "dates_taught": "2020-2024"
   },
-  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Pacific Coast University.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nUndergraduate Peer Tutor & Lab Assistant\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
 }

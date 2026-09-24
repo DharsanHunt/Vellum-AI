@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Rahul Deshmukh",
-    "institution": "National Institute of Higher Studies",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "NIHS-20230054",
-    "registration_number": "REG191050",
-    "issue_date": "15th July 2023",
-    "grade": "Grade A+ (CGPA: 8.2)",
-    "authority": "Director of Certification"
+    "student_name": "Arun Kumar",
+    "institution": "Stanford Tech Research Institute",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "STRI-20230054",
+    "registration_number": "REG944034",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 9.54)",
+    "authority": "Academic Provost"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00054.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00054_mask.png"

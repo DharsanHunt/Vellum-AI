@@ -1,23 +1,23 @@
 {
   "id": "cert_00059",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_institution",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    250,
-    60,
-    750,
-    105
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Sneha Patel' with 'Pooja Sharma'",
   "entities": {
-    "student_name": "Aditya Verma",
-    "institution": "Counterfeit Polytechnic Institute",
-    "degree": "Master of Business Administration in Data Analytics",
+    "student_name": "Pooja Sharma",
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Engineering in Electronics",
     "certificate_number": "AUST-20230059",
-    "registration_number": "REG996059",
+    "registration_number": "REG384010",
     "issue_date": "15th July 2023",
-    "grade": "First Class with Distinction (CGPA: 8.51)",
+    "grade": "First Class with Distinction (CGPA: 9.69)",
     "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00059.png",

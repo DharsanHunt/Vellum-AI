@@ -1,24 +1,24 @@
 {
   "id": "cert_00079",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "modified_stamp",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    400,
+    460,
+    500,
+    560
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
     "student_name": "Rahul Deshmukh",
-    "institution": "Pacific Coast University",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "PCU-20230079",
-    "registration_number": "REG611788",
-    "issue_date": "15th July 2023",
-    "grade": "Grade A+ (CGPA: 8.42)",
-    "authority": "Dean of Engineering"
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Science in Information Technology",
+    "certificate_number": "AUST-20230079",
+    "registration_number": "REG125820",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 8.81)",
+    "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00079.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00079_mask.png"

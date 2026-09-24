@@ -1,24 +1,24 @@
 {
   "id": "cert_00056",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "copy_paste_region",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    455,
-    300,
-    485
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "STRI-20230056",
-    "registration_number": "REG895582",
-    "issue_date": "15th July 2021",
-    "grade": "Grade A+ (CGPA: 9.31)",
-    "authority": "Academic Provost"
+    "student_name": "Arun Kumar",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "GISE-20230056",
+    "registration_number": "REG848760",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 9.28)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00056.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00056_mask.png"

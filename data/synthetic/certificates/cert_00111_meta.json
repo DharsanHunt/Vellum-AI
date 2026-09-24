@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Vikram Malhotra",
-    "institution": "Metropolitan University of Computing",
+    "student_name": "Sneha Patel",
+    "institution": "National Institute of Higher Studies",
     "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "MUC-20230111",
-    "registration_number": "REG420070",
-    "issue_date": "15th July 2021",
-    "grade": "First Class with Distinction (CGPA: 8.32)",
-    "authority": "Vice Chancellor"
+    "certificate_number": "NIHS-20230111",
+    "registration_number": "REG156725",
+    "issue_date": "15th July 2022",
+    "grade": "Grade A+ (CGPA: 9.12)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00111.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00111_mask.png"

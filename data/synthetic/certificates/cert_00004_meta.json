@@ -1,24 +1,24 @@
 {
   "id": "cert_00004",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Amit Verma'",
   "entities": {
-    "student_name": "Meera Iyer",
-    "institution": "National Institute of Higher Studies",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
-    "certificate_number": "NIHS-20230004",
-    "registration_number": "REG144082",
-    "issue_date": "15th July 2023",
-    "grade": "Grade A+ (CGPA: 9.73)",
-    "authority": "Director of Certification"
+    "student_name": "Amit Verma",
+    "institution": "Pacific Coast University",
+    "degree": "Bachelor of Engineering in Electronics",
+    "certificate_number": "PCU-20230004",
+    "registration_number": "REG787733",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 9.04)",
+    "authority": "Dean of Engineering"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00004.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00004_mask.png"

@@ -1,19 +1,19 @@
-DEPARTMENT OF INFORMATION SCIENCE
-GLOBAL INSTITUTE OF SCIENCE & ENGINEERING
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+APEX UNIVERSITY OF TECHNOLOGY
 Date: October 24, 2024
 
 To the Graduate Admissions Committee,
 
-I am writing to offer my enthusiastic recommendation for Sneha Rajendra Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Global Institute of Science & Engineering.
+I am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Apex University of Technology.
 
-During this tenure, Sneha Rajendra Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
+During this tenure, Priya Sharma demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.
 
-Beyond technical competence, Sneha Rajendra Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Rajendra Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
+Beyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.
 
 Warm regards,
 
-Dr. Meenakshi Sundaram
-Associate Professor
-Information Science
-Global Institute of Science & Engineering
-Email: .meenakshi.sundaram@globalinst.edu
+Dr. Arvind Swaminathan
+Undergraduate Peer Tutor & Lab Assistant
+Computer Science & Engineering
+Apex University of Technology
+Email: .arvind.swaminathan@apexuniver.edu

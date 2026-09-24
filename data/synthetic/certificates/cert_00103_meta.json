@@ -1,24 +1,24 @@
 {
   "id": "cert_00103",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_date",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    485,
-    320,
-    515
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Rohan Gupta",
-    "institution": "Apex University of Technology",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "AUST-20230103",
-    "registration_number": "REG560118",
-    "issue_date": "29th February 2026",
-    "grade": "First Class Honours (CGPA: 9.45)",
-    "authority": "Dean of Academic Affairs"
+    "student_name": "Deepika Joshi",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Master of Science in Artificial Intelligence",
+    "certificate_number": "NIHS-20230103",
+    "registration_number": "REG520824",
+    "issue_date": "15th July 2024",
+    "grade": "First Class Honours (CGPA: 9.07)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00103.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00103_mask.png"

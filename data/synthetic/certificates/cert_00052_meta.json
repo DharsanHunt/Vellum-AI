@@ -1,24 +1,24 @@
 {
   "id": "cert_00052",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "removed_signature",
+  "tampering_type": "changed_institution",
   "is_tampered": true,
   "tamper_bbox": [
-    650,
-    470,
-    850,
-    525
+    250,
+    60,
+    750,
+    105
   ],
-  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "STRI-20230052",
-    "registration_number": "REG300965",
-    "issue_date": "15th July 2023",
-    "grade": "First Class with Distinction (CGPA: 8.26)",
-    "authority": "Academic Provost"
+    "student_name": "Aditya Verma",
+    "institution": "Counterfeit Polytechnic Institute",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "NIHS-20230052",
+    "registration_number": "REG933208",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.41)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00052.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00052_mask.png"

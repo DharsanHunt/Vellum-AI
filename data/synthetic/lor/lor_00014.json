@@ -1,23 +1,23 @@
 {
   "id": "lor_00014",
   "status": "CONFLICT",
-  "issue": "designation_mismatch",
-  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
+  "issue": "copy_text",
+  "issue_description": "Verbatim generic copypaste template detected with zero personalized technical contributions.",
   "is_valid": false,
   "entities": {
-    "student_name": "Sneha Patel",
-    "recommender": "Dr. Arvind Swaminathan",
-    "designation": "Undergraduate Peer Tutor & Lab Assistant",
-    "institution": "Apex University of Technology",
+    "student_name": "Priya Sharma",
+    "recommender": "Dr. Rajeshwar Rao",
+    "designation": "Senior Research Director",
+    "institution": "National Institute of Higher Studies",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Graph Neural Networks for Large-Scale Knowledge Graph Completion",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
-      "Computer Vision",
-      "OpenCV",
-      "TensorFlow",
-      "Edge AI"
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2019-2023"
   },
-  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Graph Neural Networks for Large-Scale Knowledge Graph Completion', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nUndergraduate Peer Tutor & Lab Assistant\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
+  "text": "To Whom It May Concern,\n\nI am writing this standard letter for Priya Sharma who studied at National Institute of Higher Studies. The candidate is a hard working individual who attends all lectures on time. They have good communication skills and would be a valuable asset to your institution. Please feel free to contact me if you require further generic information.\n\nSincerely,\nDr. Rajeshwar Rao\nSenior Research Director\nNational Institute of Higher Studies"
 }

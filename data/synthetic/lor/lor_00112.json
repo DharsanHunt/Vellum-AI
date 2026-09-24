@@ -1,23 +1,23 @@
 {
   "id": "lor_00112",
   "status": "CONFLICT",
-  "issue": "institution_mismatch",
-  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Global Institute of Science & Engineering'.",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
   "is_valid": false,
   "entities": {
-    "student_name": "Priya Sharma",
-    "recommender": "Prof. Elena Rostova",
-    "designation": "Distinguished Professor",
-    "institution": "Fake Stanford Affiliate College of Technology",
+    "student_name": "Aditya Verma",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "Global Institute of Science & Engineering",
     "relationship": "Thesis Advisor & Course Instructor",
     "project": "Privacy-Preserving Federated Learning on Edge Devices",
     "skills": [
-      "C++",
-      "CUDA",
-      "Embedded Robotics",
-      "ROS2"
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
     ],
-    "dates_taught": "2019-2023"
+    "dates_taught": "2021-2023"
   },
-  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Priya Sharma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Priya Sharma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Priya Sharma displays genuine leadership, integrity, and proactive collaboration. I rank Priya Sharma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nFake Stanford Affiliate College of Technology\nEmail: prof..elena.rostova@fakestanfo.edu"
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nGLOBAL INSTITUTE OF SCIENCE & ENGINEERING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Global Institute of Science & Engineering.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nUndergraduate Peer Tutor & Lab Assistant\nInformation Science\nGlobal Institute of Science & Engineering\nEmail: .meenakshi.sundaram@globalinst.edu"
 }

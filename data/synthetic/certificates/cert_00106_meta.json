@@ -1,24 +1,24 @@
 {
   "id": "cert_00106",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "removed_signature",
+  "tampering_type": "modified_stamp",
   "is_tampered": true,
   "tamper_bbox": [
-    650,
-    470,
-    850,
-    525
+    400,
+    460,
+    500,
+    560
   ],
-  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "tamper_explanation": "Institutional seal anomaly: tampered or distorted seal verification profile",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "STRI-20230106",
-    "registration_number": "REG784429",
-    "issue_date": "15th July 2021",
-    "grade": "First Class Honours (CGPA: 9.14)",
-    "authority": "Academic Provost"
+    "student_name": "Nikhil Nair",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230106",
+    "registration_number": "REG483569",
+    "issue_date": "15th July 2024",
+    "grade": "Grade A+ (CGPA: 9.26)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00106.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00106_mask.png"

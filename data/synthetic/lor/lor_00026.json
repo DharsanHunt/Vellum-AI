@@ -1,23 +1,23 @@
 {
   "id": "lor_00026",
   "status": "CONFLICT",
-  "issue": "name_mismatch",
-  "issue_description": "Student name inside letter body ('Arun Rajendra Kumar') differs from verified profile ('Arun Kumar').",
+  "issue": "relationship_mismatch",
+  "issue_description": "Recommender relationship is non-academic/personal rather than verified academic supervisor.",
   "is_valid": false,
   "entities": {
-    "student_name": "Arun Rajendra Kumar",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Pacific Coast University",
-    "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "student_name": "Sneha Patel",
+    "recommender": "Dr. Arvind Swaminathan",
+    "designation": "Professor & Head of Department",
+    "institution": "Apex University of Technology",
+    "relationship": "Personal Family Friend and Distant Relative",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
-      "Computer Vision",
-      "OpenCV",
-      "TensorFlow",
-      "Edge AI"
+      "Natural Language Processing",
+      "Transformers",
+      "FastAPI",
+      "PostgreSQL"
     ],
     "dates_taught": "2020-2024"
   },
-  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Rajendra Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Arun Rajendra Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Rajendra Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Rajendra Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+  "text": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING\nAPEX UNIVERSITY OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Personal Family Friend and Distant Relative during their study period (2020-2024) at Apex University of Technology.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Natural Language Processing, Transformers, FastAPI, PostgreSQL. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Arvind Swaminathan\nProfessor & Head of Department\nComputer Science & Engineering\nApex University of Technology\nEmail: .arvind.swaminathan@apexuniver.edu"
 }

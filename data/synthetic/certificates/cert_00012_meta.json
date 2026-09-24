@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Kavita Reddy",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "STRI-20230012",
-    "registration_number": "REG312142",
+    "student_name": "Priya Sharma",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Master of Business Administration in Data Analytics",
+    "certificate_number": "NIHS-20230012",
+    "registration_number": "REG584030",
     "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 8.26)",
-    "authority": "Academic Provost"
+    "grade": "Grade A+ (CGPA: 9.22)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00012.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00012_mask.png"

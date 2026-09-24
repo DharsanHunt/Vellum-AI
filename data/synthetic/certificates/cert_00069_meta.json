@@ -7,13 +7,13 @@
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
     "student_name": "Meera Iyer",
-    "institution": "National Institute of Higher Studies",
-    "degree": "Master of Science in Artificial Intelligence",
-    "certificate_number": "NIHS-20230069",
-    "registration_number": "REG793767",
+    "institution": "Global Institute of Science & Engineering",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "GISE-20230069",
+    "registration_number": "REG671921",
     "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 8.41)",
-    "authority": "Director of Certification"
+    "grade": "First Class Honours (CGPA: 8.78)",
+    "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00069.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00069_mask.png"

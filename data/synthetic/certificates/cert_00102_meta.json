@@ -6,13 +6,13 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Arun Kumar",
+    "student_name": "Deepika Joshi",
     "institution": "Global Institute of Science & Engineering",
-    "degree": "Master of Science in Artificial Intelligence",
+    "degree": "Bachelor of Science in Information Technology",
     "certificate_number": "GISE-20230102",
-    "registration_number": "REG741530",
-    "issue_date": "15th July 2022",
-    "grade": "First Class with Distinction (CGPA: 9.18)",
+    "registration_number": "REG752422",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.88)",
     "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00102.png",

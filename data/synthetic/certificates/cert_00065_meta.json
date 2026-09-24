@@ -11,13 +11,13 @@
   ],
   "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
   "entities": {
-    "student_name": "Arun Kumar",
+    "student_name": "Sneha Patel",
     "institution": "Metropolitan University of Computing",
-    "degree": "Bachelor of Technology in Computer Science",
+    "degree": "Master of Business Administration in Data Analytics",
     "certificate_number": "MUC-20230065",
-    "registration_number": "REG100481",
-    "issue_date": "15th July 2024",
-    "grade": "First Class with Distinction (CGPA: 8.29)",
+    "registration_number": "REG903453",
+    "issue_date": "15th July 2021",
+    "grade": "First Class with Distinction (CGPA: 9.19)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00065.png",

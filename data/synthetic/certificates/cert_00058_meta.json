@@ -1,23 +1,23 @@
 {
   "id": "cert_00058",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "removed_signature",
+  "tampering_type": "copy_paste_region",
   "is_tampered": true,
   "tamper_bbox": [
-    650,
-    470,
-    850,
-    525
+    75,
+    455,
+    300,
+    485
   ],
-  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
   "entities": {
-    "student_name": "Vikram Malhotra",
+    "student_name": "Nikhil Nair",
     "institution": "Global Institute of Science & Engineering",
-    "degree": "Master of Science in Artificial Intelligence",
+    "degree": "Bachelor of Technology in Computer Science",
     "certificate_number": "GISE-20230058",
-    "registration_number": "REG506892",
+    "registration_number": "REG530940",
     "issue_date": "15th July 2022",
-    "grade": "First Class Honours (CGPA: 9.29)",
+    "grade": "First Class Honours (CGPA: 8.68)",
     "authority": "Registrar & Controller of Examinations"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00058.png",

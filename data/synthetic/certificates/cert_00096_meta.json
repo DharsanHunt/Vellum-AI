@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Global Institute of Science & Engineering",
-    "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "GISE-20230096",
-    "registration_number": "REG231294",
+    "student_name": "Meera Iyer",
+    "institution": "Metropolitan University of Computing",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "MUC-20230096",
+    "registration_number": "REG946272",
     "issue_date": "15th July 2023",
-    "grade": "First Class with Distinction (CGPA: 9.22)",
-    "authority": "Registrar & Controller of Examinations"
+    "grade": "Grade A+ (CGPA: 9.38)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00096.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00096_mask.png"

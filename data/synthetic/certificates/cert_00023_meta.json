@@ -1,23 +1,23 @@
 {
   "id": "cert_00023",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_date",
+  "tampering_type": "changed_course",
   "is_tampered": true,
   "tamper_bbox": [
-    75,
-    485,
-    320,
-    515
+    300,
+    295,
+    700,
+    335
   ],
-  "tamper_explanation": "Date of issue modification detected near timestamp field: '29th February 2026'",
+  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
   "entities": {
-    "student_name": "Priya Sharma",
+    "student_name": "Arun Kumar",
     "institution": "Apex University of Technology",
-    "degree": "Master of Science in Artificial Intelligence",
+    "degree": "Doctor of Philosophy in Quantum Engineering",
     "certificate_number": "AUST-20230023",
-    "registration_number": "REG195126",
-    "issue_date": "29th February 2026",
-    "grade": "First Class Honours (CGPA: 9.09)",
+    "registration_number": "REG598960",
+    "issue_date": "15th July 2024",
+    "grade": "First Class with Distinction (CGPA: 8.69)",
     "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00023.png",

@@ -6,13 +6,13 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Nikhil Nair",
+    "student_name": "Aditya Verma",
     "institution": "Metropolitan University of Computing",
-    "degree": "Bachelor of Technology in Computer Science",
+    "degree": "Master of Business Administration in Data Analytics",
     "certificate_number": "MUC-20230066",
-    "registration_number": "REG143815",
+    "registration_number": "REG324670",
     "issue_date": "15th July 2023",
-    "grade": "First Class Honours (CGPA: 8.4)",
+    "grade": "First Class with Distinction (CGPA: 8.89)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00066.png",

@@ -1,23 +1,23 @@
 {
   "id": "lor_00094",
   "status": "CONFLICT",
-  "issue": "institution_mismatch",
-  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'Pacific Coast University'.",
+  "issue": "designation_mismatch",
+  "issue_description": "Recommender claims tenure as Department Chair but letter signature denotes student peer tutor.",
   "is_valid": false,
   "entities": {
-    "student_name": "Rahul Deshmukh",
-    "recommender": "Dr. Rajeshwar Rao",
-    "designation": "Senior Research Director",
-    "institution": "Fake Stanford Affiliate College of Technology",
+    "student_name": "Arun Kumar",
+    "recommender": "Dr. K. V. Ramanathan",
+    "designation": "Undergraduate Peer Tutor & Lab Assistant",
+    "institution": "Pacific Coast University",
     "relationship": "Thesis Advisor & Course Instructor",
-    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
-      "Computer Vision",
-      "OpenCV",
-      "TensorFlow",
-      "Edge AI"
+      "Python",
+      "PyTorch",
+      "Distributed Systems",
+      "Kubernetes"
     ],
-    "dates_taught": "2019-2023"
+    "dates_taught": "2020-2024"
   },
-  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Rahul Deshmukh, who I have mentored as Thesis Advisor & Course Instructor during their study period (2019-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Rahul Deshmukh demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Rahul Deshmukh displays genuine leadership, integrity, and proactive collaboration. I rank Rahul Deshmukh among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nFake Stanford Affiliate College of Technology\nEmail: .rajeshwar.rao@fakestanfo.edu"
+  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nUndergraduate Peer Tutor & Lab Assistant\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
 }

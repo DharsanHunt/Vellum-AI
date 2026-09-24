@@ -1,23 +1,23 @@
 {
   "id": "lor_00118",
   "status": "CONFLICT",
-  "issue": "relationship_mismatch",
-  "issue_description": "Recommender relationship is non-academic/personal rather than verified academic supervisor.",
+  "issue": "institution_mismatch",
+  "issue_description": "Recommender institution 'Fake Stanford Affiliate College of Technology' contradicts university records for 'National Institute of Higher Studies'.",
   "is_valid": false,
   "entities": {
-    "student_name": "Sneha Patel",
-    "recommender": "Dr. K. V. Ramanathan",
-    "designation": "Dean of Academic Research",
-    "institution": "Pacific Coast University",
-    "relationship": "Personal Family Friend and Distant Relative",
-    "project": "Privacy-Preserving Federated Learning on Edge Devices",
+    "student_name": "Aditya Verma",
+    "recommender": "Dr. Meenakshi Sundaram",
+    "designation": "Associate Professor",
+    "institution": "Fake Stanford Affiliate College of Technology",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
-      "Python",
-      "PyTorch",
-      "Distributed Systems",
-      "Kubernetes"
+      "C++",
+      "CUDA",
+      "Embedded Robotics",
+      "ROS2"
     ],
-    "dates_taught": "2020-2024"
+    "dates_taught": "2021-2023"
   },
-  "text": "DEPARTMENT OF ELECTRICAL & COMPUTER SYSTEMS\nPACIFIC COAST UNIVERSITY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Sneha Patel, who I have mentored as Personal Family Friend and Distant Relative during their study period (2020-2024) at Pacific Coast University.\n\nDuring this tenure, Sneha Patel demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Privacy-Preserving Federated Learning on Edge Devices', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Sneha Patel displays genuine leadership, integrity, and proactive collaboration. I rank Sneha Patel among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. K. V. Ramanathan\nDean of Academic Research\nElectrical & Computer Systems\nPacific Coast University\nEmail: .k..v..ramanathan@pacificcoa.edu"
+  "text": "DEPARTMENT OF INFORMATION SCIENCE\nFAKE STANFORD AFFILIATE COLLEGE OF TECHNOLOGY\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Thesis Advisor & Course Instructor during their study period (2021-2023) at Fake Stanford Affiliate College of Technology.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in C++, CUDA, Embedded Robotics, ROS2. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Meenakshi Sundaram\nAssociate Professor\nInformation Science\nFake Stanford Affiliate College of Technology\nEmail: .meenakshi.sundaram@fakestanfo.edu"
 }

@@ -1,23 +1,23 @@
 {
   "id": "lor_00037",
   "status": "CONFLICT",
-  "issue": "relationship_mismatch",
-  "issue_description": "Recommender relationship is non-academic/personal rather than verified academic supervisor.",
+  "issue": "date_mismatch",
+  "issue_description": "Dates of association (2012-2015) completely predate student's actual enrollment (2020-2024).",
   "is_valid": false,
   "entities": {
-    "student_name": "Aditya Verma",
-    "recommender": "Dr. Rajeshwar Rao",
-    "designation": "Senior Research Director",
-    "institution": "National Institute of Higher Studies",
-    "relationship": "Personal Family Friend and Distant Relative",
-    "project": "Distributed Consensus in Fault-Tolerant Blockchain Networks",
+    "student_name": "Arun Kumar",
+    "recommender": "Prof. Elena Rostova",
+    "designation": "Distinguished Professor",
+    "institution": "Metropolitan University of Computing",
+    "relationship": "Thesis Advisor & Course Instructor",
+    "project": "High-Throughput Microservice Architecture for Cloud Streaming",
     "skills": [
-      "Python",
-      "PyTorch",
-      "Distributed Systems",
-      "Kubernetes"
+      "Computer Vision",
+      "OpenCV",
+      "TensorFlow",
+      "Edge AI"
     ],
-    "dates_taught": "2021-2023"
+    "dates_taught": "2012-2015"
   },
-  "text": "DEPARTMENT OF ARTIFICIAL INTELLIGENCE LAB\nNATIONAL INSTITUTE OF HIGHER STUDIES\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Aditya Verma, who I have mentored as Personal Family Friend and Distant Relative during their study period (2021-2023) at National Institute of Higher Studies.\n\nDuring this tenure, Aditya Verma demonstrated exceptional mastery in Python, PyTorch, Distributed Systems, Kubernetes. In our research laboratory, they led the pivotal development of 'Distributed Consensus in Fault-Tolerant Blockchain Networks', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Aditya Verma displays genuine leadership, integrity, and proactive collaboration. I rank Aditya Verma among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nDr. Rajeshwar Rao\nSenior Research Director\nArtificial Intelligence Lab\nNational Institute of Higher Studies\nEmail: .rajeshwar.rao@nationalin.edu"
+  "text": "DEPARTMENT OF ROBOTICS & AUTOMATION\nMETROPOLITAN UNIVERSITY OF COMPUTING\nDate: October 24, 2024\n\nTo the Graduate Admissions Committee,\n\nI am writing to offer my enthusiastic recommendation for Arun Kumar, who I have mentored as Thesis Advisor & Course Instructor during their study period (2012-2015) at Metropolitan University of Computing.\n\nDuring this tenure, Arun Kumar demonstrated exceptional mastery in Computer Vision, OpenCV, TensorFlow, Edge AI. In our research laboratory, they led the pivotal development of 'High-Throughput Microservice Architecture for Cloud Streaming', exhibiting remarkable technical intuition, rigorous experimental discipline, and intellectual maturity. Additionally, the candidate maintained an exemplary academic record with a GPA of 9.4 / 10.0.\n\nBeyond technical competence, Arun Kumar displays genuine leadership, integrity, and proactive collaboration. I rank Arun Kumar among the top 1% of researchers I have supervised. I strongly recommend them for admission and financial fellowship without reservation.\n\nWarm regards,\n\nProf. Elena Rostova\nDistinguished Professor\nRobotics & Automation\nMetropolitan University of Computing\nEmail: prof..elena.rostova@metropolit.edu"
 }

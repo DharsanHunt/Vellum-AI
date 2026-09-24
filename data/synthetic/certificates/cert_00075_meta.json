@@ -6,14 +6,14 @@
   "tamper_bbox": null,
   "tamper_explanation": "Pristine Authentic Document",
   "entities": {
-    "student_name": "Ananya Sundaram",
-    "institution": "Stanford Tech Research Institute",
-    "degree": "Master of Business Administration in Data Analytics",
-    "certificate_number": "STRI-20230075",
-    "registration_number": "REG588047",
-    "issue_date": "15th July 2023",
-    "grade": "First Class Honours (CGPA: 8.91)",
-    "authority": "Academic Provost"
+    "student_name": "Kavita Reddy",
+    "institution": "National Institute of Higher Studies",
+    "degree": "Bachelor of Technology in Computer Science",
+    "certificate_number": "NIHS-20230075",
+    "registration_number": "REG655152",
+    "issue_date": "15th July 2021",
+    "grade": "Grade A+ (CGPA: 8.81)",
+    "authority": "Director of Certification"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00075.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00075_mask.png"

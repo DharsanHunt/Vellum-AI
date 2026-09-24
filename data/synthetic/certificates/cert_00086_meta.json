@@ -1,23 +1,23 @@
 {
   "id": "cert_00086",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_course",
+  "tampering_type": "removed_signature",
   "is_tampered": true,
   "tamper_bbox": [
-    300,
-    295,
-    700,
-    335
+    650,
+    470,
+    850,
+    525
   ],
-  "tamper_explanation": "Curriculum / Degree title modification detected: 'Doctor of Philosophy in Quantum Engineering'",
+  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
   "entities": {
-    "student_name": "Deepika Joshi",
+    "student_name": "Meera Iyer",
     "institution": "Metropolitan University of Computing",
-    "degree": "Doctor of Philosophy in Quantum Engineering",
+    "degree": "Bachelor of Engineering in Electronics",
     "certificate_number": "MUC-20230086",
-    "registration_number": "REG777658",
+    "registration_number": "REG510939",
     "issue_date": "15th July 2023",
-    "grade": "First Class Honours (CGPA: 8.33)",
+    "grade": "Grade A+ (CGPA: 8.96)",
     "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00086.png",

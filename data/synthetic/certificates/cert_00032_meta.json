@@ -1,24 +1,24 @@
 {
   "id": "cert_00032",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_name",
+  "tampering_type": "changed_institution",
   "is_tampered": true,
   "tamper_bbox": [
-    345,
-    195,
-    655,
-    235
+    250,
+    60,
+    750,
+    105
   ],
-  "tamper_explanation": "Potential name alteration detected: replaced 'Meera Iyer' with 'Pooja Sharma'",
+  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
   "entities": {
-    "student_name": "Pooja Sharma",
-    "institution": "National Institute of Higher Studies",
+    "student_name": "Rohan Gupta",
+    "institution": "Counterfeit Polytechnic Institute",
     "degree": "Bachelor of Engineering in Electronics",
-    "certificate_number": "NIHS-20230032",
-    "registration_number": "REG642465",
-    "issue_date": "15th July 2023",
-    "grade": "Grade A+ (CGPA: 8.8)",
-    "authority": "Director of Certification"
+    "certificate_number": "MUC-20230032",
+    "registration_number": "REG679223",
+    "issue_date": "15th July 2022",
+    "grade": "First Class Honours (CGPA: 9.45)",
+    "authority": "Vice Chancellor"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00032.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00032_mask.png"

@@ -1,24 +1,24 @@
 {
   "id": "cert_00125",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "removed_signature",
+  "tampering_type": "changed_name",
   "is_tampered": true,
   "tamper_bbox": [
-    650,
-    470,
-    850,
-    525
+    345,
+    195,
+    655,
+    235
   ],
-  "tamper_explanation": "Signature anomaly detected: erased or missing institutional authority signature",
+  "tamper_explanation": "Potential name alteration detected: replaced 'Kavita Reddy' with 'Pooja Sharma'",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Global Institute of Science & Engineering",
+    "student_name": "Pooja Sharma",
+    "institution": "Apex University of Technology",
     "degree": "Bachelor of Science in Information Technology",
-    "certificate_number": "GISE-20230125",
-    "registration_number": "REG159795",
-    "issue_date": "15th July 2024",
-    "grade": "First Class Honours (CGPA: 9.43)",
-    "authority": "Registrar & Controller of Examinations"
+    "certificate_number": "AUST-20230125",
+    "registration_number": "REG137444",
+    "issue_date": "15th July 2022",
+    "grade": "Grade A+ (CGPA: 9.28)",
+    "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00125.png",
   "mask_path": "data\\synthetic\\certificates\\cert_00125_mask.png"

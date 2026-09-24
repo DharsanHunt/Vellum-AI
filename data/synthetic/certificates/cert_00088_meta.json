@@ -1,23 +1,23 @@
 {
   "id": "cert_00088",
   "document_type": "ACADEMIC_CERTIFICATE",
-  "tampering_type": "changed_institution",
+  "tampering_type": "copy_paste_region",
   "is_tampered": true,
   "tamper_bbox": [
-    250,
-    60,
-    750,
-    105
+    75,
+    455,
+    300,
+    485
   ],
-  "tamper_explanation": "Header institution banner alteration detected: 'Counterfeit Polytechnic Institute'",
+  "tamper_explanation": "Copy-move splicing artifact detected in identity registration region",
   "entities": {
-    "student_name": "Priya Sharma",
-    "institution": "Counterfeit Polytechnic Institute",
-    "degree": "Master of Science in Artificial Intelligence",
+    "student_name": "Arun Kumar",
+    "institution": "Apex University of Technology",
+    "degree": "Bachelor of Technology in Computer Science",
     "certificate_number": "AUST-20230088",
-    "registration_number": "REG875297",
+    "registration_number": "REG568120",
     "issue_date": "15th July 2024",
-    "grade": "Grade A+ (CGPA: 8.4)",
+    "grade": "First Class Honours (CGPA: 8.85)",
     "authority": "Dean of Academic Affairs"
   },
   "image_path": "data\\synthetic\\certificates\\cert_00088.png",
