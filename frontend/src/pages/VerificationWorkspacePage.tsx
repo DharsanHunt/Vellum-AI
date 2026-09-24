@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronLeft, ChevronRight, CheckCircle2 } from 'lucide-react';
+import { ChevronLeft, ChevronRight, CheckCircle2, GraduationCap, FileSpreadsheet, FileText, Contact, Scroll, Award, AlertTriangle } from 'lucide-react';
 import { Dossier, Verdict } from '../types';
 import { DocumentCanvas } from '../features/workspace/DocumentCanvas';
 import { EvidencePanel } from '../features/workspace/EvidencePanel';
@@ -72,6 +72,24 @@ export const VerificationWorkspacePage: React.FC<VerificationWorkspacePageProps>
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [currentIndex, currentDossier.id, dossiers, onRecordDecision, onSelectDossier]);
 
+  const getDocIcon = (type: string) => {
+    switch (type) {
+      case 'Official Academic Transcript':
+        return <FileSpreadsheet className="h-3.5 w-3.5" />;
+      case 'Letter of Recommendation (LOR)':
+        return <FileText className="h-3.5 w-3.5" />;
+      case 'Identity Verification & Student Passport':
+        return <Contact className="h-3.5 w-3.5" />;
+      case 'Enrollment & Candidacy Verification':
+        return <Scroll className="h-3.5 w-3.5" />;
+      case 'Research Fellowship Award':
+        return <Award className="h-3.5 w-3.5" />;
+      case 'Academic Degree Certificate':
+      default:
+        return <GraduationCap className="h-3.5 w-3.5" />;
+    }
+  };
+
   return (
     <div className="space-y-6">
       {/* Top Dossier Context Bar */}
@@ -86,7 +104,7 @@ export const VerificationWorkspacePage: React.FC<VerificationWorkspacePageProps>
             >
               {dossiers.map((d) => (
                 <option key={d.id} value={d.id}>
-                  {d.caseNumber} &mdash; {d.candidateName}
+                  {d.caseNumber} &mdash; {d.candidateName} ({d.documentType})
                 </option>
               ))}
             </select>
@@ -137,6 +155,41 @@ export const VerificationWorkspacePage: React.FC<VerificationWorkspacePageProps>
             </button>
           </div>
         </div>
+      </div>
+
+      {/* Document Quick Switcher Tabs Bar */}
+      <div className="flex items-center gap-2 overflow-x-auto pb-1">
+        <span className="text-xs font-semibold text-zinc-400 whitespace-nowrap mr-1">Switch Document:</span>
+        {dossiers.map((d) => {
+          const isSelected = d.id === currentDossier.id;
+          const hasTampering = d.suspiciousBboxes.length > 0;
+          return (
+            <button
+              key={d.id}
+              onClick={() => onSelectDossier(d.id)}
+              className={`flex items-center gap-2 px-3.5 py-2 rounded-xl text-xs font-medium transition-all cursor-pointer select-none whitespace-nowrap shadow-xs ${
+                isSelected
+                  ? 'bg-zinc-900 text-white font-semibold shadow-sm ring-2 ring-zinc-900 ring-offset-1'
+                  : 'bg-white text-zinc-700 hover:bg-zinc-100/90 border border-zinc-200/90'
+              }`}
+            >
+              <span className={isSelected ? 'text-amber-400' : 'text-zinc-500'}>
+                {getDocIcon(d.documentType)}
+              </span>
+              <span>{d.candidateName}</span>
+              <span className={`text-[10px] px-1.5 py-0.2 rounded-md ${
+                isSelected 
+                  ? 'bg-zinc-800 text-zinc-300' 
+                  : 'bg-zinc-100 text-zinc-500'
+              }`}>
+                {d.documentType.split(' ')[0]}
+              </span>
+              {hasTampering && (
+                <span className="flex h-2 w-2 rounded-full bg-rose-500 animate-pulse" title="Tampering Flagged" />
+              )}
+            </button>
+          );
+        })}
       </div>
 
       {/* Main Spacious Split Viewport */}

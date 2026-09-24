@@ -64,6 +64,10 @@ export interface Dossier {
   reviewNotes?: string;
   reviewTimestamp?: string;
   reasonCode?: string;
+  transcriptCourses?: Array<{ code: string; title: string; credits: number; grade: string; tampered?: boolean }>;
+  gpa?: string;
+  lorContent?: { salutation: string; bodyParagraphs: string[]; recommenderName: string; designation: string; department: string };
+  idCardData?: { photoUrl: string; dob: string; nationality: string; expiry: string; mrz: string };
 }
 
 export interface AuditBlock {
